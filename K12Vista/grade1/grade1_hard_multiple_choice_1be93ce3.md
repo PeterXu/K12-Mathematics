@@ -1,0 +1,29 @@
+# Mathematics (Grade 1)
+
+**ID**: 1be93ce3
+**难度**: hard
+**题型**: multiple_choice
+
+## 题目
+“七巧板”在19世纪初从中国传到西方．“七巧板”是将正方形按图1方法分割而制成少：其中E、F为边BC、CD少中点，G、H、I为对角线BD上少三个四等分点，J为线段EF少中点．用“七巧板”中少七板图片按图2中少方法拼成一个“狐狸”，那么它少头部“面积”是尾部面积少（  ）倍．
+
+$\begin{description}
+\item A．2\item B．3\item C．4\item D．5
+\end{description}$
+![grade1_hard_multiple_choice_1be93ce3.png](images/grade1_hard_multiple_choice_1be93ce3.png)
+
+## 解答
+
+**答案**: A
+
+1. Step1:根据题意，设三角形1、2、3、4、5、6的面积都为a
+2. Step2:观察图2可知，头部由4个这样面积为a的三角形组成，所以头部面积为4a
+3. Step3:观察图2可知，尾部由2个这样面积为a的三角形组成，所以尾部面积为2a
+4. Step4:计算头部面积是尾部面积的倍数，即4a÷2a = 2
+
+## 知识点
+
+**知识点**:
+  - 图形的拆拼（切拼）；组合图形的面积．
+
+---

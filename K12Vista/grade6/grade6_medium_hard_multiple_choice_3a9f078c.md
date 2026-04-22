@@ -1,0 +1,30 @@
+# Mathematics (Grade 6)
+
+**ID**: 3a9f078c
+**难度**: medium_hard
+**题型**: multiple_choice
+
+## 题目
+如图所示，正方形的边长6厘米，计算阴影部分的面积，方法正确的是（  ）
+
+$\begin{description}
+\item A．6×6-3.14×3×3\item B．6×6-3.14×6×6÷2\item C．3.14×3×3×2\item D．3×3×3.14÷4
+\end{description}$
+![grade6_medium_hard_multiple_choice_3a9f078c.png](images/grade6_medium_hard_multiple_choice_3a9f078c.png)
+
+## 解答
+
+**答案**: A
+
+1. Step1:明确阴影部分面积的计算方法为阴影部分的面积=正方形的面积-圆的面积
+2. Step2:根据正方形边长为6厘米，可得正方形面积为6×6
+3. Step3:因为圆的半径是正方形边长的一半，即6÷2 = 3厘米
+4. Step4:根据圆的面积公式S = πr²，这里π取3.14，半径r = 3厘米，所以圆的面积为3.14×3×3
+5. Step5:所以阴影部分面积为6×6 - 3.14×3×3，答案选A
+
+## 知识点
+
+**知识点**:
+  - 组合图形的面积．
+
+---

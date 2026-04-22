@@ -1,0 +1,30 @@
+# Mathematics (Grade 6)
+
+**ID**: b42179b2
+**难度**: medium
+**题型**: multiple_choice
+
+## 题目
+下图中两个平行四边形的面积相等，比较甲、乙两个三角形的面积，结果怎么样？（    ）
+
+$\begin{description}
+\item A．甲＞乙\item B．甲＝乙\item C．甲＜乙
+\end{description}$
+
+![grade6_medium_multiple_choice_b42179b2.png](images/grade6_medium_multiple_choice_b42179b2.png)
+
+## 解答
+
+**答案**: B
+
+1. Step1:根据平行四边形面积公式S = 底×高，因为两个平行四边形面积相等，设它们的底分别为a1、a2，高分别为h1、h2，则a1×h1 = a2×h2。
+2. Step2:观察图形可知，甲三角形的底就是所在平行四边形的底，高就是所在平行四边形的高，那么甲三角形面积S甲 = 底×高÷2，即S甲 = a1×h1÷2。
+3. Step3:同理，乙三角形的底就是所在平行四边形的底，高就是所在平行四边形的高，那么乙三角形面积S乙 = 底×高÷2，即S乙 = a2×h2÷2。
+4. Step4:由于a1×h1 = a2×h2，所以a1×h1÷2 = a2×h2÷2，即S甲 = S乙。
+
+## 知识点
+
+**知识点**:
+  - 
+
+---

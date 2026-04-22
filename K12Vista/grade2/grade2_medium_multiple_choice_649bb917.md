@@ -1,0 +1,35 @@
+# Mathematics (Grade 2)
+
+**ID**: 649bb917
+**难度**: medium
+**题型**: multiple_choice
+
+## 题目
+下面这些汽车标志中，有(    )个不是轴对称图形。
+
+$\begin{description}
+\item A．2\item B．3\item C．4\item D．5
+\end{description}$
+
+![grade2_medium_multiple_choice_649bb917.png](images/grade2_medium_multiple_choice_649bb917.png)
+
+## 解答
+
+**答案**: B
+
+1. Step1:明确轴对称图形的定义，即沿一条直线折叠后直线两旁的部分能够完全重合的图形。
+2. Step2:依次观察第一个汽车标志，判断其为轴对称图形。
+3. Step3:观察第二个汽车标志，判断其不是轴对称图形。
+4. Step4:观察第三个汽车标志，判断其为轴对称图形。
+5. Step5:观察第四个汽车标志，判断其不是轴对称图形。
+6. Step6:观察第五个汽车标志，判断其为轴对称图形。
+7. Step7:观察第六个汽车标志，判断其不是轴对称图形。
+8. Step8:观察第七个汽车标志，判断其为轴对称图形。
+9. Step9:统计不是轴对称图形的个数为3个。
+
+## 知识点
+
+**知识点**:
+  - 
+
+---

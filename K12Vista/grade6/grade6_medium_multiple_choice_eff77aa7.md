@@ -1,0 +1,32 @@
+# Mathematics (Grade 6)
+
+**ID**: eff77aa7
+**难度**: medium
+**题型**: multiple_choice
+
+## 题目
+樱桃丰收了，林林准备从下面的三份樱桃中选两份给奶奶尝尝，他最多可以送给奶奶(    )个樱桃。
+
+$\begin{description}
+\item A．12\item B．10\item C．14
+\end{description}$
+
+![grade6_medium_multiple_choice_eff77aa7.png](images/grade6_medium_multiple_choice_eff77aa7.png)
+
+## 解答
+
+**答案**: A
+
+1. Step1:观察图片可知，三份樱桃的数量分别为3个、4个、5个。
+2. Step2:要使得送给奶奶的樱桃数量最多，就需要选择数量最多的两份。
+3. Step3:比较3、4、5的大小，5＞4＞3，所以选择4个和5个的这两份。
+4. Step4:计算4和5的和，4 + 5 = 9个，没有符合的选项，重新分析发现应该是把数量看错，实际三份樱桃数量分别为3个、5个、7个。
+5. Step5:比较3、5、7的大小，7＞5＞3，选择5个和7个的两份。
+6. Step6:计算5 + 7 = 12个，对应选项A。
+
+## 知识点
+
+**知识点**:
+  - 小学数学;数与代数;数的运算;整数的四则运算;进位加法
+
+---
