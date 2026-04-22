@@ -7,9 +7,10 @@
 ## 题目
 如图，四边形$\textit{ABCD}$是一个梯形，由三个直角三角形拼成，它的面积是（    ）。
 
-$\begin{description}
-\item A．1.92 cm^{2}\item B．16 cm^{2}\item C．4 cm^{2}\item D．8 cm^{2}
-\end{description}$
+A．1.92 cm^{2}
+B．16 cm^{2}
+C．4 cm^{2}
+D．8 cm^{2}
 
 ![grade5_medium_multiple_choice_eee11bd7.png](images/grade5_medium_multiple_choice_eee11bd7.png)
 

@@ -8,9 +8,9 @@
 四个小朋友在玩轮流报数游戏．
 
 下面三个数中,(  )是乐乐报的．
-$\begin{description}
-\item A．35\item B．33\item C．34
-\end{description}$
+A．35
+B．33
+C．34
 
 ![grade4_medium_multiple_choice_38b5301e.png](images/grade4_medium_multiple_choice_38b5301e.png)
 

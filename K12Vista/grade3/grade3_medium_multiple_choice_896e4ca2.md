@@ -7,9 +7,9 @@
 ## 题目
 下图中，∠2＝（    ）
 
-$\begin{description}
-\item A．60°\item B．120°\item C．150°
-\end{description}$
+A．60°
+B．120°
+C．150°
 
 ![grade3_medium_multiple_choice_896e4ca2.png](images/grade3_medium_multiple_choice_896e4ca2.png)
 

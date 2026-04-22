@@ -7,9 +7,9 @@
 ## 题目
 如下图:在一组平行线间画了下面的图形，甲乙的面积相比(     ) 
 
-$\begin{description}
-\item A．甲>乙\item B．甲<乙\item C．甲=乙
-\end{description}$
+A．甲>乙
+B．甲<乙
+C．甲=乙
 
 ![grade6_medium_multiple_choice_791b5ff9.png](images/grade6_medium_multiple_choice_791b5ff9.png)
 

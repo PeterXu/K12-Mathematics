@@ -7,9 +7,10 @@
 ## 题目
 如图竖式所列，（ ）里面的数分别表示什么？下列说法正确的是（ ）
 
-$\begin{description}
-\item A．分别表示3个0.1和15个1\item B．分别表示3个1和15个0.1\item C．分别表示3个0.1和15个0.1\item D．分别表示3个0.1和15个0.01
-\end{description}$
+A．分别表示3个0.1和15个1
+B．分别表示3个1和15个0.1
+C．分别表示3个0.1和15个0.1
+D．分别表示3个0.1和15个0.01
 
 ![grade4_medium_multiple_choice_a1f477ca.png](images/grade4_medium_multiple_choice_a1f477ca.png)
 

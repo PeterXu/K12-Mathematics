@@ -7,9 +7,9 @@
 ## 题目
 如图梯形中，阴影部分甲与乙大小关系是（  ）
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＜乙\item C．甲=乙
-\end{description}$
+A．甲＞乙
+B．甲＜乙
+C．甲=乙
 ![grade6_hard_multiple_choice_ba468ed5.png](images/grade6_hard_multiple_choice_ba468ed5.png)
 
 ## 解答

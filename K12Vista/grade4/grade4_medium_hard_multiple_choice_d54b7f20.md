@@ -7,9 +7,10 @@
 ## 题目
 下图中有（    ）个梯形。 
 
-$\begin{description}
-\item A.2\item B.3\item C.4\item D.5
-\end{description}$
+A.2
+B.3
+C.4
+D.5
 ![grade4_medium_hard_multiple_choice_d54b7f20.png](images/grade4_medium_hard_multiple_choice_d54b7f20.png)
 
 ## 解答

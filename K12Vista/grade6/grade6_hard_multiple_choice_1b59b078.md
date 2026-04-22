@@ -8,9 +8,10 @@
 为庆祝“六一”儿童节，某幼儿阅举行用火桨棒摆“金鱼”比赛，如图所示：
 
 按照以上的规律，摆n个“金鱼”需要火柴棒的根数为（  ）
-$\begin{description}
-\item A．2+6n\item B．8+6n\item C．4+4n\item D．8n
-\end{description}$
+A．2+6n
+B．8+6n
+C．4+4n
+D．8n
 ![grade6_hard_multiple_choice_1b59b078.png](images/grade6_hard_multiple_choice_1b59b078.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 一杯水连杯重380克，半杯水连杯重280克，一个空杯重多少克？（  ）
 
-$\begin{description}
-\item A．100克\item B．180克\item C．280克
-\end{description}$
+A．100克
+B．180克
+C．280克
 ![grade3_medium_hard_multiple_choice_853c7345.png](images/grade3_medium_hard_multiple_choice_853c7345.png)
 
 ## 解答

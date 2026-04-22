@@ -7,9 +7,10 @@
 ## 题目
 甲、乙两个养殖户养的禽类统计图如下，两户养的鸭子数相比，(    )。
 
-$\begin{description}
-\item A．甲多\item B．乙多\item C．一样多\item D．无法确定
-\end{description}$
+A．甲多
+B．乙多
+C．一样多
+D．无法确定
 
 ![grade6_medium_multiple_choice_dbbcc5ac.png](images/grade6_medium_multiple_choice_dbbcc5ac.png)
 

@@ -6,9 +6,10 @@
 
 ## 题目
 图中的两个小圆的周长的和与大圆的周长比较，（  ）
-$\begin{description}
-\item A．一样长\item B．大圆的周长长\item C．大圆的周长短\item D．无法比较
-\end{description}$
+A．一样长
+B．大圆的周长长
+C．大圆的周长短
+D．无法比较
 ![grade6_hard_multiple_choice_9126b9bd.png](images/grade6_hard_multiple_choice_9126b9bd.png)
 
 ## 解答

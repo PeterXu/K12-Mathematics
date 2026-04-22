@@ -7,9 +7,10 @@
 ## 题目
 如图所示，每个小正方形的面积为1$\textit{cm}^{2}$，请你估计一下这个老虎图片的面积约是（ ）cm$^{2}$．
 
-$\begin{description}
-\item A．20\item B．35\item C．56\item D．81
-\end{description}$
+A．20
+B．35
+C．56
+D．81
 
 ![grade6_medium_multiple_choice_fbeff4a6.png](images/grade6_medium_multiple_choice_fbeff4a6.png)
 

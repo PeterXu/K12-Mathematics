@@ -6,9 +6,9 @@
 
 ## 题目
 “转化”是一种常用的解决问题的方法，下图把一个半圆分成若干等份，后拼成一个近似的长方形，这两个图形（  ）
-$\begin{description}
-\item A．面积相等，周长也相等\item B．面积相等，周长不相等\item C．面积不相等，周长也不相等
-\end{description}$
+A．面积相等，周长也相等
+B．面积相等，周长不相等
+C．面积不相等，周长也不相等
 ![grade6_hard_multiple_choice_65a4b1bc.png](images/grade6_hard_multiple_choice_65a4b1bc.png)
 
 ## 解答

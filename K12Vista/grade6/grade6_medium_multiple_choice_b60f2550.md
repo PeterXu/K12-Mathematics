@@ -7,9 +7,9 @@
 ## 题目
 如下图所示，巡洋舰在雷达站的（ ）处。
 
-$\begin{description}
-\item A．北偏东40°方向50km\item B．北偏西40°方向50km\item C．北偏东40°方向100km
-\end{description}$
+A．北偏东40°方向50km
+B．北偏西40°方向50km
+C．北偏东40°方向100km
 
 ![grade6_medium_multiple_choice_b60f2550.png](images/grade6_medium_multiple_choice_b60f2550.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 如图，在三张边长都是10厘米的正方形纸版上，分别剪下一个长5厘米，宽3厘米的长方形，剩下图形（  ）的周长最长．
 
-$\begin{description}
-\item A．甲\item B．乙\item C．丙
-\end{description}$
+A．甲
+B．乙
+C．丙
 ![grade6_medium_hard_multiple_choice_9b799205.png](images/grade6_medium_hard_multiple_choice_9b799205.png)
 
 ## 解答

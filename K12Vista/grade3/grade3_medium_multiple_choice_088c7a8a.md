@@ -7,9 +7,9 @@
 ## 题目
 下面的服装可以有（     ）种不同的穿法。
 
-$\begin{description}
-\item A．5\item B．6\item C．8
-\end{description}$
+A．5
+B．6
+C．8
 
 ![grade3_medium_multiple_choice_088c7a8a.png](images/grade3_medium_multiple_choice_088c7a8a.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 淘气做出来一个下图中的模型，从它的（   ）面能够看到右边的图案．
 
-$\begin{description}
-\item A．上\item B．右\item C．前
-\end{description}$
+A．上
+B．右
+C．前
 
 ![grade1_medium_multiple_choice_3e3cca9d.png](images/grade1_medium_multiple_choice_3e3cca9d.png)
 

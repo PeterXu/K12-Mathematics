@@ -7,9 +7,10 @@
 ## 题目
 如图是在平行线间的四个图形，他们的面积（  ）
 
-$\begin{description}
-\item A．角形大\item B．平行四边形大\item C．梯形大\item D．一样大
-\end{description}$
+A．角形大
+B．平行四边形大
+C．梯形大
+D．一样大
 ![grade6_medium_hard_multiple_choice_299e19f2.png](images/grade6_medium_hard_multiple_choice_299e19f2.png)
 
 ## 解答

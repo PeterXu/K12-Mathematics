@@ -7,9 +7,9 @@
 ## 题目
 用下面的钱买一个1元1角的毽子（   ）。
 
-$\begin{description}
-\item A．够\item B．不够\item C．无法确定够不够
-\end{description}$
+A．够
+B．不够
+C．无法确定够不够
 
 ![grade6_medium_multiple_choice_102fc713.png](images/grade6_medium_multiple_choice_102fc713.png)
 

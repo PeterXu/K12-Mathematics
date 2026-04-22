@@ -6,9 +6,9 @@
 
 ## 题目
 两个完全相同的长方形（如图），将图①和图②阴影部分的面积相比，（  ）
-$\begin{description}
-\item A．图①大\item B．图②大\item C．图①和图②相等
-\end{description}$
+A．图①大
+B．图②大
+C．图①和图②相等
 ![grade6_medium_hard_multiple_choice_987e867e.png](images/grade6_medium_hard_multiple_choice_987e867e.png)
 
 ## 解答

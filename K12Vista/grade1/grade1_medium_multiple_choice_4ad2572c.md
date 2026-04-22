@@ -7,9 +7,9 @@
 ## 题目
 如下图，B点到直线AC的距离是(  )。
 
-$\begin{description}
-\item A．6 cm\item B．8 cm\item C．10 cm
-\end{description}$
+A．6 cm
+B．8 cm
+C．10 cm
 
 ![grade1_medium_multiple_choice_4ad2572c.png](images/grade1_medium_multiple_choice_4ad2572c.png)
 

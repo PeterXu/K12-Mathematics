@@ -7,9 +7,10 @@
 ## 题目
 如图，张亮从A点经过()点到8点上班，徐伟从C点经过O点也到B点上班，他俩上班的路程(    )。
 
-$\begin{description}
-\item A．张亮远些\item B．徐伟远些\item C．一样远\item D．无法比较
-\end{description}$
+A．张亮远些
+B．徐伟远些
+C．一样远
+D．无法比较
 
 ![grade6_medium_multiple_choice_46f79188.png](images/grade6_medium_multiple_choice_46f79188.png)
 

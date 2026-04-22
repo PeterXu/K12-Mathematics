@@ -7,9 +7,9 @@
 ## 题目
 图中两个物体的表面积比较，结果是（  ）
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＜乙\item C．甲=乙
-\end{description}$
+A．甲＞乙
+B．甲＜乙
+C．甲=乙
 ![grade6_medium_hard_multiple_choice_da1c72d9.png](images/grade6_medium_hard_multiple_choice_da1c72d9.png)
 
 ## 解答

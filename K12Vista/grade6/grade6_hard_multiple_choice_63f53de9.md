@@ -7,9 +7,10 @@
 ## 题目
 如图是红星果园各种果树栽种情况统计图，根据图中所提供的信息，下面说法中，错误的是（  ）
 
-$\begin{description}
-\item A．苹果树棵树最多\item B．梨树棵数最少\item C．桃树与其它果树棵数同样多\item D．统计图只能反映各种果树棵数的百分比，不能确定哪种果树棵数的多和少
-\end{description}$
+A．苹果树棵树最多
+B．梨树棵数最少
+C．桃树与其它果树棵数同样多
+D．统计图只能反映各种果树棵数的百分比，不能确定哪种果树棵数的多和少
 ![grade6_hard_multiple_choice_63f53de9.png](images/grade6_hard_multiple_choice_63f53de9.png)
 
 ## 解答

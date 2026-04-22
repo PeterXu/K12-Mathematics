@@ -7,9 +7,10 @@
 ## 题目
 如图，两张长度相等的长方形重叠在一起，阴影部分的面积是（  ）
 
-$\begin{description}
-\item A．ab\item B．bc\item C．ac\item D．c^{2}
-\end{description}$
+A．ab
+B．bc
+C．ac
+D．c^{2}
 ![grade6_medium_hard_multiple_choice_c4c2baf4.png](images/grade6_medium_hard_multiple_choice_c4c2baf4.png)
 
 ## 解答

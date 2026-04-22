@@ -7,9 +7,9 @@
 ## 题目
 如下图，甲的周长与乙的周长相比，（    ）．
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＜乙\item C．甲＝乙
-\end{description}$
+A．甲＞乙
+B．甲＜乙
+C．甲＝乙
 
 ![grade6_medium_multiple_choice_50ebc767.png](images/grade6_medium_multiple_choice_50ebc767.png)
 

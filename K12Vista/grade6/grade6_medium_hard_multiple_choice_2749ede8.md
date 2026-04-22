@@ -7,9 +7,9 @@
 ## 题目
 求下图梯形的面积，列式正确的是（  ）
 
-$\begin{description}
-\item A．（10+4）×7÷2\item B．10×4÷2\item C．（10十4）×5÷2
-\end{description}$
+A．（10+4）×7÷2
+B．10×4÷2
+C．（10十4）×5÷2
 ![grade6_medium_hard_multiple_choice_2749ede8.png](images/grade6_medium_hard_multiple_choice_2749ede8.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 如下图，3号杯中的水大约重（     ）克。
 
-$\begin{description}
-\item A．30克\item B．100克\item C．60克
-\end{description}$
+A．30克
+B．100克
+C．60克
 
 ![grade3_medium_multiple_choice_c664ec5c.png](images/grade3_medium_multiple_choice_c664ec5c.png)
 

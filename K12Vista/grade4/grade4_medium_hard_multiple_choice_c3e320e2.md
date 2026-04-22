@@ -7,9 +7,10 @@
 ## 题目
 已知，如图，C、D是OA上两点，E、F是OB上两点，下列各式中，表示∠AOB错误的是（ ）
 
-$\begin{description}
-\item A．∠COE\item B．∠AOF\item C．∠DOB\item D．∠EOF
-\end{description}$
+A．∠COE
+B．∠AOF
+C．∠DOB
+D．∠EOF
 
 ![grade4_medium_hard_multiple_choice_c3e320e2.png](images/grade4_medium_hard_multiple_choice_c3e320e2.png)
 

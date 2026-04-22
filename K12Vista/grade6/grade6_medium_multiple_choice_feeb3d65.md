@@ -7,9 +7,9 @@
 ## 题目
 如图,从西村到东村有两条路,最近的一条路是(   )。
 
-$\begin{description}
-\item A．西村——北村——东村\item B．西村——南村——东村\item C．无法判断
-\end{description}$
+A．西村——北村——东村
+B．西村——南村——东村
+C．无法判断
 
 ![grade6_medium_multiple_choice_feeb3d65.png](images/grade6_medium_multiple_choice_feeb3d65.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 有51人站成一排，求明明和文文之间有多少人，下面列式正确的是(  )。
 
-$\begin{description}
-\item A．51+29+18\item B．51-18-29\item C．18+29
-\end{description}$
+A．51+29+18
+B．51-18-29
+C．18+29
 
 ![grade3_medium_multiple_choice_8a7c5a2e.png](images/grade3_medium_multiple_choice_8a7c5a2e.png)
 

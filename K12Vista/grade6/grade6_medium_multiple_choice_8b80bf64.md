@@ -7,9 +7,9 @@
 ## 题目
 下面的材料中，（   ）能做成圆柱。
 
-$\begin{description}
-\item A．①②③\item B．①④⑤\item C．①②④
-\end{description}$
+A．①②③
+B．①④⑤
+C．①②④
 
 ![grade6_medium_multiple_choice_8b80bf64.png](images/grade6_medium_multiple_choice_8b80bf64.png)
 

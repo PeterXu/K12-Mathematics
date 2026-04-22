@@ -7,9 +7,9 @@
 ## 题目
 每年的12月2日是全国交通安全日。下列交通标志中，是轴对称图形的有(  )。
 
-$\begin{description}
-\item A．2个\item B．3个\item C．4个
-\end{description}$
+A．2个
+B．3个
+C．4个
 
 ![grade2_medium_multiple_choice_7a13cb82.png](images/grade2_medium_multiple_choice_7a13cb82.png)
 

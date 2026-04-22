@@ -7,9 +7,10 @@
 ## 题目
 按下面的方式摆正方形，摆1个正方形需要4根小棒，摆2个正方形需要7根小棒，摆20个正方形需要的小棒数是（  ）
 
-$\begin{description}
-\item A．80\item B．49\item C．58\item D．61
-\end{description}$
+A．80
+B．49
+C．58
+D．61
 ![grade6_hard_multiple_choice_1cd6daa9.png](images/grade6_hard_multiple_choice_1cd6daa9.png)
 
 ## 解答

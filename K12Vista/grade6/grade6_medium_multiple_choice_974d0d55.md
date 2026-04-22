@@ -7,9 +7,9 @@
 ## 题目
 枣庄到上海的距离是(  )。
 
-$\begin{description}
-\item A．615千米\item B．1157千米\item C．886千米
-\end{description}$
+A．615千米
+B．1157千米
+C．886千米
 
 ![grade6_medium_multiple_choice_974d0d55.png](images/grade6_medium_multiple_choice_974d0d55.png)
 

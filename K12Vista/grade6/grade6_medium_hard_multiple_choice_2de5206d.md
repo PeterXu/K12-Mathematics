@@ -6,9 +6,9 @@
 
 ## 题目
 下图中，图A和图B的周长（  ）
-$\begin{description}
-\item A．相等\item B．不相等\item C．无法确定
-\end{description}$
+A．相等
+B．不相等
+C．无法确定
 ![grade6_medium_hard_multiple_choice_2de5206d.png](images/grade6_medium_hard_multiple_choice_2de5206d.png)
 
 ## 解答

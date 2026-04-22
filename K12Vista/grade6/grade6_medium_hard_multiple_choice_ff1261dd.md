@@ -7,9 +7,10 @@
 ## 题目
 用字母表示阴影部分的面积是（  ）
 
-$\begin{description}
-\item A．ah\item B．ah+ah÷2\item C．ah÷2\item D．无法确定
-\end{description}$
+A．ah
+B．ah+ah÷2
+C．ah÷2
+D．无法确定
 ![grade6_medium_hard_multiple_choice_ff1261dd.png](images/grade6_medium_hard_multiple_choice_ff1261dd.png)
 
 ## 解答

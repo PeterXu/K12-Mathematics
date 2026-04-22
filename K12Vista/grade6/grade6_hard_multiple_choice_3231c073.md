@@ -6,9 +6,10 @@
 
 ## 题目
 把一个圆柱体沿半径和高平均切成若干份以后，重新拼插成一个近似长方体，原来圆柱体的侧面积是81.64cm$^{2}$．长方体的表面积比圆柱体增加（  ）
-$\begin{description}
-\item A．24cm^{2}\item B．26cm^{2}\item C．32cm^{2}\item D．16cm^{2}
-\end{description}$
+A．24cm^{2}
+B．26cm^{2}
+C．32cm^{2}
+D．16cm^{2}
 ![grade6_hard_multiple_choice_3231c073.png](images/grade6_hard_multiple_choice_3231c073.png)
 
 ## 解答

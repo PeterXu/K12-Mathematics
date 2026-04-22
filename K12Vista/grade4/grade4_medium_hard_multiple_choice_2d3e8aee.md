@@ -7,9 +7,10 @@
 ## 题目
 在给定的正方形点子图上，找一点$\textit{D}$（$\textit{D}$在格点上），使四边形$\textit{ABCD}$是一个梯形．那么符合条件的$\textit{D}$点的位置有（    ）．
 
-$\begin{description}
-\item A．3个\item B．4个\item C．5个\item D．6个
-\end{description}$
+A．3个
+B．4个
+C．5个
+D．6个
 
 ![grade4_medium_hard_multiple_choice_2d3e8aee.png](images/grade4_medium_hard_multiple_choice_2d3e8aee.png)
 

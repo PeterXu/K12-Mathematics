@@ -7,9 +7,9 @@
 ## 题目
 图中角1的度数是（  ）
 
-$\begin{description}
-\item A．30°\item B．140°\item C．150°
-\end{description}$
+A．30°
+B．140°
+C．150°
 ![grade6_medium_multiple_choice_49624b1f.png](images/grade6_medium_multiple_choice_49624b1f.png)
 
 ## 解答

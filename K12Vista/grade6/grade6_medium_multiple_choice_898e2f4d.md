@@ -7,9 +7,9 @@
 ## 题目
 比较下面竖式中A和B的大小（  ）。
 
-$\begin{description}
-\item A．A＞B\item B．A＜B\item C．不确定
-\end{description}$
+A．A＞B
+B．A＜B
+C．不确定
 
 ![grade6_medium_multiple_choice_898e2f4d.png](images/grade6_medium_multiple_choice_898e2f4d.png)
 

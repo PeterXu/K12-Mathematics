@@ -7,9 +7,9 @@
 ## 题目
 
 一个篮球的价格可能是（  ）。
-$\begin{description}
-\item A．25元\item B．80元\item C．55元
-\end{description}$
+A．25元
+B．80元
+C．55元
 
 ![grade1_medium_multiple_choice_3a5f4cb7.png](images/grade1_medium_multiple_choice_3a5f4cb7.png)
 

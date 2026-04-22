@@ -8,9 +8,9 @@
 买一套课桌椅要花（    ）元。 
 
  160元      是椅子价钱的4倍
-$\begin{description}
-\item A.40\item B.640\item C.800
-\end{description}$
+A.40
+B.640
+C.800
 ![grade6_medium_hard_multiple_choice_a6b1ae95.png](images/grade6_medium_hard_multiple_choice_a6b1ae95.png)
 
 ## 解答

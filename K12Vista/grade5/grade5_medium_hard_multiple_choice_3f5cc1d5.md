@@ -7,9 +7,10 @@
 ## 题目
 建湖钟庄小学有位老师的小灵通号码设置成了如图的密码：建湖是6开头，B既不是质数也不是合数，C加上1是最小的合数，D是2和3的公倍数，E是最小的质数的4倍，F是质数又是偶数，G是10以内最大的质数。你能破译出这位老师的小灵通号码是（ ）。
 
-$\begin{description}
-\item A．6183617\item B．6156817\item C．6136807\item D．6136827
-\end{description}$
+A．6183617
+B．6156817
+C．6136807
+D．6136827
 
 ![grade5_medium_hard_multiple_choice_3f5cc1d5.png](images/grade5_medium_hard_multiple_choice_3f5cc1d5.png)
 

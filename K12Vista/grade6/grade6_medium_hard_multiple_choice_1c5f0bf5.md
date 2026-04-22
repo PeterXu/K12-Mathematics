@@ -18,9 +18,9 @@ $\begin{array}{|c|c|c|}
  & ？个
  \\\hline
 \end{array}$
-$\begin{description}
-\item A．大于480\item B．小于350\item C．小于480大于350
-\end{description}$
+A．大于480
+B．小于350
+C．小于480大于350
 
 ![grade6_medium_hard_multiple_choice_1c5f0bf5.png](images/grade6_medium_hard_multiple_choice_1c5f0bf5.png)
 

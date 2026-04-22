@@ -6,9 +6,10 @@
 
 ## 题目
 如图，如果在阳光下你的影子位于你的北偏东60°方向，那么太阳相对于你的方向是（  ）
-$\begin{description}
-\item A．北偏东60°\item B．北偏东30°\item C．南偏西60°\item D．南偏西30°
-\end{description}$
+A．北偏东60°
+B．北偏东30°
+C．南偏西60°
+D．南偏西30°
 ![grade3_medium_hard_multiple_choice_d4d5cff5.png](images/grade3_medium_hard_multiple_choice_d4d5cff5.png)
 
 ## 解答

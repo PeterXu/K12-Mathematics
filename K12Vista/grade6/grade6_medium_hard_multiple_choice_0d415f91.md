@@ -7,9 +7,9 @@
 ## 题目
 如图，甲的阴影面积（  ）乙的阴影面积．
 
-$\begin{description}
-\item A．大于\item B．小于\item C．等于
-\end{description}$
+A．大于
+B．小于
+C．等于
 ![grade6_medium_hard_multiple_choice_0d415f91.png](images/grade6_medium_hard_multiple_choice_0d415f91.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 桌面上放着三个不同的物体，小明从不同的角度看其中的一个物体，看到的图形如图．那么，他看到的物体是图2中的（  ）
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 ![grade4_medium_hard_multiple_choice_6834d470.png](images/grade4_medium_hard_multiple_choice_6834d470.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 从不同的方向观察下图中左面的立体图形，右面的4个图形中不可能看到的是（   ）。
 
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．④
-\end{description}$
+A．①
+B．②
+C．③
+D．④
 
 ![grade6_medium_hard_multiple_choice_91b2445e.png](images/grade6_medium_hard_multiple_choice_91b2445e.png)
 

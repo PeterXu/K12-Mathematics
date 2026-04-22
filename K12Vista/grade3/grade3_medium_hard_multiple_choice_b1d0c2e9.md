@@ -7,9 +7,9 @@
 ## 题目
 张叔叔和他的一位同事乘坐$\textit{G}$384次列车出差，他们去时买的都是特等座，回来时买的都是一等座．他们一共花了多少钱，列式正确的是(  )．
 
-$\begin{description}
-\item A．823＋669\item B．823＋823\item C．823＋669＋823＋669
-\end{description}$
+A．823＋669
+B．823＋823
+C．823＋669＋823＋669
 
 ![grade3_medium_hard_multiple_choice_b1d0c2e9.png](images/grade3_medium_hard_multiple_choice_b1d0c2e9.png)
 

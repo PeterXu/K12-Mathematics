@@ -7,9 +7,9 @@
 ## 题目
 如图，新华书店在小红家的（  ）
 
-$\begin{description}
-\item A．西南方向\item B．东南方向\item C．东北方向
-\end{description}$
+A．西南方向
+B．东南方向
+C．东北方向
 ![grade3_medium_hard_multiple_choice_ecb1a36b.png](images/grade3_medium_hard_multiple_choice_ecb1a36b.png)
 
 ## 解答

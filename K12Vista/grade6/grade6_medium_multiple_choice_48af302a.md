@@ -7,9 +7,9 @@
 ## 题目
 小明从家到学校有两条路可走，这两条路相比（     ）
 
-$\begin{description}
-\item A．①近\item B．②近\item C．一样近
-\end{description}$
+A．①近
+B．②近
+C．一样近
 
 ![grade6_medium_multiple_choice_48af302a.png](images/grade6_medium_multiple_choice_48af302a.png)
 

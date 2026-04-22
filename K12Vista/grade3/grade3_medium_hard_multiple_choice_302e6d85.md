@@ -7,9 +7,9 @@
 ## 题目
 1只鸭子和1只鸡，谁重一些？（  ）
 
-$\begin{description}
-\item A．鸭子重\item B．鸡重\item C．一样重
-\end{description}$
+A．鸭子重
+B．鸡重
+C．一样重
 ![grade3_medium_hard_multiple_choice_302e6d85.png](images/grade3_medium_hard_multiple_choice_302e6d85.png)
 
 ## 解答

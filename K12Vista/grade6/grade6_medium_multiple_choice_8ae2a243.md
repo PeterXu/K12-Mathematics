@@ -7,9 +7,9 @@
 ## 题目
 看下图，列的方程正确的是(  )。
 
-$\begin{description}
-\item A．5x＋12＝480\item B．5x－12＝480\item C．6x＋12＝480
-\end{description}$
+A．5x＋12＝480
+B．5x－12＝480
+C．6x＋12＝480
 
 ![grade6_medium_multiple_choice_8ae2a243.png](images/grade6_medium_multiple_choice_8ae2a243.png)
 

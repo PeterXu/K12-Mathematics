@@ -7,9 +7,9 @@
 ## 题目
 数一数图中有（  ）颗樱桃。
 
-$\begin{description}
-\item A．4\item B．5\item C．6
-\end{description}$
+A．4
+B．5
+C．6
 
 ![grade6_medium_multiple_choice_c7cc9578.png](images/grade6_medium_multiple_choice_c7cc9578.png)
 

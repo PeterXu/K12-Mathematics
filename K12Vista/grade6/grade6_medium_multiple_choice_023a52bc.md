@@ -7,9 +7,9 @@
 ## 题目
 下面的图形中有（ ）个直角
 
-$\begin{description}
-\item A．1\item B．2\item C．3
-\end{description}$
+A．1
+B．2
+C．3
 
 ![grade6_medium_multiple_choice_023a52bc.png](images/grade6_medium_multiple_choice_023a52bc.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 如图所示，甲、乙两图中的两个大正方形和两个小正方形的边长分别相等，甲和乙两幅图的阴影面积相比，下列说法正确的是（  ）
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＜乙\item C．甲=乙\item D．不能判断
-\end{description}$
+A．甲＞乙
+B．甲＜乙
+C．甲=乙
+D．不能判断
 ![grade6_medium_hard_multiple_choice_32647264.png](images/grade6_medium_hard_multiple_choice_32647264.png)
 
 ## 解答

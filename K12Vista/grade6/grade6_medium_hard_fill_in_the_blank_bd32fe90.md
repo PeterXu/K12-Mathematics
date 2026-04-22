@@ -5,7 +5,7 @@
 **题型**: fill_in_the_blank
 
 ## 题目
-如图，S=S$_{1}$+S$_{2}$，求图形中矩形的宽x．（保留两位小数）
+如图，S=$S_{1}$+$S_{2}$，求图形中矩形的宽x．（保留两位小数）
 
 
 ![grade6_medium_hard_fill_in_the_blank_bd32fe90.png](images/grade6_medium_hard_fill_in_the_blank_bd32fe90.png)

@@ -6,9 +6,10 @@
 
 ## 题目
 如图，转动转盘，转盘停止转动时指针指向（  ）区域的可能性最大．
-$\begin{description}
-\item A．红色\item B．黄色\item C．蓝色\item D．红色和黄色
-\end{description}$
+A．红色
+B．黄色
+C．蓝色
+D．红色和黄色
 ![grade6_medium_hard_multiple_choice_a4ae3a58.png](images/grade6_medium_hard_multiple_choice_a4ae3a58.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 如图所示，在一个长为 6 厘米，宽为 4 厘米的长方形纸片上剪去一个边长为 2 厘米的正方形．如果剪去的正方形在右边，那么剩下的图形周长是___________厘米．
 
-$\begin{description}
-\item A．18\item B．22\item C．20\item D．24
-\end{description}$
+A．18
+B．22
+C．20
+D．24
 
 ![grade3_medium_multiple_choice_14612fec.png](images/grade3_medium_multiple_choice_14612fec.png)
 

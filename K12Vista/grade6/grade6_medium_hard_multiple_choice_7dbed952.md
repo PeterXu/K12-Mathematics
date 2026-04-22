@@ -7,9 +7,10 @@
 ## 题目
 如图：如果点X的位置表示为（2，3），则点Y的位置可以表示为（  ）
 
-$\begin{description}
-\item A．（4，4）\item B．（4，5）\item C．（5，4）\item D．（3，3）
-\end{description}$
+A．（4，4）
+B．（4，5）
+C．（5，4）
+D．（3，3）
 ![grade6_medium_hard_multiple_choice_7dbed952.png](images/grade6_medium_hard_multiple_choice_7dbed952.png)
 
 ## 解答

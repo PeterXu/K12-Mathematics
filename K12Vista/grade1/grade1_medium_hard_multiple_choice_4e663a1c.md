@@ -7,9 +7,9 @@
 ## 题目
                        
 在图中有（  ）个钝角三角形．
-$\begin{description}
-\item A．3\item B．4\item C．5
-\end{description}$
+A．3
+B．4
+C．5
 ![grade1_medium_hard_multiple_choice_4e663a1c.png](images/grade1_medium_hard_multiple_choice_4e663a1c.png)
 
 ## 解答

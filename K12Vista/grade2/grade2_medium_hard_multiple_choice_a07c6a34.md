@@ -7,9 +7,10 @@
 ## 题目
 下列扑克牌中，是轴对称图形的有（  ）
 
-$\begin{description}
-\item A．4张\item B．3张\item C．2张\item D．0张
-\end{description}$
+A．4张
+B．3张
+C．2张
+D．0张
 ![grade2_medium_hard_multiple_choice_a07c6a34.png](images/grade2_medium_hard_multiple_choice_a07c6a34.png)
 
 ## 解答

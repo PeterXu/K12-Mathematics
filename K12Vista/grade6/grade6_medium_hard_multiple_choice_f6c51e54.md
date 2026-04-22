@@ -7,9 +7,10 @@
 ## 题目
 如图所示的统计图表示斑马和长颈鹿的奔跑情况，下面的说法不符合图意的是（ ）。
 
-$\begin{description}
-\item A．长颈鹿25分钟跑了20千米\item B．斑马跑12千米用了10分钟\item C．斑马奔跑的速度比长颈鹿快\item D．长颈鹿比斑马跑得快
-\end{description}$
+A．长颈鹿25分钟跑了20千米
+B．斑马跑12千米用了10分钟
+C．斑马奔跑的速度比长颈鹿快
+D．长颈鹿比斑马跑得快
 
 ![grade6_medium_hard_multiple_choice_f6c51e54.png](images/grade6_medium_hard_multiple_choice_f6c51e54.png)
 

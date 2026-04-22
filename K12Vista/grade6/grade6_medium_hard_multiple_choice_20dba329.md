@@ -7,9 +7,10 @@
 ## 题目
 如图所示，把一根长2米、底面积是40平方厘米的圆柱形木料截成3段，表面积增加了（  ）平方厘米．
 
-$\begin{description}
-\item A．240\item B．80\item C．120\item D．160
-\end{description}$
+A．240
+B．80
+C．120
+D．160
 ![grade6_medium_hard_multiple_choice_20dba329.png](images/grade6_medium_hard_multiple_choice_20dba329.png)
 
 ## 解答

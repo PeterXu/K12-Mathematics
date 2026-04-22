@@ -7,9 +7,9 @@
 ## 题目
 把图D绕点0顺时针旋转180°，下面旋转正确的是（  ）
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 ![grade3_medium_hard_multiple_choice_79d926b3.png](images/grade3_medium_hard_multiple_choice_79d926b3.png)
 
 ## 解答

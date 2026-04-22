@@ -6,9 +6,9 @@
 
 ## 题目
 从上面看下面3个物体，哪两个物体看到的形状是相同的？（  ）
-$\begin{description}
-\item A．①和②\item B．②和③\item C．①和③
-\end{description}$
+A．①和②
+B．②和③
+C．①和③
 ![grade6_medium_hard_multiple_choice_36036b17.png](images/grade6_medium_hard_multiple_choice_36036b17.png)
 
 ## 解答

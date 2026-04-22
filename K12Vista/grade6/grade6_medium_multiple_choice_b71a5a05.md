@@ -7,9 +7,10 @@
 ## 题目
 两条平行线之间有四个图形（如图），面积关系是$2:3$的两个图形是（  ）。
 
-$\begin{description}
-\item A．三角形与长方形\item B．平行四边形与梯形\item C．梯形与长方形\item D．三角形与梯形
-\end{description}$
+A．三角形与长方形
+B．平行四边形与梯形
+C．梯形与长方形
+D．三角形与梯形
 
 ![grade6_medium_multiple_choice_b71a5a05.png](images/grade6_medium_multiple_choice_b71a5a05.png)
 

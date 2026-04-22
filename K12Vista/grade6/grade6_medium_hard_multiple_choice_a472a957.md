@@ -7,9 +7,10 @@
 ## 题目
 如图是两个面积相等的长方形，图中阴影部分的大小关系是（  ）
 
-$\begin{description}
-\item A．A=B\item B．A＞B\item C．B＞A\item D．无法判断
-\end{description}$
+A．A=B
+B．A＞B
+C．B＞A
+D．无法判断
 ![grade6_medium_hard_multiple_choice_a472a957.png](images/grade6_medium_hard_multiple_choice_a472a957.png)
 
 ## 解答

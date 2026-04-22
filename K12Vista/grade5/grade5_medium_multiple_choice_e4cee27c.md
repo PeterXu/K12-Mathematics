@@ -7,9 +7,10 @@
 ## 题目
 如图为小妍家客厅墙上贴的墙砖示意图，中间的一块墙砖用数对表示是（  ）。
 
-$\begin{description}
-\item A．（3，4）\item B．（2，5）\item C．（4，3）\item D．（5，2）
-\end{description}$
+A．（3，4）
+B．（2，5）
+C．（4，3）
+D．（5，2）
 
 ![grade5_medium_multiple_choice_e4cee27c.png](images/grade5_medium_multiple_choice_e4cee27c.png)
 

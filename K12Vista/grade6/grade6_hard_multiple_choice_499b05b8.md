@@ -7,9 +7,10 @@
 ## 题目
 用M，N，P，Q各代表四种简单几何图形（线段、等边三角形、正方形、圆）中的一种．图1-图4是由M，N，P，Q中的两种图形组合而成的（组合用“&”表示）．那么，表示P&Q的有①-④4个组合图形可供选择其中，正确的是（  ）
 
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．④
-\end{description}$
+A．①
+B．②
+C．③
+D．④
 ![grade6_hard_multiple_choice_499b05b8.png](images/grade6_hard_multiple_choice_499b05b8.png)
 
 ## 解答

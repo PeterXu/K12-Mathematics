@@ -7,9 +7,9 @@
 ## 题目
 求一共有多少个蘑菇，下面算式表示不对的是(    )。
 
-$\begin{description}
-\item A．6+9\item B．8+6\item C．7+8
-\end{description}$
+A．6+9
+B．8+6
+C．7+8
 
 ![grade3_medium_multiple_choice_44713b07.png](images/grade3_medium_multiple_choice_44713b07.png)
 

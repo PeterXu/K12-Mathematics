@@ -7,9 +7,10 @@
 ## 题目
 如图所示，从A地到达B地，最短的路线是（ ）．
 
-$\begin{description}
-\item A．A→C→E→B\item B．A→F→E→B\item C．A→D→E→B\item D．A→C→G→E→B
-\end{description}$
+A．A→C→E→B
+B．A→F→E→B
+C．A→D→E→B
+D．A→C→G→E→B
 
 ![grade6_medium_multiple_choice_105ef4a0.png](images/grade6_medium_multiple_choice_105ef4a0.png)
 

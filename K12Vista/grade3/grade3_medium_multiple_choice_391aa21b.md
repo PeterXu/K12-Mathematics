@@ -7,9 +7,9 @@
 ## 题目
 一个由大小一样的小正方体组成的立体图形，从不同的方向观察分别是
 ，这个立体图形至少是由(  )个小正方体组成的。
-$\begin{description}
-\item A．3\item B．4\item C．5
-\end{description}$
+A．3
+B．4
+C．5
 
 ![grade3_medium_multiple_choice_391aa21b.png](images/grade3_medium_multiple_choice_391aa21b.png)
 

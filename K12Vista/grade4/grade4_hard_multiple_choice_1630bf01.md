@@ -7,9 +7,10 @@
 ## 题目
 如图，利用割补法把平行四边形转化成长方形时，长方形的周长（  ）
 
-$\begin{description}
-\item A．不变\item B．变大\item C．变小\item D．无法确定
-\end{description}$
+A．不变
+B．变大
+C．变小
+D．无法确定
 ![grade4_hard_multiple_choice_1630bf01.png](images/grade4_hard_multiple_choice_1630bf01.png)
 
 ## 解答

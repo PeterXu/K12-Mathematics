@@ -7,9 +7,9 @@
 ## 题目
 观察图中的信息，可以获得不同的结论，下面的结论中，正确的是（  ）
 
-$\begin{description}
-\item A．小龙从家里出发，向北偏东60°方向走500米，就到达小雨家．\item B．小雨从家里出发向北偏西方向走500米就可以到达小龙家．\item C．小雨和小飞家的距离一定不超过100米．
-\end{description}$
+A．小龙从家里出发，向北偏东60°方向走500米，就到达小雨家．
+B．小雨从家里出发向北偏西方向走500米就可以到达小龙家．
+C．小雨和小飞家的距离一定不超过100米．
 
 ![grade3_medium_hard_multiple_choice_6d82704f.png](images/grade3_medium_hard_multiple_choice_6d82704f.png)
 

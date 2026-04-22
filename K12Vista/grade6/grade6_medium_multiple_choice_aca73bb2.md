@@ -7,9 +7,9 @@
 ## 题目
 用下面的方法可以测量出没有标出圆心的圆的直径,是因为(  )。
 
-$\begin{description}
-\item A．两端都在圆上的线段,直径是最长的一条。\item B．直径通过圆心并两端在圆上\item C．在这个圆里,直径的长度是半径的2倍
-\end{description}$
+A．两端都在圆上的线段,直径是最长的一条。
+B．直径通过圆心并两端在圆上
+C．在这个圆里,直径的长度是半径的2倍
 
 ![grade6_medium_multiple_choice_aca73bb2.png](images/grade6_medium_multiple_choice_aca73bb2.png)
 

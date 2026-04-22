@@ -7,9 +7,10 @@
 ## 题目
 如图，晚上小亮在路灯下散步，他从A处向路灯柱方向径直走到B处，这一过程中，他在该路灯灯光下的影子（   ）。
 
-$\begin{description}
-\item A．逐渐变短\item B．逐渐变长\item C．先变短后变长\item D．先变长后变短
-\end{description}$
+A．逐渐变短
+B．逐渐变长
+C．先变短后变长
+D．先变长后变短
 
 ![grade3_medium_hard_multiple_choice_6c2c10db.png](images/grade3_medium_hard_multiple_choice_6c2c10db.png)
 

@@ -6,9 +6,10 @@
 
 ## 题目
 如图，将矩形ABCD沿AE折叠，若∠BAD′=30°，则∠AED′等于（  ）
-$\begin{description}
-\item A．30°\item B．45°\item C．60°\item D．75°
-\end{description}$
+A．30°
+B．45°
+C．60°
+D．75°
 ![grade4_hard_multiple_choice_3edd776a.png](images/grade4_hard_multiple_choice_3edd776a.png)
 
 ## 解答

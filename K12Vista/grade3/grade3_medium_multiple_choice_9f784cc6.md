@@ -7,9 +7,9 @@
 ## 题目
 下面的英文字母中，是轴对称图形的有(    )个。
 
-$\begin{description}
-\item A．5\item B．4\item C．3
-\end{description}$
+A．5
+B．4
+C．3
 
 ![grade3_medium_multiple_choice_9f784cc6.png](images/grade3_medium_multiple_choice_9f784cc6.png)
 

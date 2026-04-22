@@ -7,9 +7,9 @@
 ## 题目
 观察下图，算式11－5表示的是（   ）。
 
-$\begin{description}
-\item A．●的个数\item B．●比△多的个数\item C．●比△少的个数
-\end{description}$
+A．●的个数
+B．●比△多的个数
+C．●比△少的个数
 
 ![grade6_medium_multiple_choice_47e7ef2d.png](images/grade6_medium_multiple_choice_47e7ef2d.png)
 

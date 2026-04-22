@@ -7,9 +7,9 @@
 ## 题目
 哪个最重？（   ）。
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 
 ![grade3_medium_multiple_choice_953fc213.png](images/grade3_medium_multiple_choice_953fc213.png)
 

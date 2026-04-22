@@ -7,9 +7,10 @@
 ## 题目
 小亮在计算一道加法算式时，使用了下面的方法。他计算的加法算式是(    )。
 
-$\begin{description}
-\item A．66＋37\item B．56＋37\item C．65＋73\item D．56＋47
-\end{description}$
+A．66＋37
+B．56＋37
+C．65＋73
+D．56＋47
 
 ![grade4_medium_multiple_choice_ce2916de.png](images/grade4_medium_multiple_choice_ce2916de.png)
 

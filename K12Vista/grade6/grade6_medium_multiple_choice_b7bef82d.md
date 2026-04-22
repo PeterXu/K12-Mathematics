@@ -8,9 +8,9 @@
 草莓有80个，苹果可能有多少个？（   ）
 
 草莓            苹果
-$\begin{description}
-\item A．20个\item B．65个\item C．90个
-\end{description}$
+A．20个
+B．65个
+C．90个
 
 ![grade6_medium_multiple_choice_b7bef82d.png](images/grade6_medium_multiple_choice_b7bef82d.png)
 

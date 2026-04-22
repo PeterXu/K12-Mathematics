@@ -7,9 +7,9 @@
 ## 题目
 如图，A、B两个图形周长的关系是（  ）
 
-$\begin{description}
-\item A．A的周长大\item B．B的周长大\item C．相等
-\end{description}$
+A．A的周长大
+B．B的周长大
+C．相等
 ![grade6_medium_hard_multiple_choice_ec434d19.png](images/grade6_medium_hard_multiple_choice_ec434d19.png)
 
 ## 解答

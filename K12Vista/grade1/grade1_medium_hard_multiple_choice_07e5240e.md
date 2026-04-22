@@ -8,9 +8,10 @@
 下图是一个正方形，它有（  ）
  
 
-$\begin{description}
-\item A．四组平行线四组垂线\item B．两组平行线四组垂线\item C．两组平行线六组垂线\item D．两组平行线五组垂线
-\end{description}$
+A．四组平行线四组垂线
+B．两组平行线四组垂线
+C．两组平行线六组垂线
+D．两组平行线五组垂线
 ![grade1_medium_hard_multiple_choice_07e5240e.png](images/grade1_medium_hard_multiple_choice_07e5240e.png)
 
 ## 解答

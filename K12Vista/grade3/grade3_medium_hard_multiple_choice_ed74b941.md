@@ -7,9 +7,10 @@
 ## 题目
 下面是一组同学的跳远成绩，他们的平均成绩是1.60米。增加哪两个人不会改变平均成绩。(   )
 
-$\begin{description}
-\item A．小F(1.60米)和小G(1.75米)\item B．小F(1.60米)和小H(1.50米)\item C．小T(1.45米)和小H(1.50米)\item D．小T(1.45米)和小G(1.75米)
-\end{description}$
+A．小F(1.60米)和小G(1.75米)
+B．小F(1.60米)和小H(1.50米)
+C．小T(1.45米)和小H(1.50米)
+D．小T(1.45米)和小G(1.75米)
 
 ![grade3_medium_hard_multiple_choice_ed74b941.png](images/grade3_medium_hard_multiple_choice_ed74b941.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 以猴子为参照点，松鼠在（  ）的方向上．
 
-$\begin{description}
-\item A．西偏南55°\item B．南偏西55°\item C．东偏北55°
-\end{description}$
+A．西偏南55°
+B．南偏西55°
+C．东偏北55°
 ![grade6_medium_hard_multiple_choice_6a2742ae.png](images/grade6_medium_hard_multiple_choice_6a2742ae.png)
 
 ## 解答

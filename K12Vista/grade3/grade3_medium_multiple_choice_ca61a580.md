@@ -8,9 +8,10 @@
 下面图形通过平移能重合的是（   ）和（   ）。
 
 ①          ②          ③        ④       ⑤
-$\begin{description}
-\item A．①④\item B．②③\item C．③⑤\item D．①③
-\end{description}$
+A．①④
+B．②③
+C．③⑤
+D．①③
 
 ![grade3_medium_multiple_choice_ca61a580.png](images/grade3_medium_multiple_choice_ca61a580.png)
 

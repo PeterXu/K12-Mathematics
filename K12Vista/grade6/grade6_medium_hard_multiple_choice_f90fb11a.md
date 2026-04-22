@@ -7,9 +7,9 @@
 ## 题目
 在一个长13cm，宽16cm，高24cm的长方体的一面钻掉一个棱长为5cm的正方体。如下图，它的体积是（  ） 
 
-$\begin{description}
-\item A．4867cm^{3}\item B．5117cm^{3}\item C．102694cm^{2}
-\end{description}$
+A．4867cm^{3}
+B．5117cm^{3}
+C．102694cm^{2}
 
 ![grade6_medium_hard_multiple_choice_f90fb11a.png](images/grade6_medium_hard_multiple_choice_f90fb11a.png)
 

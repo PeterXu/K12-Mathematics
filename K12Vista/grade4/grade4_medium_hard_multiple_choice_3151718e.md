@@ -7,9 +7,9 @@
 ## 题目
 如图，在一个直角三角形中，∠1=（  ） 
 
-$\begin{description}
-\item A．30\item B．40\item C．不能确定
-\end{description}$
+A．30
+B．40
+C．不能确定
 ![grade4_medium_hard_multiple_choice_3151718e.png](images/grade4_medium_hard_multiple_choice_3151718e.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 下图中三角形ABC的面积与三角形ADB的面积相比，（    ）．
 
-$\begin{description}
-\item A．三角形ABC的面积大\item B．三角形ADB的面积大\item C．两者一样大
-\end{description}$
+A．三角形ABC的面积大
+B．三角形ADB的面积大
+C．两者一样大
 
 ![grade6_medium_multiple_choice_0d15c716.png](images/grade6_medium_multiple_choice_0d15c716.png)
 

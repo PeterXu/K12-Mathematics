@@ -7,9 +7,9 @@
 ## 题目
 将图形 A（  ），可以得到图形B．
 
-$\begin{description}
-\item A．向右平移3格，再绕O点逆时针旋择90°\item B．向右平移5格，再绕O点顺时针旋择90°\item C．向右平移3格，再绕O点顺时针旋择90°
-\end{description}$
+A．向右平移3格，再绕O点逆时针旋择90°
+B．向右平移5格，再绕O点顺时针旋择90°
+C．向右平移3格，再绕O点顺时针旋择90°
 ![grade3_medium_hard_multiple_choice_dd12ae17.png](images/grade3_medium_hard_multiple_choice_dd12ae17.png)
 
 ## 解答

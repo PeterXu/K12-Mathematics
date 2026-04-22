@@ -6,9 +6,10 @@
 
 ## 题目
 图上□里的数是（  ）
-$\begin{description}
-\item A．\frac{7}{10}\item B．\frac{2}{5}\item C．1\frac{3}{5}\item D．\frac{7}{5}
-\end{description}$
+A．\frac{7}{10}
+B．\frac{2}{5}
+C．$1\frac{3}{5}$
+D．\frac{7}{5}
 ![grade6_medium_hard_multiple_choice_26ad44f0.png](images/grade6_medium_hard_multiple_choice_26ad44f0.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 如图，四个同样的小长方形拼成一个大长方形ABCD，那么AB与BC的比是（   ）。
 
-$\begin{description}
-\item A．1：1\item B．3：2\item C．4：3\item D．3：4
-\end{description}$
+A．1：1
+B．3：2
+C．4：3
+D．3：4
 
 ![grade6_medium_multiple_choice_21f7d262.png](images/grade6_medium_multiple_choice_21f7d262.png)
 

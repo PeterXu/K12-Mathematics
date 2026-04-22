@@ -6,9 +6,9 @@
 
 ## 题目
 用1立方厘米的小正方体摆成一个几何体，从正面、上面和侧面看，分别得到下面的图形．这个几何体是由（  ）个小正方体摆成的．
-$\begin{description}
-\item A．16\item B．18\item C．20
-\end{description}$
+A．16
+B．18
+C．20
 ![grade5_medium_hard_multiple_choice_190e811b.png](images/grade5_medium_hard_multiple_choice_190e811b.png)
 
 ## 解答

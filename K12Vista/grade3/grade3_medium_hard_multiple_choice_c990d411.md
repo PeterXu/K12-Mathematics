@@ -7,9 +7,9 @@
 ## 题目
 在相同的时间内谁荡（  ）次数多
 
-$\begin{description}
-\item A．小明\item B．小亮\item C．小华
-\end{description}$
+A．小明
+B．小亮
+C．小华
 ![grade3_medium_hard_multiple_choice_c990d411.png](images/grade3_medium_hard_multiple_choice_c990d411.png)
 
 ## 解答

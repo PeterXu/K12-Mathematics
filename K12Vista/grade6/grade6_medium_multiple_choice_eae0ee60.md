@@ -7,9 +7,9 @@
 ## 题目
 观察下面三个物体，从前面看到的图形相同的是（     ）。
 
-$\begin{description}
-\item A．①和②\item B．①和③\item C．②和③
-\end{description}$
+A．①和②
+B．①和③
+C．②和③
 
 ![grade6_medium_multiple_choice_eae0ee60.png](images/grade6_medium_multiple_choice_eae0ee60.png)
 

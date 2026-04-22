@@ -6,9 +6,10 @@
 
 ## 题目
 你的“脚掌”长（  ）
-$\begin{description}
-\item A．14厘米\item B．10厘米左右\item C．接近1米\item D．50厘米
-\end{description}$
+A．14厘米
+B．10厘米左右
+C．接近1米
+D．50厘米
 
 ![grade6_medium_multiple_choice_f2cff125.png](images/grade6_medium_multiple_choice_f2cff125.png)
 

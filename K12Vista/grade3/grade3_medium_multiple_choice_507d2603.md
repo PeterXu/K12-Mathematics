@@ -7,9 +7,10 @@
 ## 题目
 图书馆在科技馆的（  ）方向。
 
-$\begin{description}
-\item A．西北\item B．东北\item C．西南\item D．东南
-\end{description}$
+A．西北
+B．东北
+C．西南
+D．东南
 
 ![grade3_medium_multiple_choice_507d2603.png](images/grade3_medium_multiple_choice_507d2603.png)
 

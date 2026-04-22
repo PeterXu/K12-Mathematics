@@ -7,9 +7,10 @@
 ## 题目
 下面是3位同学用自己所画的图来表示“甲比乙多25%”，有(    )位同学的理解是正确的。
 
-$\begin{description}
-\item A．0\item B．1\item C．2\item D．3
-\end{description}$
+A．0
+B．1
+C．2
+D．3
 
 ![grade6_medium_multiple_choice_2c647c24.png](images/grade6_medium_multiple_choice_2c647c24.png)
 

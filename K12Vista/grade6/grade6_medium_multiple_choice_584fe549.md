@@ -7,9 +7,9 @@
 ## 题目
 下面图形中，有（   ）个图形面积相等。
 
-$\begin{description}
-\item A．2\item B．3\item C．4
-\end{description}$
+A．2
+B．3
+C．4
 
 ![grade6_medium_multiple_choice_584fe549.png](images/grade6_medium_multiple_choice_584fe549.png)
 

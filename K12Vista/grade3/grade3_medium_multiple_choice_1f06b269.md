@@ -7,9 +7,9 @@
 ## 题目
 下图中有（   ）组线段互相平行。
 
-$\begin{description}
-\item A．3\item B．4\item C．5
-\end{description}$
+A．3
+B．4
+C．5
 
 ![grade3_medium_multiple_choice_1f06b269.png](images/grade3_medium_multiple_choice_1f06b269.png)
 

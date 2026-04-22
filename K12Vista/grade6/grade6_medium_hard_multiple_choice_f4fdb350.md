@@ -6,9 +6,10 @@
 
 ## 题目
 一只蚂蚁从A点沿着一个长方体框架的棱爬到B点，蚂蚁至少爬了（  ）cm．
-$\begin{description}
-\item A．12\item B．48\item C．60\item D．94
-\end{description}$
+A．12
+B．48
+C．60
+D．94
 ![grade6_medium_hard_multiple_choice_f4fdb350.png](images/grade6_medium_hard_multiple_choice_f4fdb350.png)
 
 ## 解答

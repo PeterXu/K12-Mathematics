@@ -7,9 +7,9 @@
 ## 题目
 下图中角的度数是(  )。
 
-$\begin{description}
-\item A．120°\item B．60°\item C．70°
-\end{description}$
+A．120°
+B．60°
+C．70°
 
 ![grade6_medium_multiple_choice_87989b04.png](images/grade6_medium_multiple_choice_87989b04.png)
 

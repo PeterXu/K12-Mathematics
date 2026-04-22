@@ -6,9 +6,9 @@
 
 ## 题目
  如图给出的是2004年3月份的日历表，任意圈出一竖列上相邻的三个数，请你研究一下，发现这三个数的和不可能是 （  ）
-$\begin{description}
-\item A．69\item B．54\item C．40
-\end{description}$
+A．69
+B．54
+C．40
 ![grade5_medium_hard_multiple_choice_1992caa2.png](images/grade5_medium_hard_multiple_choice_1992caa2.png)
 
 ## 解答

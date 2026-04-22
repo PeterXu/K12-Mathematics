@@ -7,9 +7,9 @@
 ## 题目
 甲乙丙三张图的周长相比，（  ）
 
-$\begin{description}
-\item A．甲最长\item B．乙最长\item C．丙最长
-\end{description}$
+A．甲最长
+B．乙最长
+C．丙最长
 ![grade6_hard_multiple_choice_e954c5cb.png](images/grade6_hard_multiple_choice_e954c5cb.png)
 
 ## 解答

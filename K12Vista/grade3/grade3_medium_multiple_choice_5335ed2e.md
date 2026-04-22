@@ -9,9 +9,8 @@
 （1）先算出一共有多少人： 
 ________ ________ ________= ________（人）
 （2）每人一本够吗？  （____）
-$\begin{description}
-\item A．够\item B．不够
-\end{description}$
+A．够
+B．不够
 
 ![grade3_medium_multiple_choice_5335ed2e.png](images/grade3_medium_multiple_choice_5335ed2e.png)
 

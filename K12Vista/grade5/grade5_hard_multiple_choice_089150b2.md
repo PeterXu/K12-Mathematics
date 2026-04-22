@@ -7,9 +7,10 @@
 ## 题目
 下面哪6个面能围成一个长4厘米、宽3厘米、高2厘米的长方体．（  ）
 
-$\begin{description}
-\item A．1、2、3、4、5、6\item B．1、3、5、6、7、8、\item C．1、4、5、6、7、8\item D．2、3、4、6、7、8
-\end{description}$
+A．1、2、3、4、5、6
+B．1、3、5、6、7、8、
+C．1、4、5、6、7、8
+D．2、3、4、6、7、8
 ![grade5_hard_multiple_choice_089150b2.png](images/grade5_hard_multiple_choice_089150b2.png)
 
 ## 解答

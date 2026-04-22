@@ -7,9 +7,10 @@
 ## 题目
 下图中有$A$，$B$两个正方形，$A$与$B$的面积比是$4:9$.如果以直线$l$为轴旋转一周，$A$形成的图形与$B$形成的图形的体积比是（  ）.
 
-$\begin{description}
-\item A．4:9\item B．4:27\item C．8:27\item D．8:63
-\end{description}$
+A．4:9
+B．4:27
+C．8:27
+D．8:63
 
 ![grade6_medium_multiple_choice_7d01d5d7.png](images/grade6_medium_multiple_choice_7d01d5d7.png)
 

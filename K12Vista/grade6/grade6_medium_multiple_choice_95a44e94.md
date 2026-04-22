@@ -7,9 +7,9 @@
 ## 题目
 妈妈大约带多少元钱去缴费就够了？（  ） 
 
-$\begin{description}
-\item A．200元\item B．400\item C．300元
-\end{description}$
+A．200元
+B．400
+C．300元
 
 ![grade6_medium_multiple_choice_95a44e94.png](images/grade6_medium_multiple_choice_95a44e94.png)
 

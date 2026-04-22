@@ -6,9 +6,10 @@
 
 ## 题目
 有三个面积都是S的圆放在桌上（如图），桌面被覆盖的面积是2S+2，并且重合的两块的面积相等，直线a过两个圆心A、B，如果直线a下方的被圆覆盖的面积是9，则S的值为（  ）
-$\begin{description}
-\item A．5\item B．5.5\item C．6\item D．6.5
-\end{description}$
+A．5
+B．5.5
+C．6
+D．6.5
 ![grade6_hard_multiple_choice_0f429252.png](images/grade6_hard_multiple_choice_0f429252.png)
 
 ## 解答

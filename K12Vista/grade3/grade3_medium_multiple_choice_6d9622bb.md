@@ -7,9 +7,10 @@
 ## 题目
 用小棒按下面方法摆正六边形，摆10个正六边形需要（     ）根小棒。
 
-$\begin{description}
-\item A．60\item B．50\item C．52\item D．51
-\end{description}$
+A．60
+B．50
+C．52
+D．51
 
 ![grade3_medium_multiple_choice_6d9622bb.png](images/grade3_medium_multiple_choice_6d9622bb.png)
 

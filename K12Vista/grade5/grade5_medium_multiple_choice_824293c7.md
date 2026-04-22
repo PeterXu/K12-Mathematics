@@ -7,9 +7,9 @@
 ## 题目
 计算下图中长方体的表面积，算式错误的是（  ）。
 
-$\begin{description}
-\item A．8×8×17\item B．8×17×4＋8×8×2\item C．（8×17＋8×17＋8×8）×2
-\end{description}$
+A．8×8×17
+B．8×17×4＋8×8×2
+C．（8×17＋8×17＋8×8）×2
 
 ![grade5_medium_multiple_choice_824293c7.png](images/grade5_medium_multiple_choice_824293c7.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 下面图形中阴影部分的面积与左边第一个图阴影部分面积相等的有（   ）个。
 
-$\begin{description}
-\item A．2\item B．3\item C．4\item D．5
-\end{description}$
+A．2
+B．3
+C．4
+D．5
 
 ![grade6_medium_hard_multiple_choice_4c597c73.png](images/grade6_medium_hard_multiple_choice_4c597c73.png)
 

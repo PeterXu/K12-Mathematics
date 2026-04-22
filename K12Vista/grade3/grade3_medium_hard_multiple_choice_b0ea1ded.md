@@ -7,9 +7,9 @@
 ## 题目
 小红用计数器表示的数是3232，小军以同样的方式表示的数是（  ）
 
-$\begin{description}
-\item A．3232\item B．2233\item C．2323     D3322
-\end{description}$
+A．3232
+B．2233
+C．2323     D3322
 ![grade3_medium_hard_multiple_choice_b0ea1ded.png](images/grade3_medium_hard_multiple_choice_b0ea1ded.png)
 
 ## 解答

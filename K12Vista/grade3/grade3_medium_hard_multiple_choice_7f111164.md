@@ -6,9 +6,9 @@
 
 ## 题目
 如图，小红去超市买了3袋方便面和2袋花生米，则方便面和花生米共（  ）克．
-$\begin{description}
-\item A．1410克\item B．434克\item C．1424克
-\end{description}$
+A．1410克
+B．434克
+C．1424克
 ![grade3_medium_hard_multiple_choice_7f111164.png](images/grade3_medium_hard_multiple_choice_7f111164.png)
 
 ## 解答

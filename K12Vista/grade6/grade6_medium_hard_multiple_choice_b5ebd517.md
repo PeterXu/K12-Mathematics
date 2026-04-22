@@ -6,9 +6,10 @@
 
 ## 题目
 小明某天记录的支出如图所示，不小心饼干的支出金额被墨水污染了，如果小明原来有30元，每包饼干的售价为1.3元，那么小明剩下的钱数不可能是（  ）
-$\begin{description}
-\item A．0.1元\item B．0.8元\item C．1.4元\item D．2.7元
-\end{description}$
+A．0.1元
+B．0.8元
+C．1.4元
+D．2.7元
 ![grade6_medium_hard_multiple_choice_b5ebd517.png](images/grade6_medium_hard_multiple_choice_b5ebd517.png)
 
 ## 解答

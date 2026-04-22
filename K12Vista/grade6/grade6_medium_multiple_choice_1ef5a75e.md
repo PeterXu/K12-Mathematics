@@ -7,9 +7,10 @@
 ## 题目
 如图，一个长方体玻璃容器中，摆了若干个体积为1立方厘米的正方体。这个玻璃容器的容积是（   ）立方厘米。
 
-$\begin{description}
-\item A．45\item B．30\item C．60\item D．40
-\end{description}$
+A．45
+B．30
+C．60
+D．40
 
 ![grade6_medium_multiple_choice_1ef5a75e.png](images/grade6_medium_multiple_choice_1ef5a75e.png)
 

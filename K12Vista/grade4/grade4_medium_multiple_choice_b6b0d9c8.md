@@ -7,9 +7,10 @@
 ## 题目
 如图的图形中，有（  ）个可由两个相同的梯形拼成．
 
-$\begin{description}
-\item A．1\item B．2\item C．3\item D．4
-\end{description}$
+A．1
+B．2
+C．3
+D．4
 
 ![grade4_medium_multiple_choice_b6b0d9c8.png](images/grade4_medium_multiple_choice_b6b0d9c8.png)
 

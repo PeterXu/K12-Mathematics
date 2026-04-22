@@ -7,9 +7,9 @@
 ## 题目
 站在不同的位置最多可以看到饼干盒的几个面？（    ）
 
-$\begin{description}
-\item A．2\item B．5\item C．3
-\end{description}$
+A．2
+B．5
+C．3
 
 ![grade6_medium_multiple_choice_3ff7d917.png](images/grade6_medium_multiple_choice_3ff7d917.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 根据下面的线段图选择正确的算式（  ）
 
-$\begin{description}
-\item A．125+（125-25）÷3\item B．125-（125-25）÷3\item C．125-（125+25）÷3\item D．125+（125+25）÷3
-\end{description}$
+A．125+（125-25）÷3
+B．125-（125-25）÷3
+C．125-（125+25）÷3
+D．125+（125+25）÷3
 ![grade6_medium_hard_multiple_choice_76a48961.png](images/grade6_medium_hard_multiple_choice_76a48961.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 图中，$\text{A}$点到直线$\text{BC}$的线段中，最短的是（  ）
 
-$\begin{description}
-\item A．AD\item B．AE\item C．AF\item D．AG
-\end{description}$
+A．AD
+B．AE
+C．AF
+D．AG
 
 ![grade3_medium_multiple_choice_31bdad56.png](images/grade3_medium_multiple_choice_31bdad56.png)
 

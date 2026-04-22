@@ -7,9 +7,9 @@
 ## 题目
 两个完全一样的梯形可以拼成一个平行四边形，这个平行四边形的底等于（      ）．
 
-$\begin{description}
-\item A．梯形的高\item B．梯形的上底\item C．梯形上底与下底之和
-\end{description}$
+A．梯形的高
+B．梯形的上底
+C．梯形上底与下底之和
 
 ![grade6_medium_multiple_choice_309338b3.png](images/grade6_medium_multiple_choice_309338b3.png)
 

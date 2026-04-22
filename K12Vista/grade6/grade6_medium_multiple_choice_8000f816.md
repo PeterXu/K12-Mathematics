@@ -7,9 +7,10 @@
 ## 题目
 如图是某校初中段各年级人数占初中总人数百分比情况统计图，已知八年级有学生105人，那么七年级的学生数是（  ）
 
-$\begin{description}
-\item A．350\item B．105\item C．140\item D．不能确定
-\end{description}$
+A．350
+B．105
+C．140
+D．不能确定
 
 ![grade6_medium_multiple_choice_8000f816.png](images/grade6_medium_multiple_choice_8000f816.png)
 

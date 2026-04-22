@@ -6,9 +6,9 @@
 
 ## 题目
 如图是一座楼房的平面图，图中不同字母表示长度不同的各条边长，若b=50米，c=30米，g=10米，则这座楼房平面图的周长是（  ）
-$\begin{description}
-\item A．90米\item B．150米\item C．180米
-\end{description}$
+A．90米
+B．150米
+C．180米
 ![grade3_hard_multiple_choice_29032127.png](images/grade3_hard_multiple_choice_29032127.png)
 
 ## 解答

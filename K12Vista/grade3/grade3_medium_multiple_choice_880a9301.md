@@ -7,9 +7,9 @@
 ## 题目
 看图列算式错误的是（   ）。
 
-$\begin{description}
-\item A．5×3+3\item B．3×6\item C．5×4-2
-\end{description}$
+A．5×3+3
+B．3×6
+C．5×4-2
 
 ![grade3_medium_multiple_choice_880a9301.png](images/grade3_medium_multiple_choice_880a9301.png)
 

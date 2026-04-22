@@ -7,9 +7,10 @@
 ## 题目
 如图，被遮起来的糖果大约是20粒，这些糖果一共大约（  ）粒．
 
-$\begin{description}
-\item A．100\item B．1000\item C．200\item D．500
-\end{description}$
+A．100
+B．1000
+C．200
+D．500
 ![grade6_medium_hard_multiple_choice_1396ed57.png](images/grade6_medium_hard_multiple_choice_1396ed57.png)
 
 ## 解答

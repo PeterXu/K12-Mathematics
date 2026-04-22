@@ -7,9 +7,9 @@
 ## 题目
 下面的两个图形都是边长1厘米的小正方形拼成的，下面的说法正确的是（  ）
 
-$\begin{description}
-\item A．甲、乙的面积相等，周长也相等．\item B．甲、乙的面积相等，乙的周长长\item C．甲、乙的周长相等，乙的面积大．
-\end{description}$
+A．甲、乙的面积相等，周长也相等．
+B．甲、乙的面积相等，乙的周长长
+C．甲、乙的周长相等，乙的面积大．
 ![grade6_hard_multiple_choice_5f8bc7dd.png](images/grade6_hard_multiple_choice_5f8bc7dd.png)
 
 ## 解答

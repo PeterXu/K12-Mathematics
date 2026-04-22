@@ -6,9 +6,9 @@
 
 ## 题目
 图中平行四边形的面积是（  ）平方厘米（单位：厘米）．
-$\begin{description}
-\item A．80\item B．60\item C．48
-\end{description}$
+A．80
+B．60
+C．48
 ![grade6_medium_hard_multiple_choice_41c51d54.png](images/grade6_medium_hard_multiple_choice_41c51d54.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 如图，梯形ABCD 中共有8 个三角形，其中面积相等的三角形有( )．
 
-$\begin{description}
-\item A．1 对\item B．2 对\item C．3 对\item D．4 对
-\end{description}$
+A．1 对
+B．2 对
+C．3 对
+D．4 对
 
 ![grade5_medium_multiple_choice_acde20dc.png](images/grade5_medium_multiple_choice_acde20dc.png)
 

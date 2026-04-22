@@ -8,9 +8,10 @@
 少儿图书馆一天的图书借阅情况如下：
 
 用条形图表示上面的数据，1格代表(  )本较合适。
-$\begin{description}
-\item A．10\item B．20\item C．30\item D．50
-\end{description}$
+A．10
+B．20
+C．30
+D．50
 
 ![grade6_medium_multiple_choice_5ed8c764.png](images/grade6_medium_multiple_choice_5ed8c764.png)
 

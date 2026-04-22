@@ -6,9 +6,9 @@
 
 ## 题目
 某届世界杯乒乓球赛，有3名中国队员和1名德国队员进入男单四分之一决赛，比赛规定如下图所示．下面预测结果不正确的是（  ）
-$\begin{description}
-\item A．中国队稳获亚军\item B．德国队可能会夺得冠军\item C．中国队夺得冠军的可能性是\frac{1}{4}
-\end{description}$
+A．中国队稳获亚军
+B．德国队可能会夺得冠军
+C．中国队夺得冠军的可能性是$\frac{1}{4}$
 ![grade6_medium_hard_multiple_choice_479e3d05.png](images/grade6_medium_hard_multiple_choice_479e3d05.png)
 
 ## 解答

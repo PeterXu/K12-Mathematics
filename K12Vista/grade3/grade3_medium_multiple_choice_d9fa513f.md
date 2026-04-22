@@ -7,9 +7,9 @@
 ## 题目
 小华可能在下面哪个时间做作业？请你选一选（  ）
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 
 ![grade3_medium_multiple_choice_d9fa513f.png](images/grade3_medium_multiple_choice_d9fa513f.png)
 

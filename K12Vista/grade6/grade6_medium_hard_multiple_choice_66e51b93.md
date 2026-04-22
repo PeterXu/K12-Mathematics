@@ -7,9 +7,10 @@
 ## 题目
 看图，列出正确的算式（ ） 
 
-$\begin{description}
-\item A．12+4\item B．12×3+4\item C．12×4+4\item D．12÷3+4
-\end{description}$
+A．12+4
+B．12×3+4
+C．12×4+4
+D．12÷3+4
 
 ![grade6_medium_hard_multiple_choice_66e51b93.png](images/grade6_medium_hard_multiple_choice_66e51b93.png)
 

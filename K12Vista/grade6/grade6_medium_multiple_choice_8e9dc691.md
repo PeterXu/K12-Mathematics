@@ -7,9 +7,9 @@
 ## 题目
 图A和图B的周长相比较（  ）。
 
-$\begin{description}
-\item A．图A长\item B．图B长\item C．一样长
-\end{description}$
+A．图A长
+B．图B长
+C．一样长
 
 ![grade6_medium_multiple_choice_8e9dc691.png](images/grade6_medium_multiple_choice_8e9dc691.png)
 

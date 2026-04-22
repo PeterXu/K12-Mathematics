@@ -7,9 +7,9 @@
 ## 题目
 小鸡和小兔谁多谁少？(  ) 
 
-$\begin{description}
-\item A．小鸡比小兔多\item B．一样多\item C．小兔比小鸡多
-\end{description}$
+A．小鸡比小兔多
+B．一样多
+C．小兔比小鸡多
 
 ![grade6_medium_multiple_choice_e7e91a70.png](images/grade6_medium_multiple_choice_e7e91a70.png)
 

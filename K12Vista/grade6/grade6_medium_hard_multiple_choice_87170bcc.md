@@ -6,9 +6,9 @@
 
 ## 题目
 如图，把一个圆柱体切割后拼成的近似长方体，表面积会（  ）
-$\begin{description}
-\item A．增加\item B．减少\item C．不变
-\end{description}$
+A．增加
+B．减少
+C．不变
 ![grade6_medium_hard_multiple_choice_87170bcc.png](images/grade6_medium_hard_multiple_choice_87170bcc.png)
 
 ## 解答

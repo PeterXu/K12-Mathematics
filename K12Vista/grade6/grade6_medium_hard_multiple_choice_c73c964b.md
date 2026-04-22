@@ -7,9 +7,10 @@
 ## 题目
 用下面的线段AF围成一个圆，得到的圆的直径约与（    ）相当。 
 
-$\begin{description}
-\item A.线段AB\item B.线段AD\item C.线段AE\item D.线段CE
-\end{description}$
+A.线段AB
+B.线段AD
+C.线段AE
+D.线段CE
 ![grade6_medium_hard_multiple_choice_c73c964b.png](images/grade6_medium_hard_multiple_choice_c73c964b.png)
 
 ## 解答

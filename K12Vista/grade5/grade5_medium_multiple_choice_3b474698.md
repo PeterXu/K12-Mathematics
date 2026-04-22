@@ -7,9 +7,10 @@
 ## 题目
 如下图,哪些图形可以折成一个棱柱?(   )
 
-$\begin{description}
-\item A．(1)(2)(3)\item B．(2)(3)(4)\item C．(1)(3)(4)\item D．(1)(2)(4)
-\end{description}$
+A．(1)(2)(3)
+B．(2)(3)(4)
+C．(1)(3)(4)
+D．(1)(2)(4)
 
 ![grade5_medium_multiple_choice_3b474698.png](images/grade5_medium_multiple_choice_3b474698.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 以下四组图形都是轴对称图形，它们的对称轴共有（  ）条．
 
-$\begin{description}
-\item A．11条\item B．13条\item C．15条\item D．无数条
-\end{description}$
+A．11条
+B．13条
+C．15条
+D．无数条
 ![grade2_medium_hard_multiple_choice_b34373f1.png](images/grade2_medium_hard_multiple_choice_b34373f1.png)
 
 ## 解答

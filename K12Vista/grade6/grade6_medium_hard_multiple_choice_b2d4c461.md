@@ -7,9 +7,10 @@
 ## 题目
 把一个长12厘米、宽6厘米、高7厘米的长方体切成两个小长方体。下面三种切法中，表面积增加最多的是（    ）。 
 
-$\begin{description}
-\item A.①\item B.②\item C.③\item D.无法判断
-\end{description}$
+A.①
+B.②
+C.③
+D.无法判断
 ![grade6_medium_hard_multiple_choice_b2d4c461.png](images/grade6_medium_hard_multiple_choice_b2d4c461.png)
 
 ## 解答

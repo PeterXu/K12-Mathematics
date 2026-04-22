@@ -8,9 +8,10 @@
 下图中用量角器量角的方法不正确的（     ）。
 
 ①             ②            ③
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．①③
-\end{description}$
+A．①
+B．②
+C．③
+D．①③
 
 ![grade4_medium_multiple_choice_3a5e70e3.png](images/grade4_medium_multiple_choice_3a5e70e3.png)
 

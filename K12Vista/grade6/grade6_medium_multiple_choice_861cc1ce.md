@@ -7,9 +7,9 @@
 ## 题目
 以电信局为观测点，银行在（   ）方向上。以电信局为观测点，银行距离电信局（   ）米。
 
-$\begin{description}
-\item A．西偏北40°；300\item B．东偏南40°；600\item C．西偏南40°；600
-\end{description}$
+A．西偏北40°；300
+B．东偏南40°；600
+C．西偏南40°；600
 
 ![grade6_medium_multiple_choice_861cc1ce.png](images/grade6_medium_multiple_choice_861cc1ce.png)
 

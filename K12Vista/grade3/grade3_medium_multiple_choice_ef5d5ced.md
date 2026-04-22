@@ -7,9 +7,8 @@
 ## 题目
 观察下图，判断图形从左到右依次发生了怎样的变化？把合适的选项填在下面的括号里。（   ）
 
-$\begin{description}
-\item A．旋转，平移 ，旋转\item B．旋转，旋转，平移
-\end{description}$
+A．旋转，平移 ，旋转
+B．旋转，旋转，平移
 
 ![grade3_medium_multiple_choice_ef5d5ced.png](images/grade3_medium_multiple_choice_ef5d5ced.png)
 

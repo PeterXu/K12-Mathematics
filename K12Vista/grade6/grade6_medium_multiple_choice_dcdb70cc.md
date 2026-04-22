@@ -7,9 +7,9 @@
 ## 题目
 两张正方形硬纸板，一张剪去1个圆，一张剪去4个圆（如图）。哪一张剩下的废料多一些？
 
-$\begin{description}
-\item A．剪1个圆剩下的多\item B．剪4个圆剩下的多\item C．剩下的一样多
-\end{description}$
+A．剪1个圆剩下的多
+B．剪4个圆剩下的多
+C．剩下的一样多
 
 ![grade6_medium_multiple_choice_dcdb70cc.png](images/grade6_medium_multiple_choice_dcdb70cc.png)
 

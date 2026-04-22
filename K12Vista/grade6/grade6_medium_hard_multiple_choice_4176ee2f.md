@@ -7,9 +7,10 @@
 ## 题目
 如图，已知小正方形面积是10平方厘米，圆的面积是（  ）平方厘米．
 
-$\begin{description}
-\item A．40\item B．62.8\item C．314\item D．31.4
-\end{description}$
+A．40
+B．62.8
+C．314
+D．31.4
 
 ![grade6_medium_hard_multiple_choice_4176ee2f.png](images/grade6_medium_hard_multiple_choice_4176ee2f.png)
 

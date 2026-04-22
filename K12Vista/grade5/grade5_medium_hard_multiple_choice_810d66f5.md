@@ -7,9 +7,10 @@
 ## 题目
 “创建文明城市，构建美丽家园”，福星小区要建一个正方体宣传箱。下图是它的展开图，在宣传箱上与“市”字相对的是（   ）。 
 
-$\begin{description}
-\item A．文\item B．建\item C．创\item D．市
-\end{description}$
+A．文
+B．建
+C．创
+D．市
 
 ![grade5_medium_hard_multiple_choice_810d66f5.png](images/grade5_medium_hard_multiple_choice_810d66f5.png)
 

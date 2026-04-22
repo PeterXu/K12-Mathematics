@@ -6,9 +6,9 @@
 
 ## 题目
 在图中，①②两部分的周长比较（  ）
-$\begin{description}
-\item A．①的大工\item B．②的大\item C．相等
-\end{description}$
+A．①的大工
+B．②的大
+C．相等
 ![grade6_medium_hard_multiple_choice_36b7961c.png](images/grade6_medium_hard_multiple_choice_36b7961c.png)
 
 ## 解答

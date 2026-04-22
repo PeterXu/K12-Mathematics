@@ -7,9 +7,9 @@
 ## 题目
 下图竖式计算错误的原因是（   ）。
 
-$\begin{description}
-\item A．积的小数位数不正确\item B．因数的小数点没有对齐\item C．计算过程中数位书写不正确
-\end{description}$
+A．积的小数位数不正确
+B．因数的小数点没有对齐
+C．计算过程中数位书写不正确
 
 ![grade6_medium_multiple_choice_278a145d.png](images/grade6_medium_multiple_choice_278a145d.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 如图，把一个长方形分成甲、乙两部分，它们的周长相比，（  ）
 
-$\begin{description}
-\item A．甲＞乙\item B．甲=乙\item C．甲＜乙
-\end{description}$
+A．甲＞乙
+B．甲=乙
+C．甲＜乙
 ![grade6_medium_hard_multiple_choice_6829ff4c.png](images/grade6_medium_hard_multiple_choice_6829ff4c.png)
 
 ## 解答

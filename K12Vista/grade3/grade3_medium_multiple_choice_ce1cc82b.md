@@ -7,9 +7,9 @@
 ## 题目
 算盘
 上表示的数是(  )．
-$\begin{description}
-\item A．52\item B．520\item C．120
-\end{description}$
+A．52
+B．520
+C．120
 
 ![grade3_medium_multiple_choice_ce1cc82b.png](images/grade3_medium_multiple_choice_ce1cc82b.png)
 

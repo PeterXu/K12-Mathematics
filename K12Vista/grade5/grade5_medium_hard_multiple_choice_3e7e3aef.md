@@ -7,9 +7,10 @@
 ## 题目
 计算下面平行四边形面积的正确算式是（  ）
 
-$\begin{description}
-\item A．12×10\item B．7.5×12\item C．9×12\item D．7.5×10
-\end{description}$
+A．12×10
+B．7.5×12
+C．9×12
+D．7.5×10
 ![grade5_medium_hard_multiple_choice_3e7e3aef.png](images/grade5_medium_hard_multiple_choice_3e7e3aef.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 在如图中，两块菜地的周长（  ）
 
-$\begin{description}
-\item A．甲比乙大\item B．甲比乙小\item C．甲乙同样长
-\end{description}$
+A．甲比乙大
+B．甲比乙小
+C．甲乙同样长
 ![grade6_medium_hard_multiple_choice_599e7589.png](images/grade6_medium_hard_multiple_choice_599e7589.png)
 
 ## 解答

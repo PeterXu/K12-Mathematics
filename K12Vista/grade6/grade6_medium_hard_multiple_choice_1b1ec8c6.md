@@ -7,9 +7,9 @@
 ## 题目
 用5个1平方厘米的正方形，拼成下面的图形，他们的面积相比，（ ）
 
-$\begin{description}
-\item A．第一个图形大\item B．第二个图形大\item C．一样大
-\end{description}$
+A．第一个图形大
+B．第二个图形大
+C．一样大
 
 ![grade6_medium_hard_multiple_choice_1b1ec8c6.png](images/grade6_medium_hard_multiple_choice_1b1ec8c6.png)
 

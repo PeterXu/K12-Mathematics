@@ -7,9 +7,9 @@
 ## 题目
 看图选出正确的选项。（   ）
 
-$\begin{description}
-\item A．长方\item B．正方\item C．圆
-\end{description}$
+A．长方
+B．正方
+C．圆
 
 ![grade6_medium_multiple_choice_e157c22f.png](images/grade6_medium_multiple_choice_e157c22f.png)
 

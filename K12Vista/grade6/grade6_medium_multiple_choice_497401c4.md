@@ -7,9 +7,10 @@
 ## 题目
 看下图，石头的体积是（    ）．
 
-$\begin{description}
-\item A．350cm^{3}\item B．500cm^{3}\item C．700cm^{3}\item D．200cm^{3}
-\end{description}$
+A．350cm^{3}
+B．500cm^{3}
+C．700cm^{3}
+D．200cm^{3}
 
 ![grade6_medium_multiple_choice_497401c4.png](images/grade6_medium_multiple_choice_497401c4.png)
 

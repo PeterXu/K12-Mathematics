@@ -7,9 +7,10 @@
 ## 题目
 下面三个完全一样的直角梯形中，阴影部分的面积（  ）
 
-$\begin{description}
-\item A．甲最大\item B．乙最大\item C．丙最大\item D．一样大
-\end{description}$
+A．甲最大
+B．乙最大
+C．丙最大
+D．一样大
 ![grade6_medium_hard_multiple_choice_9b1de361.png](images/grade6_medium_hard_multiple_choice_9b1de361.png)
 
 ## 解答

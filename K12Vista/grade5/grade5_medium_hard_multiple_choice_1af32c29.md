@@ -6,9 +6,9 @@
 
 ## 题目
 如图阴影部分的面积计算正确的是（  ）
-$\begin{description}
-\item A．16×6\item B．8×16÷2\item C．16×6÷2
-\end{description}$
+A．16×6
+B．8×16÷2
+C．16×6÷2
 ![grade5_medium_hard_multiple_choice_1af32c29.png](images/grade5_medium_hard_multiple_choice_1af32c29.png)
 
 ## 解答

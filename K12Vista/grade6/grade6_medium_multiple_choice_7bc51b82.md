@@ -7,9 +7,10 @@
 ## 题目
 把一个长方体纸盒相邻的两面撕下来，展开后如下图（单位：厘米）所示。这个纸盒的前面比左面大（  ）平方厘米。
 
-$\begin{description}
-\item A．48\item B．40\item C．30\item D．18
-\end{description}$
+A．48
+B．40
+C．30
+D．18
 
 ![grade6_medium_multiple_choice_7bc51b82.png](images/grade6_medium_multiple_choice_7bc51b82.png)
 

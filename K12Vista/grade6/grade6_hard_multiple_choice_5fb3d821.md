@@ -7,9 +7,10 @@
 ## 题目
 下面各个立体图形都是由若干个同样大小的立方体拼成的，表面积最大的图形是（ ）
 
-$\begin{description}
-\item A．图①\item B．图②\item C．图③\item D．图④
-\end{description}$
+A．图①
+B．图②
+C．图③
+D．图④
 
 ![grade6_hard_multiple_choice_5fb3d821.png](images/grade6_hard_multiple_choice_5fb3d821.png)
 

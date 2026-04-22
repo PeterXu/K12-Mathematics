@@ -5,11 +5,11 @@
 **题型**: multiple_choice
 
 ## 题目
-比较下图平行线间三个图形的面积,说法正确的是($\textit{}$)
+比较下图平行线间三个图形的面积,说法正确的是($\textit{}$
 
-$\begin{description}
-\item A．平行四边形面积最大\item B．梯形面积最大\item C．3个图形面积相等
-\end{description}$
+A．平行四边形面积最大
+B．梯形面积最大
+C．3个图形面积相等
 
 ![grade6_medium_multiple_choice_24398931.png](images/grade6_medium_multiple_choice_24398931.png)
 

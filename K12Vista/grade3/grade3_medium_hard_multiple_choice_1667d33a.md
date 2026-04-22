@@ -7,9 +7,10 @@
 ## 题目
 一袋大米重10千克，1吨大米可以装这样的多少袋．（  ）
 
-$\begin{description}
-\item A．100\item B．1000\item C．10\item D．10000
-\end{description}$
+A．100
+B．1000
+C．10
+D．10000
 ![grade3_medium_hard_multiple_choice_1667d33a.png](images/grade3_medium_hard_multiple_choice_1667d33a.png)
 
 ## 解答

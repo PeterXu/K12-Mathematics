@@ -7,9 +7,10 @@
 ## 题目
 下图的交通标志中，轴对称图形有（    ）    
 
-$\begin{description}
-\item A．4个\item B．3个\item C．2个\item D．1个
-\end{description}$
+A．4个
+B．3个
+C．2个
+D．1个
 
 ![grade2_medium_multiple_choice_03f5baed.png](images/grade2_medium_multiple_choice_03f5baed.png)
 

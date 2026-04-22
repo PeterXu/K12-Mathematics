@@ -7,9 +7,10 @@
 ## 题目
 将长方形 ABCD 对角线平均分成 12 段，连接成右图，长方形 ABCD 内部空白部分面积总和是 10 平方厘米，那么阴影部分面积总和是（     ）平方厘米．
 
-$\begin{description}
-\item A．14\item B．16\item C．18\item D．20
-\end{description}$
+A．14
+B．16
+C．18
+D．20
 
 ![grade6_hard_multiple_choice_7999f6bf.png](images/grade6_hard_multiple_choice_7999f6bf.png)
 

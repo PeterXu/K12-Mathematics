@@ -6,9 +6,10 @@
 
 ## 题目
 如图中．从A、B、C、D四个地方都可以走到图书城，走（  ）条路最近．
-$\begin{description}
-\item A．A到图书城\item B．B到图书城\item C．C到图书城\item D．D到图书城
-\end{description}$
+A．A到图书城
+B．B到图书城
+C．C到图书城
+D．D到图书城
 ![grade3_medium_hard_multiple_choice_b143b28e.png](images/grade3_medium_hard_multiple_choice_b143b28e.png)
 
 ## 解答

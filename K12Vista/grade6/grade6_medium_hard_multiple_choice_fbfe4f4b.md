@@ -8,9 +8,10 @@
 下面图形（单位：米）涂色部分的面积是（   ）
 AB＝BC＝CD＝4米
 
-$\begin{description}
-\item A．12.84平方米\item B．9.24平方米\item C．18.24平方米\item D．37.68平方米
-\end{description}$
+A．12.84平方米
+B．9.24平方米
+C．18.24平方米
+D．37.68平方米
 
 ![grade6_medium_hard_multiple_choice_fbfe4f4b.png](images/grade6_medium_hard_multiple_choice_fbfe4f4b.png)
 

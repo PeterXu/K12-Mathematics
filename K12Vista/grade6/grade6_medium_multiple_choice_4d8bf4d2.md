@@ -7,9 +7,9 @@
 ## 题目
 下面（  ）杯中的饮料最多（单位：厘米）。
 
-$\begin{description}
-\item A．甲\item B．乙\item C．丙
-\end{description}$
+A．甲
+B．乙
+C．丙
 
 ![grade6_medium_multiple_choice_4d8bf4d2.png](images/grade6_medium_multiple_choice_4d8bf4d2.png)
 

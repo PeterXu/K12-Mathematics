@@ -6,9 +6,9 @@
 
 ## 题目
 图中，65是13的倍数，A是B的（  ）
-$\begin{description}
-\item A．倍数\item B．因数\item C．合数
-\end{description}$
+A．倍数
+B．因数
+C．合数
 ![grade5_medium_hard_multiple_choice_206608ef.png](images/grade5_medium_hard_multiple_choice_206608ef.png)
 
 ## 解答

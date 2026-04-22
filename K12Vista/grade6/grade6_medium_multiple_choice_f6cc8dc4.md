@@ -7,9 +7,9 @@
 ## 题目
 选一选。这本书（   ）元钱。
 
-$\begin{description}
-\item A．20\item B．22\item C．27
-\end{description}$
+A．20
+B．22
+C．27
 
 ![grade6_medium_multiple_choice_f6cc8dc4.png](images/grade6_medium_multiple_choice_f6cc8dc4.png)
 

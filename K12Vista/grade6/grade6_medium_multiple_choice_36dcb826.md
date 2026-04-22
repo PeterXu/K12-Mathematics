@@ -7,9 +7,10 @@
 ## 题目
 下图是一个长方体的表面展开图（每个小方格的边长表示1厘米）．这个长方体的表面积是（ ）平方厘米，体积是（ ）立方厘米．
 
-$\begin{description}
-\item A．52、24\item B．52、18\item C．40、24\item D．40、18
-\end{description}$
+A．52、24
+B．52、18
+C．40、24
+D．40、18
 
 ![grade6_medium_multiple_choice_36dcb826.png](images/grade6_medium_multiple_choice_36dcb826.png)
 

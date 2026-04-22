@@ -7,9 +7,10 @@
 ## 题目
 下图是正方体的展开图，与1号面相对的面是（     ）号面。
 
-$\begin{description}
-\item A．1\item B．2\item C．3\item D．4
-\end{description}$
+A．1
+B．2
+C．3
+D．4
 
 ![grade5_medium_multiple_choice_c897b5c2.png](images/grade5_medium_multiple_choice_c897b5c2.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 用丝带捆扎一种礼品盒如下，结头处长25厘米，要捆扎这种礼品盒需准备（  ）分米的丝带比较合理．
 
-$\begin{description}
-\item A．10分米\item B．21.5分米\item C．23分米\item D．30分米
-\end{description}$
+A．10分米
+B．21.5分米
+C．23分米
+D．30分米
 
 ![grade6_medium_hard_multiple_choice_fb38ae57.png](images/grade6_medium_hard_multiple_choice_fb38ae57.png)
 

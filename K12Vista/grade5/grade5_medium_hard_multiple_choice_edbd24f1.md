@@ -7,9 +7,10 @@
 ## 题目
 下图是正方体展开图，与数字1相对的面数字是（   ）。
 
-$\begin{description}
-\item A．4\item B．2\item C．5\item D．6
-\end{description}$
+A．4
+B．2
+C．5
+D．6
 
 ![grade5_medium_hard_multiple_choice_edbd24f1.png](images/grade5_medium_hard_multiple_choice_edbd24f1.png)
 

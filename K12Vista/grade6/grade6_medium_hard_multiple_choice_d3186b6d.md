@@ -7,9 +7,10 @@
 ## 题目
 下面图形中，（   ）图形的切面是等腰三角形。
 
-$\begin{description}
-\item A．圆柱\item B．长方体\item C．圆锥\item D．无法确定
-\end{description}$
+A．圆柱
+B．长方体
+C．圆锥
+D．无法确定
 
 ![grade6_medium_hard_multiple_choice_d3186b6d.png](images/grade6_medium_hard_multiple_choice_d3186b6d.png)
 

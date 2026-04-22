@@ -7,9 +7,10 @@
 ## 题目
 小丽用50元钱购买A、B、C三种物品（如图）她购买B物品比购买C物品多用了（）元。
 
-$\begin{description}
-\item A．5\item B．10\item C．25\item D．15
-\end{description}$
+A．5
+B．10
+C．25
+D．15
 
 ![grade6_medium_hard_multiple_choice_ac9e4333.png](images/grade6_medium_hard_multiple_choice_ac9e4333.png)
 

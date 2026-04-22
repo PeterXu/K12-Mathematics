@@ -7,9 +7,10 @@
 ## 题目
 第24届冬季奥林匹克运动会将由北京市和张家口市联合主办．张家口市在北京市的(    )方向．
 
-$\begin{description}
-\item A．东南\item B．东北\item C．西南\item D．西北
-\end{description}$
+A．东南
+B．东北
+C．西南
+D．西北
 
 ![grade3_medium_multiple_choice_abd4ddd6.png](images/grade3_medium_multiple_choice_abd4ddd6.png)
 

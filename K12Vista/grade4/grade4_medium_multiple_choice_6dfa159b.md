@@ -7,9 +7,10 @@
 ## 题目
 下图中,∠1=(  ) 
 
-$\begin{description}
-\item A．25°\item B．45°\item C．50°\item D．100°
-\end{description}$
+A．25°
+B．45°
+C．50°
+D．100°
 
 ![grade4_medium_multiple_choice_6dfa159b.png](images/grade4_medium_multiple_choice_6dfa159b.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 如图是一种奶粉成分含量情况统计图，已知蛋白质的含量是225克，则乳脂的含量是（   ）克。
 
-$\begin{description}
-\item A．900\item B．270\item C．81
-\end{description}$
+A．900
+B．270
+C．81
 
 ![grade6_medium_multiple_choice_ac3d1c60.png](images/grade6_medium_multiple_choice_ac3d1c60.png)
 

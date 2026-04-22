@@ -7,9 +7,9 @@
 ## 题目
 下面的线段长(   )厘米．
 
-$\begin{description}
-\item A．9\item B．8\item C．7
-\end{description}$
+A．9
+B．8
+C．7
 
 ![grade3_medium_multiple_choice_b11a4f58.png](images/grade3_medium_multiple_choice_b11a4f58.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 如图，欢欢身高1m，在儿童乐园中有一个正方体大型玩具屋，试估计这个大型玩具屋的体积是（  ）
 
-$\begin{description}
-\item A．8m^{3}\item B．16m^{3}\item C．27m^{3}\item D．64m^{3}
-\end{description}$
+A．8m^{3}
+B．16m^{3}
+C．27m^{3}
+D．64m^{3}
 ![grade6_medium_hard_multiple_choice_c478a15a.png](images/grade6_medium_hard_multiple_choice_c478a15a.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 从一个体积是30立方厘米的长方体木块中，挖掉一小块后（如图），它的表面积（   ）。
 
-$\begin{description}
-\item A．和原来同样大\item B．比原来小\item C．比原来大\item D．无法判断
-\end{description}$
+A．和原来同样大
+B．比原来小
+C．比原来大
+D．无法判断
 
 ![grade6_medium_hard_multiple_choice_d367fb70.png](images/grade6_medium_hard_multiple_choice_d367fb70.png)
 

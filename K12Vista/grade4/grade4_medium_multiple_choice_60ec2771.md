@@ -7,9 +7,9 @@
 ## 题目
 数一数，图中一共有（     ）个平行四边形。
 
-$\begin{description}
-\item A．12\item B．28\item C．36
-\end{description}$
+A．12
+B．28
+C．36
 
 ![grade4_medium_multiple_choice_60ec2771.png](images/grade4_medium_multiple_choice_60ec2771.png)
 

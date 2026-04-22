@@ -7,9 +7,10 @@
 ## 题目
 下面是一群小动物在一起休息。从左数起小马是第（   ）位。
 
-$\begin{description}
-\item A．4\item B．5\item C．7\item D．8
-\end{description}$
+A．4
+B．5
+C．7
+D．8
 
 ![grade3_medium_multiple_choice_22e12c07.png](images/grade3_medium_multiple_choice_22e12c07.png)
 

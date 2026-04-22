@@ -7,9 +7,10 @@
 ## 题目
 一个输液瓶内有$100mL$药液，输液时要将输液瓶倒置。如果每分钟输液$2.5mL$，输液12分钟后瓶内所剩药液情况如图，这个输液瓶的容积是（  ）$mL$。
 
-$\begin{description}
-\item A．100\item B．120\item C．130\item D．150
-\end{description}$
+A．100
+B．120
+C．130
+D．150
 
 ![grade5_medium_multiple_choice_47103d7f.png](images/grade5_medium_multiple_choice_47103d7f.png)
 

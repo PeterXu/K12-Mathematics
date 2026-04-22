@@ -8,9 +8,9 @@
 桌子上放着10张长方形的卡片（如下图，单位：厘米）：
 
 从这些卡片中选出6张，组成长方体．组成的长方体表面积为（  ）平方厘米．
-$\begin{description}
-\item A．36\item B．62\item C．52
-\end{description}$
+A．36
+B．62
+C．52
 
 ![grade5_medium_hard_multiple_choice_0b8e9278.png](images/grade5_medium_hard_multiple_choice_0b8e9278.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 已知直线$\textit{a}$平行于直线$\textit{b}$，三角形$\textit{ABC}$与三角形$\textit{ABD}$的面积相比，_________．
 
-$\begin{description}
-\item A．三角形\textit{ABC}面积大\item B．三角形\textit{ABD}面积大\item C．面积一样大\item D．面积大小无法确定
-\end{description}$
+A．三角形\textit{ABC}面积大
+B．三角形\textit{ABD}面积大
+C．面积一样大
+D．面积大小无法确定
 
 ![grade6_medium_hard_multiple_choice_11cafaa8.png](images/grade6_medium_hard_multiple_choice_11cafaa8.png)
 

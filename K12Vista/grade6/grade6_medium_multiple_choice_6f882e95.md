@@ -7,9 +7,10 @@
 ## 题目
 可可用自己的零花钱刚好购买了A，B，C三种物品(如图)，如果购买A物品用了总钱数的36%，则购买C物品用了总钱数的(  )%。
 
-$\begin{description}
-\item A．78\item B．16\item C．22\item D．11
-\end{description}$
+A．78
+B．16
+C．22
+D．11
 
 ![grade6_medium_multiple_choice_6f882e95.png](images/grade6_medium_multiple_choice_6f882e95.png)
 

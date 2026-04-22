@@ -7,9 +7,9 @@
 ## 题目
 从边长5厘米的正方形的一个角上剪去一个边长1厘米的小正方形,如图所示,剪后的图形的周长与原正方形的周长相比,(  )。
 
-$\begin{description}
-\item A．剪后的图形周长长\item B．原正方形的周长长\item C．周长一样长
-\end{description}$
+A．剪后的图形周长长
+B．原正方形的周长长
+C．周长一样长
 
 ![grade6_medium_multiple_choice_ce1f00a7.png](images/grade6_medium_multiple_choice_ce1f00a7.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 如图风车绕点O旋转一定角度后能与自身重合，则旋转的角度可能是（  ）
 
-$\begin{description}
-\item A．30°\item B．45°\item C．90°\item D．135°
-\end{description}$
+A．30°
+B．45°
+C．90°
+D．135°
 ![grade6_medium_hard_multiple_choice_1fcfadc0.png](images/grade6_medium_hard_multiple_choice_1fcfadc0.png)
 
 ## 解答

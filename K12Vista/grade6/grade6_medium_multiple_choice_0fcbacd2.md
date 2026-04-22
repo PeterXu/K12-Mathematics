@@ -7,9 +7,10 @@
 ## 题目
 下图可以看作是一个等腰直角三角形旋转若干次而形成的，每次旋转的度数至少是（  ）。
 
-$\begin{description}
-\item A．90°\item B．60°\item C．45°\item D．30°
-\end{description}$
+A．90°
+B．60°
+C．45°
+D．30°
 
 ![grade6_medium_multiple_choice_0fcbacd2.png](images/grade6_medium_multiple_choice_0fcbacd2.png)
 

@@ -7,9 +7,8 @@
 ## 题目
 下面是某超市第一、三季度的饮料销售统计图，（    ）季度的月平均销售量多。 
 
-$\begin{description}
-\item A．一季度\item B．三季度
-\end{description}$
+A．一季度
+B．三季度
 
 ![grade6_medium_multiple_choice_35cc4b67.png](images/grade6_medium_multiple_choice_35cc4b67.png)
 

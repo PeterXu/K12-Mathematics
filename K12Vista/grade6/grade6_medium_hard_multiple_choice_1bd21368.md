@@ -7,9 +7,10 @@
 ## 题目
 如果正方形的边长相等，下面图形中，对阴影部分的面积描述正确的是（  ）
 
-$\begin{description}
-\item A．图1和图2大\item B．图2和图4大\item C．图4和图3大\item D．图1和图2一样大
-\end{description}$
+A．图1和图2大
+B．图2和图4大
+C．图4和图3大
+D．图1和图2一样大
 
 ![grade6_medium_hard_multiple_choice_1bd21368.png](images/grade6_medium_hard_multiple_choice_1bd21368.png)
 

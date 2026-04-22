@@ -7,9 +7,9 @@
 ## 题目
 如图，把一个圆平均分成若干份，剪开后拼成一个近似的平行四边形，那么剪拼前后这两个图形的（  ）
 
-$\begin{description}
-\item A．面积相等，周长不相等\item B．面积相等，周长也相等\item C．面积不相等，周长相等
-\end{description}$
+A．面积相等，周长不相等
+B．面积相等，周长也相等
+C．面积不相等，周长相等
 ![grade6_hard_multiple_choice_58497e8e.png](images/grade6_hard_multiple_choice_58497e8e.png)
 
 ## 解答

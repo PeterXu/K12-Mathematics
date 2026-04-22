@@ -6,9 +6,10 @@
 
 ## 题目
 图是对一份杂志（共206页）各版块的统计结果，体育版约占（  ）页．
-$\begin{description}
-\item A．10\item B．30\item C．50\item D．100
-\end{description}$
+A．10
+B．30
+C．50
+D．100
 ![grade6_medium_hard_multiple_choice_bb91bf60.png](images/grade6_medium_hard_multiple_choice_bb91bf60.png)
 
 ## 解答

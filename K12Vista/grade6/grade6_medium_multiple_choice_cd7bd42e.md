@@ -7,9 +7,9 @@
 ## 题目
 一年级同学给山区小朋友捐书，一班捐了39本，二班大概捐了（   ）本。
 
-$\begin{description}
-\item A．50\item B．82\item C．10
-\end{description}$
+A．50
+B．82
+C．10
 
 ![grade6_medium_multiple_choice_cd7bd42e.png](images/grade6_medium_multiple_choice_cd7bd42e.png)
 

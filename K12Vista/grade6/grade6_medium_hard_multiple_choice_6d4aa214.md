@@ -7,9 +7,10 @@
 ## 题目
 比较下面两个游泳池的拥挤程度，结果是（  ）
 
-$\begin{description}
-\item A．甲池拥挤\item B．乙池拥挤\item C．两池一样\item D．无法比较
-\end{description}$
+A．甲池拥挤
+B．乙池拥挤
+C．两池一样
+D．无法比较
 ![grade6_medium_hard_multiple_choice_6d4aa214.png](images/grade6_medium_hard_multiple_choice_6d4aa214.png)
 
 ## 解答

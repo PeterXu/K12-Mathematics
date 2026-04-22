@@ -7,9 +7,10 @@
 ## 题目
 有五颗相同的骰子放成一排（如图），五颗骰子底面的点数之和是（  ）
 
-$\begin{description}
-\item A．15\item B．16\item C．19\item D．20
-\end{description}$
+A．15
+B．16
+C．19
+D．20
 ![grade3_hard_multiple_choice_4f8c2878.png](images/grade3_hard_multiple_choice_4f8c2878.png)
 
 ## 解答

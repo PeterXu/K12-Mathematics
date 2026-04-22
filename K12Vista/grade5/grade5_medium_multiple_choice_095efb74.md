@@ -7,9 +7,10 @@
 ## 题目
 判断下列红花的数对正确的是（ ） 
 
-$\begin{description}
-\item A．(3.5)\item B．(2，1)\item C．(4，4)\item D．(6，2)
-\end{description}$
+A．(3.5)
+B．(2，1)
+C．(4，4)
+D．(6，2)
 
 ![grade5_medium_multiple_choice_095efb74.png](images/grade5_medium_multiple_choice_095efb74.png)
 

@@ -8,9 +8,10 @@
 下面的统计图表示的是四名同学的英语成绩，图中没有标出这四名同学的名字。已知小刚的英语成绩最好，小丽的英语成绩最差，小明比小红的英语成绩好，那么小红的英语成绩是( )分。
 四名同学的英语成绩统计图
 
-$\begin{description}
-\item A．150\item B．125\item C．100\item D．80
-\end{description}$
+A．150
+B．125
+C．100
+D．80
 
 ![grade6_medium_hard_multiple_choice_6d222c4b.png](images/grade6_medium_hard_multiple_choice_6d222c4b.png)
 

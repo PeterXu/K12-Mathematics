@@ -7,9 +7,9 @@
 ## 题目
 下列图案是轴对称图形的有（ ）个．
 
-$\begin{description}
-\item A．1\item B．2\item C．3
-\end{description}$
+A．1
+B．2
+C．3
 
 ![grade2_medium_hard_multiple_choice_f51a1bb0.png](images/grade2_medium_hard_multiple_choice_f51a1bb0.png)
 

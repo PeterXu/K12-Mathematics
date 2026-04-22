@@ -7,9 +7,9 @@
 ## 题目
 把长方形纸折叠，使CD边落在EF处，折痕为GH（如下图）。梯形GHEF和梯形ABHG的面积分别是16cm²与20cm²。长方形的面积是（  ）cm²。
 
-$\begin{description}
-\item A．40\item B．36\item C．不确定
-\end{description}$
+A．40
+B．36
+C．不确定
 
 ![grade4_medium_multiple_choice_aaabc641.png](images/grade4_medium_multiple_choice_aaabc641.png)
 

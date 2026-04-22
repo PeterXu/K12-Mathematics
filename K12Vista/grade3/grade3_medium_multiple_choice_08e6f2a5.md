@@ -7,9 +7,9 @@
 ## 题目
 
 甲、乙两图的周长（  ）
-$\begin{description}
-\item A．甲长\item B．乙长\item C．甲乙一样长
-\end{description}$
+A．甲长
+B．乙长
+C．甲乙一样长
 
 ![grade3_medium_multiple_choice_08e6f2a5.png](images/grade3_medium_multiple_choice_08e6f2a5.png)
 

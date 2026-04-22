@@ -7,9 +7,10 @@
 ## 题目
 下图是北京某一天的气温，下列说法中错误的是(   )
 
-$\begin{description}
-\item A．这一天的最高气温是24℃\item B．这一天最高气温与最低气温的差是16℃\item C．这一天中只有14时至24时之间的气温在逐渐降低\item D．这一天中8时至24时之间的气温在逐渐升高
-\end{description}$
+A．这一天的最高气温是24℃
+B．这一天最高气温与最低气温的差是16℃
+C．这一天中只有14时至24时之间的气温在逐渐降低
+D．这一天中8时至24时之间的气温在逐渐升高
 
 ![grade3_medium_hard_multiple_choice_f9272a4e.png](images/grade3_medium_hard_multiple_choice_f9272a4e.png)
 

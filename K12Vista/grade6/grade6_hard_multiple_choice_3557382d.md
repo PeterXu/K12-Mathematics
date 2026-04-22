@@ -7,9 +7,10 @@
 ## 题目
 如图，关于两个图形中阴影部分的叙述正确的是（  ）
 
-$\begin{description}
-\item A．两个图形中阴影部分的周长相等，面积不相等\item B．两个图形中阴影部分的周长和面积都相等\item C．两个图形中阴影部分的周长不相等，面积相等\item D．两个图形中阴影部分的周长和面积都不相等
-\end{description}$
+A．两个图形中阴影部分的周长相等，面积不相等
+B．两个图形中阴影部分的周长和面积都相等
+C．两个图形中阴影部分的周长不相等，面积相等
+D．两个图形中阴影部分的周长和面积都不相等
 ![grade6_hard_multiple_choice_3557382d.png](images/grade6_hard_multiple_choice_3557382d.png)
 
 ## 解答

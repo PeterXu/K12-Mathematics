@@ -7,9 +7,9 @@
 ## 题目
 下图中从M到N，路线①与路线②相比，（  ）
 
-$\begin{description}
-\item A．走路线①远\item B．走路线②远\item C．一样远
-\end{description}$
+A．走路线①远
+B．走路线②远
+C．一样远
 ![grade6_medium_hard_multiple_choice_8e8d529c.png](images/grade6_medium_hard_multiple_choice_8e8d529c.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 已知平行四边形的面积是20平方厘米，阴影部分的面积是（  ）
 
-$\begin{description}
-\item A．15平方厘米\item B．10平方厘米\item C．3.75平方厘米\item D．2.5平方厘米
-\end{description}$
+A．15平方厘米
+B．10平方厘米
+C．3.75平方厘米
+D．2.5平方厘米
 ![grade6_medium_hard_multiple_choice_2ec98554.png](images/grade6_medium_hard_multiple_choice_2ec98554.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 下面建筑物中，（   ）的外形是不对称的。
 
-$\begin{description}
-\item A．赵州桥\item B．祈年殿\item C．马尔默旋转大厦\item D．黄鹤楼
-\end{description}$
+A．赵州桥
+B．祈年殿
+C．马尔默旋转大厦
+D．黄鹤楼
 
 ![grade2_medium_multiple_choice_7ad30845.png](images/grade2_medium_multiple_choice_7ad30845.png)
 

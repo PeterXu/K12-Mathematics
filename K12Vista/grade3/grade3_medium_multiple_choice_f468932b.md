@@ -7,9 +7,10 @@
 ## 题目
 观察下列图形的构成规律，按此规律，第10个图形中棋子的个数为（    ）
 
-$\begin{description}
-\item A．51\item B．45\item C．42\item D．31
-\end{description}$
+A．51
+B．45
+C．42
+D．31
 
 ![grade3_medium_multiple_choice_f468932b.png](images/grade3_medium_multiple_choice_f468932b.png)
 

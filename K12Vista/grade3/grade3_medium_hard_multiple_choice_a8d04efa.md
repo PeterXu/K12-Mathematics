@@ -7,9 +7,9 @@
 ## 题目
 如图所示，对一袋方便面的质量，所用单位正确的是100（  ）
 
-$\begin{description}
-\item A．千克\item B．吨\item C．克
-\end{description}$
+A．千克
+B．吨
+C．克
 ![grade3_medium_hard_multiple_choice_a8d04efa.png](images/grade3_medium_hard_multiple_choice_a8d04efa.png)
 
 ## 解答

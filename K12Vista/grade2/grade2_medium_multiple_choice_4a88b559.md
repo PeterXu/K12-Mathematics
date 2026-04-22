@@ -7,9 +7,9 @@
 ## 题目
 小鸭从家里出发,到小鸡家去做客,路上用了(  )分钟。
 
-$\begin{description}
-\item A．55\item B．50\item C．45
-\end{description}$
+A．55
+B．50
+C．45
 
 ![grade2_medium_multiple_choice_4a88b559.png](images/grade2_medium_multiple_choice_4a88b559.png)
 

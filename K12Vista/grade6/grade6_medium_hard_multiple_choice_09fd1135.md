@@ -7,9 +7,9 @@
 ## 题目
 根据线段图列出的算式是（  ） 
 
-$\begin{description}
-\item A．18×3+5\item B．18×3﹣5\item C．（18﹣5）÷3
-\end{description}$
+A．18×3+5
+B．18×3﹣5
+C．（18﹣5）÷3
 
 ![grade6_medium_hard_multiple_choice_09fd1135.png](images/grade6_medium_hard_multiple_choice_09fd1135.png)
 

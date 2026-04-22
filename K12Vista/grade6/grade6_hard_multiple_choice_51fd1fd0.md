@@ -6,9 +6,10 @@
 
 ## 题目
 已知∠AOB=1rr°，OC为一条射线，射线OM、ON分别平分∠BOC和∠AOC，那么∠MON等于（  ）度．
-$\begin{description}
-\item A．50\item B．25\item C．45\item D．75
-\end{description}$
+A．50
+B．25
+C．45
+D．75
 ![grade6_hard_multiple_choice_51fd1fd0.png](images/grade6_hard_multiple_choice_51fd1fd0.png)
 
 ## 解答

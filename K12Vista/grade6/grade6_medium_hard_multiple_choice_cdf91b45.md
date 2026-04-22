@@ -6,9 +6,9 @@
 
 ## 题目
 如图两图形的周长（  ）
-$\begin{description}
-\item A．①长\item B．②长\item C．一样长
-\end{description}$
+A．①长
+B．②长
+C．一样长
 ![grade6_medium_hard_multiple_choice_cdf91b45.png](images/grade6_medium_hard_multiple_choice_cdf91b45.png)
 
 ## 解答

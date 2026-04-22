@@ -7,9 +7,9 @@
 ## 题目
 下图中，点O是平行四边形一条边上的中点，则梯形的面积是三角形面积的(  )倍。
 
-$\begin{description}
-\item A．2\item B．3\item C．4
-\end{description}$
+A．2
+B．3
+C．4
 
 ![grade5_medium_multiple_choice_65b9002d.png](images/grade5_medium_multiple_choice_65b9002d.png)
 

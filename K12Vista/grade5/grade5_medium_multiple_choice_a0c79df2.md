@@ -7,9 +7,10 @@
 ## 题目
 如下图，是一个正方体展开图，当把它重新折叠成一个正方体时，3与（   ）重合。
 
-$\begin{description}
-\item A．4\item B．5\item C．6\item D．9
-\end{description}$
+A．4
+B．5
+C．6
+D．9
 
 ![grade5_medium_multiple_choice_a0c79df2.png](images/grade5_medium_multiple_choice_a0c79df2.png)
 

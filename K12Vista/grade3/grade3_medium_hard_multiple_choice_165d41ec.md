@@ -8,9 +8,9 @@
 某商店一周内的盈亏情况如下表：
 
 这个商店这周内总情况是（ ）
-$\begin{description}
-\item A．盈利\item B．亏损\item C．不盈不亏
-\end{description}$
+A．盈利
+B．亏损
+C．不盈不亏
 
 ![grade3_medium_hard_multiple_choice_165d41ec.png](images/grade3_medium_hard_multiple_choice_165d41ec.png)
 

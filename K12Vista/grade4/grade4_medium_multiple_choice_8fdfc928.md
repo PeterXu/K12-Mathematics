@@ -7,9 +7,10 @@
 ## 题目
 如图的计算，方框里的20表示（   ）。
 
-$\begin{description}
-\item A．20个一\item B．20十分之一\item C．20个百分之一\item D．20个千分之一
-\end{description}$
+A．20个一
+B．20十分之一
+C．20个百分之一
+D．20个千分之一
 
 ![grade4_medium_multiple_choice_8fdfc928.png](images/grade4_medium_multiple_choice_8fdfc928.png)
 

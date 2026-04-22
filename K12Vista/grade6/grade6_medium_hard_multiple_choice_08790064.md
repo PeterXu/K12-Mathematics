@@ -7,9 +7,9 @@
 ## 题目
 根据图中依次描述，正确的答案是（  ）
 
-$\begin{description}
-\item A．锐角、钝角、周角、直角\item B．锐角、钝角、直角、平角\item C．锐角、钝角、平角、直角
-\end{description}$
+A．锐角、钝角、周角、直角
+B．锐角、钝角、直角、平角
+C．锐角、钝角、平角、直角
 ![grade6_medium_hard_multiple_choice_08790064.png](images/grade6_medium_hard_multiple_choice_08790064.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 从上面看到的形状是一样的是（  ）。
 
-$\begin{description}
-\item A．A和B\item B．A和C\item C．B和C
-\end{description}$
+A．A和B
+B．A和C
+C．B和C
 
 ![grade1_medium_multiple_choice_735e96da.png](images/grade1_medium_multiple_choice_735e96da.png)
 

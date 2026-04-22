@@ -7,9 +7,9 @@
 ## 题目
 在下图中摆放在桌面上的4个正方体，有（    ）个面露在外。
 
-$\begin{description}
-\item A．14\item B．12\item C．10
-\end{description}$
+A．14
+B．12
+C．10
 
 ![grade5_medium_multiple_choice_dd58d543.png](images/grade5_medium_multiple_choice_dd58d543.png)
 

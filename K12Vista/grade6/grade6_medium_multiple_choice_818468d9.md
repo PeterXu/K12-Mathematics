@@ -7,9 +7,10 @@
 ## 题目
 男生可能有（  ）名。
 
-$\begin{description}
-\item A．20\item B．24\item C．30\item D．60
-\end{description}$
+A．20
+B．24
+C．30
+D．60
 
 ![grade6_medium_multiple_choice_818468d9.png](images/grade6_medium_multiple_choice_818468d9.png)
 

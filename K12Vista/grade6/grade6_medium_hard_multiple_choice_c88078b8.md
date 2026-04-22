@@ -7,9 +7,10 @@
 ## 题目
 图中对顶角有（  ）对．
 
-$\begin{description}
-\item A．3\item B．4\item C．5\item D．6
-\end{description}$
+A．3
+B．4
+C．5
+D．6
 ![grade6_medium_hard_multiple_choice_c88078b8.png](images/grade6_medium_hard_multiple_choice_c88078b8.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 下图中两个平行四边形的面积相等，比较甲、乙两个三角形的面积，结果怎么样？（    ）
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＝乙\item C．甲＜乙
-\end{description}$
+A．甲＞乙
+B．甲＝乙
+C．甲＜乙
 
 ![grade6_medium_multiple_choice_b42179b2.png](images/grade6_medium_multiple_choice_b42179b2.png)
 

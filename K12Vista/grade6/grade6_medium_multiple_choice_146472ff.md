@@ -7,9 +7,9 @@
 ## 题目
 最长的铅笔是：（  ） 
 
-$\begin{description}
-\item A．A\item B．B\item C．C
-\end{description}$
+A．A
+B．B
+C．C
 
 ![grade6_medium_multiple_choice_146472ff.png](images/grade6_medium_multiple_choice_146472ff.png)
 

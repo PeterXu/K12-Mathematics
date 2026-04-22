@@ -7,9 +7,10 @@
 ## 题目
 阴影部分的面积是 （  ）平方厘米．
 
-$\begin{description}
-\item A．48\item B．96\item C．40\item D．60
-\end{description}$
+A．48
+B．96
+C．40
+D．60
 ![grade5_medium_hard_multiple_choice_0879cead.png](images/grade5_medium_hard_multiple_choice_0879cead.png)
 
 ## 解答

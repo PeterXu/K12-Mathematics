@@ -7,9 +7,9 @@
 ## 题目
 数一数，下图有(    )个正方形。
 
-$\begin{description}
-\item A．9\item B．10\item C．14
-\end{description}$
+A．9
+B．10
+C．14
 
 ![grade6_medium_multiple_choice_e9af6414.png](images/grade6_medium_multiple_choice_e9af6414.png)
 

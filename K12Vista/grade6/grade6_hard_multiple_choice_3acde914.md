@@ -6,9 +6,10 @@
 
 ## 题目
 今有甲、乙两个大小相同的正三角形，各画出了一条两边中点的连线，如图，甲、乙位置左右对称，但甲、乙内部所画线段的位置不对称，从图中所示的位置开始，甲向右水平移动，直至两个三角形重叠后在离开．在移动过程中的每个位置，甲与乙所组成的图形中都有若干个三角形，那么三角形个数最多的位置，图形中有（  ）个三角形．
-$\begin{description}
-\item A．9\item B．10\item C．11\item D．12
-\end{description}$
+A．9
+B．10
+C．11
+D．12
 ![grade6_hard_multiple_choice_3acde914.png](images/grade6_hard_multiple_choice_3acde914.png)
 
 ## 解答

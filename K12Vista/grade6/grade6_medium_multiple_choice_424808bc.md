@@ -7,9 +7,10 @@
 ## 题目
 超市在小亮家的（  ）方向上
 
-$\begin{description}
-\item A．南偏西30°\item B．北偏西30°\item C．东偏北30°\item D．西偏南30°
-\end{description}$
+A．南偏西30°
+B．北偏西30°
+C．东偏北30°
+D．西偏南30°
 
 ![grade6_medium_multiple_choice_424808bc.png](images/grade6_medium_multiple_choice_424808bc.png)
 

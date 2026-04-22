@@ -7,9 +7,10 @@
 ## 题目
 下面图形中能用$\frac{1}{2}$表示涂色部分面积的有（  ）
 
-$\begin{description}
-\item A．1个\item B．2个\item C．3个\item D．4个
-\end{description}$
+A．1个
+B．2个
+C．3个
+D．4个
 ![grade6_hard_multiple_choice_53ff2399.png](images/grade6_hard_multiple_choice_53ff2399.png)
 
 ## 解答

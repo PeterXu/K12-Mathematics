@@ -7,9 +7,9 @@
 ## 题目
 下面哪种付钱方法最简便？（   ）
 
-$\begin{description}
-\item A．6张1元，7张1角\item B．3张2元，1张5角，2张1角\item C．1张5元，1张1元，1张5角，1张2角
-\end{description}$
+A．6张1元，7张1角
+B．3张2元，1张5角，2张1角
+C．1张5元，1张1元，1张5角，1张2角
 
 ![grade6_medium_multiple_choice_ee497251.png](images/grade6_medium_multiple_choice_ee497251.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 下面三个图形中，（  ）不是四边形．
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 ![grade4_medium_hard_multiple_choice_72b6e561.png](images/grade4_medium_hard_multiple_choice_72b6e561.png)
 
 ## 解答

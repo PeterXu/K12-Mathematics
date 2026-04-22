@@ -7,9 +7,10 @@
 ## 题目
 看下列图示，图中的x对应的值是（  ）
 
-$\begin{description}
-\item A．3\item B．4\item C．5\item D．6
-\end{description}$
+A．3
+B．4
+C．5
+D．6
 ![grade5_medium_hard_multiple_choice_889045ea.png](images/grade5_medium_hard_multiple_choice_889045ea.png)
 
 ## 解答

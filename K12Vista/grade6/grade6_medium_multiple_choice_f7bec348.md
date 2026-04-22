@@ -7,9 +7,9 @@
 ## 题目
 下面左图中的B绕自己的中心点（   ）时针旋转（   ）°后得到右图，正确的是（    ）。
 
-$\begin{description}
-\item A．顺90\item B．逆90\item C．顺180
-\end{description}$
+A．顺90
+B．逆90
+C．顺180
 
 ![grade6_medium_multiple_choice_f7bec348.png](images/grade6_medium_multiple_choice_f7bec348.png)
 

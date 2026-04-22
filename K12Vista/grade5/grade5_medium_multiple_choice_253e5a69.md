@@ -7,9 +7,9 @@
 ## 题目
 如图两个正方形中阴影部分的面积是(    )．
 
-$\begin{description}
-\item A．30平方厘米\item B．22平方厘米\item C．50平方厘米
-\end{description}$
+A．30平方厘米
+B．22平方厘米
+C．50平方厘米
 
 ![grade5_medium_multiple_choice_253e5a69.png](images/grade5_medium_multiple_choice_253e5a69.png)
 

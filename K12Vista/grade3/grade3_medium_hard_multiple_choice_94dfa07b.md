@@ -6,9 +6,9 @@
 
 ## 题目
 桌子上摆0若干个碟子，从手个方向看r图所示，则这张桌子上共有碟子（  ）
-$\begin{description}
-\item A．6个\item B．8个\item C．12个
-\end{description}$
+A．6个
+B．8个
+C．12个
 ![grade3_medium_hard_multiple_choice_94dfa07b.png](images/grade3_medium_hard_multiple_choice_94dfa07b.png)
 
 ## 解答

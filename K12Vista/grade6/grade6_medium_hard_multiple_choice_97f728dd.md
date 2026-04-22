@@ -6,9 +6,9 @@
 
 ## 题目
 如右图所示，这个小小的升降机应用的原理是（  ）
-$\begin{description}
-\item A．三角形的稳定性\item B．三角形的内角和是180°\item C．三角形很美丽
-\end{description}$
+A．三角形的稳定性
+B．三角形的内角和是180°
+C．三角形很美丽
 ![grade6_medium_hard_multiple_choice_97f728dd.png](images/grade6_medium_hard_multiple_choice_97f728dd.png)
 
 ## 解答

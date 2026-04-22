@@ -8,9 +8,9 @@
 笑笑跳了45下。
 
 小男孩可能跳了（   ）下，小女孩可能跳了（   ）下。
-$\begin{description}
-\item A．35下；40下\item B．50下；80下\item C．80下；50下
-\end{description}$
+A．35下；40下
+B．50下；80下
+C．80下；50下
 
 ![grade6_medium_multiple_choice_5c31796a.png](images/grade6_medium_multiple_choice_5c31796a.png)
 

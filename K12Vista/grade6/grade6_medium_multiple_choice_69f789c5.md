@@ -7,9 +7,9 @@
 ## 题目
 如图所示的图形的周长是(  )。
 
-$\begin{description}
-\item A．25. 12 cm\item B．12. 56 cm\item C．20. 56 cm
-\end{description}$
+A．25. 12 cm
+B．12. 56 cm
+C．20. 56 cm
 
 ![grade6_medium_multiple_choice_69f789c5.png](images/grade6_medium_multiple_choice_69f789c5.png)
 

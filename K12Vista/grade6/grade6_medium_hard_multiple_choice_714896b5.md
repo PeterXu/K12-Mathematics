@@ -6,9 +6,9 @@
 
 ## 题目
 如图，图甲是平行四边形，h列说法正确了是（  ）（单位：厘米）
-$\begin{description}
-\item A．甲、乙、丙三个图形面积相等\item B．甲、乙、丙三个图形面积不相等\item C．只有甲和乙两个图形面积相等
-\end{description}$
+A．甲、乙、丙三个图形面积相等
+B．甲、乙、丙三个图形面积不相等
+C．只有甲和乙两个图形面积相等
 ![grade6_medium_hard_multiple_choice_714896b5.png](images/grade6_medium_hard_multiple_choice_714896b5.png)
 
 ## 解答

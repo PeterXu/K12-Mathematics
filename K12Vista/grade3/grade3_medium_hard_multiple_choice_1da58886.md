@@ -7,9 +7,11 @@
 ## 题目
 如图，下列描述错误的是（  ）
 
-$\begin{description}
-\item A．少年宫在学校的西偏北60°\item B．超市在学校的东偏北45°\item C．游泳馆在学校的东面\item D．图书馆在学校的西偏南40°\item E．游泳馆在学校的东面
-\end{description}$
+A．少年宫在学校的西偏北60°
+B．超市在学校的东偏北45°
+C．游泳馆在学校的东面
+D．图书馆在学校的西偏南40°
+E．游泳馆在学校的东面
 ![grade3_medium_hard_multiple_choice_1da58886.png](images/grade3_medium_hard_multiple_choice_1da58886.png)
 
 ## 解答

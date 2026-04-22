@@ -7,9 +7,9 @@
 ## 题目
 如图所示，从下列复式条形图中获取知识信息不正确的是（  ）
 
-$\begin{description}
-\item A．能够知道每个班的男生和女生的人数\item B．能够算出5个班的总人数\item C．男生人数最少的班是5年级5班
-\end{description}$
+A．能够知道每个班的男生和女生的人数
+B．能够算出5个班的总人数
+C．男生人数最少的班是5年级5班
 ![grade6_medium_hard_multiple_choice_f6486cc0.png](images/grade6_medium_hard_multiple_choice_f6486cc0.png)
 
 ## 解答

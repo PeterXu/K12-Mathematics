@@ -7,9 +7,10 @@
 ## 题目
 下图是丁小乖去图书馆的折线统计图，他在（      ）区间内，走的路程与时间成正比例关系。
 
-$\begin{description}
-\item A．8:30～8:45\item B．8:45～9:45\item C．9:45～10:30\item D．以上答案都不正确
-\end{description}$
+A．8:30～8:45
+B．8:45～9:45
+C．9:45～10:30
+D．以上答案都不正确
 
 ![grade6_medium_multiple_choice_0f4e0d9f.png](images/grade6_medium_multiple_choice_0f4e0d9f.png)
 

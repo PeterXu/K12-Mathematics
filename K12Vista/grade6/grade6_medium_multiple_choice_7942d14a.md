@@ -7,9 +7,9 @@
 ## 题目
 下面图形面积是（  ）
 
-$\begin{description}
-\item A．12cm^{2}\item B．24cm^{2}\item C．18cm^{2}
-\end{description}$
+A．12cm^{2}
+B．24cm^{2}
+C．18cm^{2}
 
 ![grade6_medium_multiple_choice_7942d14a.png](images/grade6_medium_multiple_choice_7942d14a.png)
 

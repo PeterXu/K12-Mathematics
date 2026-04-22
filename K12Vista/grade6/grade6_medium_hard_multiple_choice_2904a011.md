@@ -7,9 +7,9 @@
 ## 题目
 如图，小丽摸到哪种糖果的可能性大（  ）
 
-$\begin{description}
-\item A．苹果味\item B．玉米味\item C．一样大
-\end{description}$
+A．苹果味
+B．玉米味
+C．一样大
 ![grade6_medium_hard_multiple_choice_2904a011.png](images/grade6_medium_hard_multiple_choice_2904a011.png)
 
 ## 解答

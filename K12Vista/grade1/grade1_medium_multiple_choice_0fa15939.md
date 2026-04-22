@@ -7,9 +7,9 @@
 ## 题目
 数一数，图中至少由_______个小正方体组成．
 
-$\begin{description}
-\item A．5\item B．6\item C．7
-\end{description}$
+A．5
+B．6
+C．7
 
 ![grade1_medium_multiple_choice_0fa15939.png](images/grade1_medium_multiple_choice_0fa15939.png)
 

@@ -8,9 +8,9 @@
 下面是某校四至六年级学生视力情况统计表．
 
 视力不合格人数最多的是（   ）
-$\begin{description}
-\item A．四年级\item B．五年级\item C．六年级
-\end{description}$
+A．四年级
+B．五年级
+C．六年级
 
 ![grade6_medium_multiple_choice_df84478a.png](images/grade6_medium_multiple_choice_df84478a.png)
 

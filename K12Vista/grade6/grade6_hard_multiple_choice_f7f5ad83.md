@@ -7,9 +7,10 @@
 ## 题目
 如图：图1阴影部分的面积和图2阴影部分面积的比是（  ）
 
-$\begin{description}
-\item A．1：1\item B．2：3\item C．3：2\item D．不能确定
-\end{description}$
+A．1：1
+B．2：3
+C．3：2
+D．不能确定
 ![grade6_hard_multiple_choice_f7f5ad83.png](images/grade6_hard_multiple_choice_f7f5ad83.png)
 
 ## 解答

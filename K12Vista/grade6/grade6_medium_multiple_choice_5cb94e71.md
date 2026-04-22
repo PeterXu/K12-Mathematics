@@ -7,9 +7,9 @@
 ## 题目
 猴哥摘了45个桃，猴弟摘的桃比猴哥少一些，猴弟可能摘了（   ）。
 
-$\begin{description}
-\item A．40个\item B．15个\item C．48个
-\end{description}$
+A．40个
+B．15个
+C．48个
 
 ![grade6_medium_multiple_choice_5cb94e71.png](images/grade6_medium_multiple_choice_5cb94e71.png)
 

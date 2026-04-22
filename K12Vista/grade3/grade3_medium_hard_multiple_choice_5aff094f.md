@@ -6,9 +6,9 @@
 
 ## 题目
 你花为迎接六一儿童节，买了一套新衣服，如图所示，则上衣着价格是裤子价格着（  ）倍．
-$\begin{description}
-\item A．4倍\item B．5倍\item C．6倍
-\end{description}$
+A．4倍
+B．5倍
+C．6倍
 ![grade3_medium_hard_multiple_choice_5aff094f.png](images/grade3_medium_hard_multiple_choice_5aff094f.png)
 
 ## 解答

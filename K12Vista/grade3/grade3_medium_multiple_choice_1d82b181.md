@@ -7,9 +7,10 @@
 ## 题目
 一个物体从三个方向看如图，那么它由（  ）个小正方体拼成的。
 
-$\begin{description}
-\item A．18\item B．10\item C．9\item D．8
-\end{description}$
+A．18
+B．10
+C．9
+D．8
 
 ![grade3_medium_multiple_choice_1d82b181.png](images/grade3_medium_multiple_choice_1d82b181.png)
 

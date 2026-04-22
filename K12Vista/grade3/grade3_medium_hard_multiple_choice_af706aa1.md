@@ -7,9 +7,10 @@
 ## 题目
 有一些大小相同的正方形木块堆成一堆，从上往下看是图（1），从前往后看是图（2），从左往右看是图（3），这堆木块共有（  ）块．
 
-$\begin{description}
-\item A．9\item B．10\item C．11\item D．12
-\end{description}$
+A．9
+B．10
+C．11
+D．12
 ![grade3_medium_hard_multiple_choice_af706aa1.png](images/grade3_medium_hard_multiple_choice_af706aa1.png)
 
 ## 解答

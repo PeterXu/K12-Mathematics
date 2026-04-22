@@ -7,9 +7,10 @@
 ## 题目
 王奶奶家的院子里原来有一个长8米、宽4米的全部用栅栏围成的长方形鸡舍（如图1所示）。她在院子墙边重新建一个一面靠墙的正方形鸡舍（如图2所示），如果只用原来鸡舍的旧栅栏围，那么王奶奶最大可以围成一个边长是（     ）米的正方形鸡舍。
 
-$\begin{description}
-\item A．3\item B．4\item C．6\item D．8
-\end{description}$
+A．3
+B．4
+C．6
+D．8
 
 ![grade3_medium_hard_multiple_choice_16ebac2c.png](images/grade3_medium_hard_multiple_choice_16ebac2c.png)
 

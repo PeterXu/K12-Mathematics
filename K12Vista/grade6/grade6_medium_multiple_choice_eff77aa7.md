@@ -7,9 +7,9 @@
 ## 题目
 樱桃丰收了，林林准备从下面的三份樱桃中选两份给奶奶尝尝，他最多可以送给奶奶(    )个樱桃。
 
-$\begin{description}
-\item A．12\item B．10\item C．14
-\end{description}$
+A．12
+B．10
+C．14
 
 ![grade6_medium_multiple_choice_eff77aa7.png](images/grade6_medium_multiple_choice_eff77aa7.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 数一数,包含☆的正方形有 (  )
 
-$\begin{description}
-\item A．1个\item B．2个\item C．3个\item D．4个
-\end{description}$
+A．1个
+B．2个
+C．3个
+D．4个
 
 ![grade6_medium_multiple_choice_4a7f5491.png](images/grade6_medium_multiple_choice_4a7f5491.png)
 

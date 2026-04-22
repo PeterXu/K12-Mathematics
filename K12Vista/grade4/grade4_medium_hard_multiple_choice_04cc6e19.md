@@ -7,9 +7,11 @@
 ## 题目
 从A点到BC所作的垂线段是（  ）
 
-$\begin{description}
-\item A．AB\item B．AD\item C．AE\item D．AF\item E．AC
-\end{description}$
+A．AB
+B．AD
+C．AE
+D．AF
+E．AC
 ![grade4_medium_hard_multiple_choice_04cc6e19.png](images/grade4_medium_hard_multiple_choice_04cc6e19.png)
 
 ## 解答

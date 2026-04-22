@@ -7,9 +7,9 @@
 ## 题目
 马的奔跑速度是每小时40.5 km。猎豹每小时奔跑多少千米？列式正确的是(  )。
 
-$\begin{description}
-\item A．40.5×1.62\item B．40.5×2.9\item C．40.5＋2.9
-\end{description}$
+A．40.5×1.62
+B．40.5×2.9
+C．40.5＋2.9
 
 ![grade3_medium_multiple_choice_599ff47d.png](images/grade3_medium_multiple_choice_599ff47d.png)
 

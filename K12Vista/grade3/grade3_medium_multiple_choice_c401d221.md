@@ -7,9 +7,10 @@
 ## 题目
 看图列式计算，正确的是（ ） .
 
-$\begin{description}
-\item A．8＋3=11(只)\item B．8－3=5(只)\item C．8－5=3(只)\item D．3＋8=11(只)
-\end{description}$
+A．8＋3=11(只)
+B．8－3=5(只)
+C．8－5=3(只)
+D．3＋8=11(只)
 
 ![grade3_medium_multiple_choice_c401d221.png](images/grade3_medium_multiple_choice_c401d221.png)
 

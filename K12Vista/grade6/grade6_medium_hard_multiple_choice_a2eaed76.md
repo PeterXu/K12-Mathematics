@@ -7,9 +7,10 @@
 ## 题目
 如图从（  ）号箱子里摸到红球可能性是20%：
 
-$\begin{description}
-\item A．1号\item B．2号\item C．3号\item D．4号
-\end{description}$
+A．1号
+B．2号
+C．3号
+D．4号
 ![grade6_medium_hard_multiple_choice_a2eaed76.png](images/grade6_medium_hard_multiple_choice_a2eaed76.png)
 
 ## 解答

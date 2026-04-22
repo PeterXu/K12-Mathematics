@@ -7,9 +7,10 @@
 ## 题目
 爸爸为小丹买了一个学习桌，桌面长10分米，宽7分米。按图所示摆放，她的学习桌离东面墙的距离还剩（   ）。
 
-$\begin{description}
-\item A．2分米\item B．20分米\item C．23分米\item D．30分米
-\end{description}$
+A．2分米
+B．20分米
+C．23分米
+D．30分米
 
 ![grade6_medium_multiple_choice_c4558597.png](images/grade6_medium_multiple_choice_c4558597.png)
 

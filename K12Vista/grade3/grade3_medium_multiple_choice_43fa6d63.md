@@ -7,9 +7,9 @@
 ## 题目
 看图，数一数，圈一圈，两个圈在一起能圈出（   ）圈．
 
-$\begin{description}
-\item A．3\item B．4\item C．5
-\end{description}$
+A．3
+B．4
+C．5
 
 ![grade3_medium_multiple_choice_43fa6d63.png](images/grade3_medium_multiple_choice_43fa6d63.png)
 

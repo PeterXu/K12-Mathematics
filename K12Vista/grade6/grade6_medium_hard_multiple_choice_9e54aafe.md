@@ -7,9 +7,9 @@
 ## 题目
 如图所示，用分数表示正确的是（  ）
 
-$\begin{description}
-\item A．\frac{1}{3}\item B．\frac{1}{4}\item C．\frac{1}{5}
-\end{description}$
+A．$\frac{1}{3}$
+B．$\frac{1}{4}$
+C．$\frac{1}{5}$
 ![grade6_medium_hard_multiple_choice_9e54aafe.png](images/grade6_medium_hard_multiple_choice_9e54aafe.png)
 
 ## 解答

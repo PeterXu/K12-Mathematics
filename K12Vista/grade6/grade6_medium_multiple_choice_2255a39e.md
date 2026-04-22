@@ -7,9 +7,10 @@
 ## 题目
 面点坊出售不同口味月饼，乐乐想要购买五仁月饼和豆沙月饼各 1 块，她应付多少钱？ _______
 
-$\begin{description}
-\item A．4元8角\item B．5元6角\item C．6元4角\item D．11元2角
-\end{description}$
+A．4元8角
+B．5元6角
+C．6元4角
+D．11元2角
 
 ![grade6_medium_multiple_choice_2255a39e.png](images/grade6_medium_multiple_choice_2255a39e.png)
 

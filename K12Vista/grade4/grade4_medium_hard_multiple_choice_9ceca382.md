@@ -7,9 +7,9 @@
 ## 题目
 如图，∠1等于（  ）度．
 
-$\begin{description}
-\item A．15°\item B．45°\item C．60°
-\end{description}$
+A．15°
+B．45°
+C．60°
 ![grade4_medium_hard_multiple_choice_9ceca382.png](images/grade4_medium_hard_multiple_choice_9ceca382.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 如图，甲、乙、丙三个图形的周长相比，(  )。(单位：厘米)
 
-$\begin{description}
-\item A．甲的周长长\item B．乙的周长长\item C．丙的周长长\item D．无法比较
-\end{description}$
+A．甲的周长长
+B．乙的周长长
+C．丙的周长长
+D．无法比较
 
 ![grade6_medium_multiple_choice_4edf3653.png](images/grade6_medium_multiple_choice_4edf3653.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 下图中的a点表示的数是(    )。
 
-$\begin{description}
-\item A．900\item B．905\item C．950\item D．105
-\end{description}$
+A．900
+B．905
+C．950
+D．105
 
 ![grade6_medium_multiple_choice_ecfa489a.png](images/grade6_medium_multiple_choice_ecfa489a.png)
 

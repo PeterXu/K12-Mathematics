@@ -7,9 +7,9 @@
 ## 题目
 角1加角2等于（ ）。          
 
-$\begin{description}
-\item A．30º\item B．150º\item C．180º
-\end{description}$
+A．30º
+B．150º
+C．180º
 
 ![grade1_medium_multiple_choice_b573b11f.png](images/grade1_medium_multiple_choice_b573b11f.png)
 

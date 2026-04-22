@@ -7,9 +7,10 @@
 ## 题目
 如图，每个小方格的边长是1厘米，大长方形的面积是（  ）
 
-$\begin{description}
-\item A．7平方厘米\item B．10平方厘米\item C．16平方厘米\item D．28平方厘米
-\end{description}$
+A．7平方厘米
+B．10平方厘米
+C．16平方厘米
+D．28平方厘米
 ![grade6_medium_hard_multiple_choice_9ef581f8.png](images/grade6_medium_hard_multiple_choice_9ef581f8.png)
 
 ## 解答

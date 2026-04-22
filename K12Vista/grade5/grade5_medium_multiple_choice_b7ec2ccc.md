@@ -7,9 +7,10 @@
 ## 题目
 有一个由正方体积木搭起的图形从三个不同的方向看的图形如下，那么这个图形至少由(  )个小正方体搭成。
 
-$\begin{description}
-\item A．3\item B．4\item C．5\item D．6
-\end{description}$
+A．3
+B．4
+C．5
+D．6
 
 ![grade5_medium_multiple_choice_b7ec2ccc.png](images/grade5_medium_multiple_choice_b7ec2ccc.png)
 

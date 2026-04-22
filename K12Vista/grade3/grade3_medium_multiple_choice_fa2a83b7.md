@@ -7,9 +7,10 @@
 ## 题目
 明明用石子摆出了图中的图案，根据规律判断第6个图案中石子总数为(  )。
 
-$\begin{description}
-\item A．12\item B．16\item C．20\item D．24
-\end{description}$
+A．12
+B．16
+C．20
+D．24
 
 ![grade3_medium_multiple_choice_fa2a83b7.png](images/grade3_medium_multiple_choice_fa2a83b7.png)
 

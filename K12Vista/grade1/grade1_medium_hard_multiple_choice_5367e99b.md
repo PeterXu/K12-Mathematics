@@ -6,9 +6,9 @@
 
 ## 题目
 如图，图中共有（  ）个长方形．
-$\begin{description}
-\item A．8\item B．9\item C．10
-\end{description}$
+A．8
+B．9
+C．10
 ![grade1_medium_hard_multiple_choice_5367e99b.png](images/grade1_medium_hard_multiple_choice_5367e99b.png)
 
 ## 解答

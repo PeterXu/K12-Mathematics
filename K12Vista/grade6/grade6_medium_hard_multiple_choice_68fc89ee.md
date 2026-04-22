@@ -7,9 +7,10 @@
 ## 题目
 图中周长最短的是（  ）号图形．
 
-$\begin{description}
-\item A．1\item B．2\item C．3\item D．4
-\end{description}$
+A．1
+B．2
+C．3
+D．4
 ![grade6_medium_hard_multiple_choice_68fc89ee.png](images/grade6_medium_hard_multiple_choice_68fc89ee.png)
 
 ## 解答

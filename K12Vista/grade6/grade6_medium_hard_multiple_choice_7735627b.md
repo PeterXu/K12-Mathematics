@@ -6,9 +6,10 @@
 
 ## 题目
 图中一个小正方形的面积表示1平方厘米，请你估一估阴影部分面积大约是（  ）平方厘米．
-$\begin{description}
-\item A．10\item B．15\item C．20\item D．30
-\end{description}$
+A．10
+B．15
+C．20
+D．30
 ![grade6_medium_hard_multiple_choice_7735627b.png](images/grade6_medium_hard_multiple_choice_7735627b.png)
 
 ## 解答

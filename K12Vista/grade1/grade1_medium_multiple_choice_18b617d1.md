@@ -7,9 +7,9 @@
 ## 题目
 如图，属于钝角三角形ABC的高的是（  ）
 
-$\begin{description}
-\item A．1\item B．2\item C．3
-\end{description}$
+A．1
+B．2
+C．3
 
 ![grade1_medium_multiple_choice_18b617d1.png](images/grade1_medium_multiple_choice_18b617d1.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 有一份《华盛顿日报》，此报纸共206页，看图估计：体育版约占多少页？（  ）
 
-$\begin{description}
-\item A．10\item B．30\item C．50\item D．100
-\end{description}$
+A．10
+B．30
+C．50
+D．100
 ![grade6_medium_hard_multiple_choice_4eb84ef4.png](images/grade6_medium_hard_multiple_choice_4eb84ef4.png)
 
 ## 解答

@@ -7,9 +7,9 @@
 ## 题目
 如图所示图形中面积最大的是（  ）
 
-$\begin{description}
-\item A．①\item B．②\item C．③
-\end{description}$
+A．①
+B．②
+C．③
 ![grade6_medium_hard_multiple_choice_6fa04b0f.png](images/grade6_medium_hard_multiple_choice_6fa04b0f.png)
 
 ## 解答

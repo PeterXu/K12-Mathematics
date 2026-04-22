@@ -7,9 +7,10 @@
 ## 题目
 芳芳从家出发去看电影．当她走了着约一半的路程时，发现没带电影票，于是她立刻跑回家取票，之后又赶紧跑到电影院，看完电影，再走回家．下面图（  ）符合题目中所描述的情况．
 
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．④
-\end{description}$
+A．①
+B．②
+C．③
+D．④
 ![grade6_hard_multiple_choice_c657b1ae.png](images/grade6_hard_multiple_choice_c657b1ae.png)
 
 ## 解答

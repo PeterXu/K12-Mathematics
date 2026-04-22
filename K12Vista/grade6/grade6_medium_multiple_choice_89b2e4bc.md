@@ -7,9 +7,10 @@
 ## 题目
 钟面上表示的时刻是（   ）。 
 
-$\begin{description}
-\item A．6时\item B．9时半\item C．7时\item D．2时半
-\end{description}$
+A．6时
+B．9时半
+C．7时
+D．2时半
 
 ![grade6_medium_multiple_choice_89b2e4bc.png](images/grade6_medium_multiple_choice_89b2e4bc.png)
 

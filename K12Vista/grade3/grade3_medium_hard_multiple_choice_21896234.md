@@ -7,9 +7,9 @@
 ## 题目
 如图中，北京市在山东省的（  ）
 
-$\begin{description}
-\item A．西偏南方向\item B．东偏南方向\item C．西偏北方向
-\end{description}$
+A．西偏南方向
+B．东偏南方向
+C．西偏北方向
 ![grade3_medium_hard_multiple_choice_21896234.png](images/grade3_medium_hard_multiple_choice_21896234.png)
 
 ## 解答

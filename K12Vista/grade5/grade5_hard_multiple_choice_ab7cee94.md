@@ -7,9 +7,9 @@
 ## 题目
 两个长方形的纸条面积相等，重叠后图形的周长是（  ）
 
-$\begin{description}
-\item A．62\item B．66\item C．68
-\end{description}$
+A．62
+B．66
+C．68
 ![grade5_hard_multiple_choice_ab7cee94.png](images/grade5_hard_multiple_choice_ab7cee94.png)
 
 ## 解答

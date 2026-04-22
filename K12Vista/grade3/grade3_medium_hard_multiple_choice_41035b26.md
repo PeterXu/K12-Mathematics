@@ -7,9 +7,9 @@
 ## 题目
 下图中共有（   ）线段。 
 
-$\begin{description}
-\item A．4条\item B．5条\item C．6条
-\end{description}$
+A．4条
+B．5条
+C．6条
 
 ![grade3_medium_hard_multiple_choice_41035b26.png](images/grade3_medium_hard_multiple_choice_41035b26.png)
 

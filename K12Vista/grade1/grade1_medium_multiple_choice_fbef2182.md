@@ -7,9 +7,9 @@
 ## 题目
 如下图，在三角形ABC中，边AB上的高是（  ）。
 
-$\begin{description}
-\item A．CB\item B．CD\item C．EB
-\end{description}$
+A．CB
+B．CD
+C．EB
 
 ![grade1_medium_multiple_choice_fbef2182.png](images/grade1_medium_multiple_choice_fbef2182.png)
 

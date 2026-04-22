@@ -6,9 +6,9 @@
 
 ## 题目
 如图中一共有（  ）个三角形．
-$\begin{description}
-\item A．8\item B．9\item C．10
-\end{description}$
+A．8
+B．9
+C．10
 ![grade1_medium_hard_multiple_choice_3025526d.png](images/grade1_medium_hard_multiple_choice_3025526d.png)
 
 ## 解答

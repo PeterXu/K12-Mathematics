@@ -7,9 +7,10 @@
 ## 题目
 有三个相同的骰子摆放如下图，底面点数之和最小是(  )
 
-$\begin{description}
-\item A．10\item B．11\item C．12\item D．无法判断
-\end{description}$
+A．10
+B．11
+C．12
+D．无法判断
 
 ![grade5_medium_multiple_choice_3b1768a7.png](images/grade5_medium_multiple_choice_3b1768a7.png)
 

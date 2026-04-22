@@ -7,9 +7,10 @@
 ## 题目
 如图，点(0，0)、(1，2)、(2，4)、(3，6)均在一条直线上，下面各点中，点（  ）不在这条直线上．
 
-$\begin{description}
-\item A．(5，10)\item B．(4，8)\item C．(10，5)\item D．(2.5，5)
-\end{description}$
+A．(5，10)
+B．(4，8)
+C．(10，5)
+D．(2.5，5)
 
 ![grade3_medium_multiple_choice_15223d13.png](images/grade3_medium_multiple_choice_15223d13.png)
 

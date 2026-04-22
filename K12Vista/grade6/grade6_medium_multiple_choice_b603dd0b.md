@@ -7,9 +7,9 @@
 ## 题目
 下面的墙缺了（   ）块砖。
 
-$\begin{description}
-\item A．20\item B．21\item C．22
-\end{description}$
+A．20
+B．21
+C．22
 
 ![grade6_medium_multiple_choice_b603dd0b.png](images/grade6_medium_multiple_choice_b603dd0b.png)
 

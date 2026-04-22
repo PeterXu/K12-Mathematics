@@ -7,9 +7,10 @@
 ## 题目
 如图，小旗的顶点用数对表示为（5，7），现在将小旗绕点O，顺时针方向旋转90°，现在小旗的顶点可以用数对（   ）表示。
 
-$\begin{description}
-\item A．（7，5）\item B．（10，3）\item C．（9，3）\item D．（1，3）
-\end{description}$
+A．（7，5）
+B．（10，3）
+C．（9，3）
+D．（1，3）
 
 ![grade5_medium_multiple_choice_c0157dcd.png](images/grade5_medium_multiple_choice_c0157dcd.png)
 

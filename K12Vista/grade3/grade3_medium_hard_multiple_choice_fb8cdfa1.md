@@ -6,9 +6,9 @@
 
 ## 题目
 估计一下你们学校的操场占地约是2（  ）
-$\begin{description}
-\item A．平方米\item B．公顷\item C．平方千米
-\end{description}$
+A．平方米
+B．公顷
+C．平方千米
 ![grade3_medium_hard_multiple_choice_fb8cdfa1.png](images/grade3_medium_hard_multiple_choice_fb8cdfa1.png)
 
 ## 解答

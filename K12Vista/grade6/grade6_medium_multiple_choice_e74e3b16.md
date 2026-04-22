@@ -7,9 +7,10 @@
 ## 题目
 在下图中，小圆的半径是（  ）厘米。
 
-$\begin{description}
-\item A．1.5\item B．2.5\item C．2\item D．1
-\end{description}$
+A．1.5
+B．2.5
+C．2
+D．1
 
 ![grade6_medium_multiple_choice_e74e3b16.png](images/grade6_medium_multiple_choice_e74e3b16.png)
 

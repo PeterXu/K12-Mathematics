@@ -8,9 +8,10 @@
 如下图，三角形BEC的面积和平行四边形的ABCD的面积都是64cm²，BC
 的长是16 cm，三角形BEC的高是（    ）。
 
-$\begin{description}
-\item A．4\item B．8\item C．10\item D．16
-\end{description}$
+A．4
+B．8
+C．10
+D．16
 
 ![grade5_medium_multiple_choice_9d3bd90a.png](images/grade5_medium_multiple_choice_9d3bd90a.png)
 

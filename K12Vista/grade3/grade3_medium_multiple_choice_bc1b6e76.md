@@ -7,9 +7,10 @@
 ## 题目
 小狗跑在最（  ）面。
 
-$\begin{description}
-\item A．上\item B．下\item C．前\item D．后
-\end{description}$
+A．上
+B．下
+C．前
+D．后
 
 ![grade3_medium_multiple_choice_bc1b6e76.png](images/grade3_medium_multiple_choice_bc1b6e76.png)
 

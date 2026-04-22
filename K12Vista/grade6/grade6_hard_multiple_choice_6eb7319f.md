@@ -7,9 +7,10 @@
 ## 题目
 下面条形图是曙光中学800名学生帮助失学儿童捐款金额的部分抽样调查数据，扇 形图是该校各年级人数比例分布图．那么该校九年级同学捐款的总数大约为（  ）
 
-$\begin{description}
-\item A．870元\item B．4200元\item C．5010元\item D．250560元
-\end{description}$
+A．870元
+B．4200元
+C．5010元
+D．250560元
 ![grade6_hard_multiple_choice_6eb7319f.png](images/grade6_hard_multiple_choice_6eb7319f.png)
 
 ## 解答

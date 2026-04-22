@@ -6,9 +6,10 @@
 
 ## 题目
 有一块长方形铁皮（如图），配上两块（  ）可以做成圆柱．
-$\begin{description}
-\item A．r=4.5m的圆形铁皮\item B．d=4.5m的圆形铁皮\item C．r=9m的圆形铁皮\item D．d=18.84m的圆形铁皮
-\end{description}$
+A．r=4.5m的圆形铁皮
+B．d=4.5m的圆形铁皮
+C．r=9m的圆形铁皮
+D．d=18.84m的圆形铁皮
 ![grade6_medium_hard_multiple_choice_286ce939.png](images/grade6_medium_hard_multiple_choice_286ce939.png)
 
 ## 解答

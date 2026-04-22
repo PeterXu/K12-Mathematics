@@ -7,9 +7,10 @@
 ## 题目
 如图，AB=BC=CD，其中阴影部分面积和空白部分面积的比是（  ）
 
-$\begin{description}
-\item A．2：1\item B．1：2\item C．5：4\item D．4：5
-\end{description}$
+A．2：1
+B．1：2
+C．5：4
+D．4：5
 ![grade6_medium_hard_multiple_choice_d2787947.png](images/grade6_medium_hard_multiple_choice_d2787947.png)
 
 ## 解答

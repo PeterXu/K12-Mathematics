@@ -7,9 +7,10 @@
 ## 题目
 将方格纸上面的图形平移,使其与下面的图形拼成一个长方形,正确的平移方法是(  )。
 
-$\begin{description}
-\item A．先向下平移2格,再向左平移3格\item B．先向下平移2格,再向右平移3格\item C．先向下平移3格,再向左平移2格\item D．先向下平移3格,再向右平移2格
-\end{description}$
+A．先向下平移2格,再向左平移3格
+B．先向下平移2格,再向右平移3格
+C．先向下平移3格,再向左平移2格
+D．先向下平移3格,再向右平移2格
 
 ![grade3_medium_hard_multiple_choice_dd04f60c.png](images/grade3_medium_hard_multiple_choice_dd04f60c.png)
 

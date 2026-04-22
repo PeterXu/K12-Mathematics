@@ -6,9 +6,10 @@
 
 ## 题目
 如图，数轴上的点A、B、C、D中，表示互为相反数的两个点是（  ）
-$\begin{description}
-\item A．点A和点D\item B．点A和点C\item C．点B和点C\item D．点B和点D
-\end{description}$
+A．点A和点D
+B．点A和点C
+C．点B和点C
+D．点B和点D
 ![grade3_medium_hard_multiple_choice_c832c9b5.png](images/grade3_medium_hard_multiple_choice_c832c9b5.png)
 
 ## 解答

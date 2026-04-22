@@ -7,9 +7,10 @@
 ## 题目
 下列四个图中的线段（或直线、射线）能相交的是（  ）。
 
-$\begin{description}
-\item A．（1）\item B．（2）\item C．（3）\item D．（4）
-\end{description}$
+A．（1）
+B．（2）
+C．（3）
+D．（4）
 
 ![grade4_medium_hard_multiple_choice_fed0441d.png](images/grade4_medium_hard_multiple_choice_fed0441d.png)
 

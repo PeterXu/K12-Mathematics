@@ -7,9 +7,10 @@
 ## 题目
 如图所示四个平行四边形完全相同，比较阴影部分的面积（  ）
 
-$\begin{description}
-\item A．都不相等\item B．只有两个相等\item C．有三个相等\item D．都相等
-\end{description}$
+A．都不相等
+B．只有两个相等
+C．有三个相等
+D．都相等
 ![grade6_medium_hard_multiple_choice_5c1e7e36.png](images/grade6_medium_hard_multiple_choice_5c1e7e36.png)
 
 ## 解答

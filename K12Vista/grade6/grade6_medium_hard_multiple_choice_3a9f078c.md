@@ -7,9 +7,10 @@
 ## 题目
 如图所示，正方形的边长6厘米，计算阴影部分的面积，方法正确的是（  ）
 
-$\begin{description}
-\item A．6×6-3.14×3×3\item B．6×6-3.14×6×6÷2\item C．3.14×3×3×2\item D．3×3×3.14÷4
-\end{description}$
+A．6×6-3.14×3×3
+B．6×6-3.14×6×6÷2
+C．3.14×3×3×2
+D．3×3×3.14÷4
 ![grade6_medium_hard_multiple_choice_3a9f078c.png](images/grade6_medium_hard_multiple_choice_3a9f078c.png)
 
 ## 解答

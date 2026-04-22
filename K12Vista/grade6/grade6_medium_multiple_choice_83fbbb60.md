@@ -7,9 +7,10 @@
 ## 题目
 小明有三张同样大小的正方形纸，用下面三种不同的方法分别剪下一些圆形，那么三种剪法中，每张纸的的利用率（    ）。
 
-$\begin{description}
-\item A．甲高\item B．乙高\item C．丙高\item D．一样高
-\end{description}$
+A．甲高
+B．乙高
+C．丙高
+D．一样高
 
 ![grade6_medium_multiple_choice_83fbbb60.png](images/grade6_medium_multiple_choice_83fbbb60.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 如图，△$\textit{ABC}$经过怎样的平移可以得到△$\textit{DEF}$？(    )
 
-$\begin{description}
-\item A．把△\textit{ABC}向左平移4格，再向下平移2格\item B．把△\textit{ABC}向右平移4格，再向下平移2格\item C．把△\textit{ABC}向右平移4格，再向上平移2格\item D．把△\textit{ABC}向左平移4格，再向上平移2格
-\end{description}$
+A．把△\textit{ABC}向左平移4格，再向下平移2格
+B．把△\textit{ABC}向右平移4格，再向下平移2格
+C．把△\textit{ABC}向右平移4格，再向上平移2格
+D．把△\textit{ABC}向左平移4格，再向上平移2格
 
 ![grade3_medium_hard_multiple_choice_d825ca58.png](images/grade3_medium_hard_multiple_choice_d825ca58.png)
 

@@ -8,9 +8,10 @@
 如下图，图形B是图形A绕点O（   ）旋转90°，再向右平移（   ）格得到的。
 
 ①顺时针    ②逆时针    ③5     ④6
-$\begin{description}
-\item A．①②\item B．②③\item C．②④\item D．①③
-\end{description}$
+A．①②
+B．②③
+C．②④
+D．①③
 
 ![grade6_medium_multiple_choice_0abc77b8.png](images/grade6_medium_multiple_choice_0abc77b8.png)
 

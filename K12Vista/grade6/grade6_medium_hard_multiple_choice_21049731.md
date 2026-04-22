@@ -7,9 +7,10 @@
 ## 题目
 图中∠1=∠2=∠3，那么∠1=（ ）
 
-$\begin{description}
-\item A．10°\item B．20°\item C．30°\item D．40°
-\end{description}$
+A．10°
+B．20°
+C．30°
+D．40°
 
 ![grade6_medium_hard_multiple_choice_21049731.png](images/grade6_medium_hard_multiple_choice_21049731.png)
 

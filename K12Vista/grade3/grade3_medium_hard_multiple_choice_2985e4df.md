@@ -7,9 +7,10 @@
 ## 题目
 如图图片中，哪些是由图片（1）分别经过平移和旋转得到的（  ）
 
-$\begin{description}
-\item A．（3）和（4）\item B．（2）和（3）\item C．（2）和（4）\item D．（4）和（3）
-\end{description}$
+A．（3）和（4）
+B．（2）和（3）
+C．（2）和（4）
+D．（4）和（3）
 ![grade3_medium_hard_multiple_choice_2985e4df.png](images/grade3_medium_hard_multiple_choice_2985e4df.png)
 
 ## 解答

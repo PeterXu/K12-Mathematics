@@ -6,9 +6,9 @@
 
 ## 题目
 如图，甲乙二人同时同速从A地出发，分别沿外边的大半圆和里边的两个小半圆跑到B地，谁先跑到终点？（  ）
-$\begin{description}
-\item A．甲\item B．乙\item C．同时
-\end{description}$
+A．甲
+B．乙
+C．同时
 ![grade6_medium_hard_multiple_choice_8001082b.png](images/grade6_medium_hard_multiple_choice_8001082b.png)
 
 ## 解答

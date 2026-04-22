@@ -7,9 +7,9 @@
 ## 题目
 
 小强收了多少节？
-$\begin{description}
-\item A．20节\item B．48节\item C．29节
-\end{description}$
+A．20节
+B．48节
+C．29节
 ![grade6_medium_hard_multiple_choice_fd395605.png](images/grade6_medium_hard_multiple_choice_fd395605.png)
 
 ## 解答

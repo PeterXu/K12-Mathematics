@@ -7,9 +7,9 @@
 ## 题目
 如图是用8个同样大小的小正方体拼成的，如果任意拿走1个小正方体，它的表面积与原来相比（）
 
-$\begin{description}
-\item A．增加了\item B．减小了\item C．不变
-\end{description}$
+A．增加了
+B．减小了
+C．不变
 
 ![grade6_medium_hard_multiple_choice_578843f0.png](images/grade6_medium_hard_multiple_choice_578843f0.png)
 

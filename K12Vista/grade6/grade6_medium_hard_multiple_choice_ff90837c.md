@@ -7,9 +7,9 @@
 ## 题目
 如图a，b两部分阴影的面积（  ）
 
-$\begin{description}
-\item A．a＞b\item B．a＜b\item C．a=b
-\end{description}$
+A．a＞b
+B．a＜b
+C．a=b
 ![grade6_medium_hard_multiple_choice_ff90837c.png](images/grade6_medium_hard_multiple_choice_ff90837c.png)
 
 ## 解答

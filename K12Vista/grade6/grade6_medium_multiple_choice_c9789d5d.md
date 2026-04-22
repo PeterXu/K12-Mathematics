@@ -7,9 +7,9 @@
 ## 题目
 语文书有多少页？百科全书有多少页？（   ）
 
-$\begin{description}
-\item A．158页；780页\item B．158页；650页\item C．780页；1200页
-\end{description}$
+A．158页；780页
+B．158页；650页
+C．780页；1200页
 
 ![grade6_medium_multiple_choice_c9789d5d.png](images/grade6_medium_multiple_choice_c9789d5d.png)
 

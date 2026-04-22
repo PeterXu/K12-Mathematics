@@ -7,9 +7,9 @@
 ## 题目
 下图中每个方格的面积是1cm$^{2}$,估计这片树叶的面积大约是（      ）cm²。
 
-$\begin{description}
-\item A．20\item B．25\item C．35
-\end{description}$
+A．20
+B．25
+C．35
 
 ![grade6_medium_multiple_choice_aa33c5db.png](images/grade6_medium_multiple_choice_aa33c5db.png)
 

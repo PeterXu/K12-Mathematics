@@ -6,9 +6,9 @@
 
 ## 题目
 如图，转盘转到（  ）区域的可能性最大．
-$\begin{description}
-\item A．黄色\item B．红色\item C．蓝色
-\end{description}$
+A．黄色
+B．红色
+C．蓝色
 ![grade6_medium_hard_multiple_choice_abbbd8c0.png](images/grade6_medium_hard_multiple_choice_abbbd8c0.png)
 
 ## 解答

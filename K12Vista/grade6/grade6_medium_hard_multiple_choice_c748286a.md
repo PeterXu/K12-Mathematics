@@ -7,9 +7,9 @@
 ## 题目
 学校买324盒水彩笔，每盒有12枝，发给绘画比赛中获奖的36名同学，平均每位同学得到（  ）枝水彩笔．
 
-$\begin{description}
-\item A．108\item B．9\item C．21
-\end{description}$
+A．108
+B．9
+C．21
 ![grade6_medium_hard_multiple_choice_c748286a.png](images/grade6_medium_hard_multiple_choice_c748286a.png)
 
 ## 解答

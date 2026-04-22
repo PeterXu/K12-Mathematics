@@ -7,9 +7,10 @@
 ## 题目
 下面图形中，是轴对称图形的有（  ）个．
 
-$\begin{description}
-\item A．1\item B．2\item C．3\item D．4
-\end{description}$
+A．1
+B．2
+C．3
+D．4
 ![grade2_medium_hard_multiple_choice_a64008ee.png](images/grade2_medium_hard_multiple_choice_a64008ee.png)
 
 ## 解答

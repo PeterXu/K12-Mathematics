@@ -7,9 +7,10 @@
 ## 题目
 如下图，图1、图2图3阴影部分面积比较(    )。
 
-$\begin{description}
-\item A．图1阴影部分面积最大；\item B．图2阴影部分面积最大；\item C．图3阴影部分面积最大；\item D．图1、图2、图3阴影部分面积一样大。
-\end{description}$
+A．图1阴影部分面积最大；
+B．图2阴影部分面积最大；
+C．图3阴影部分面积最大；
+D．图1、图2、图3阴影部分面积一样大。
 
 ![grade6_medium_multiple_choice_cc81ff26.png](images/grade6_medium_multiple_choice_cc81ff26.png)
 

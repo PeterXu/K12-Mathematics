@@ -6,9 +6,9 @@
 
 ## 题目
 将长方形ABCD沿着竖中线（如图）对折，在折痕处任取一点O，连接OB、OC所形成的△OBC一定是（  ）三角形．
-$\begin{description}
-\item A．等腰三角形\item B．等边三角形\item C．直角三角形
-\end{description}$
+A．等腰三角形
+B．等边三角形
+C．直角三角形
 ![grade1_medium_hard_multiple_choice_13c6f03d.png](images/grade1_medium_hard_multiple_choice_13c6f03d.png)
 
 ## 解答

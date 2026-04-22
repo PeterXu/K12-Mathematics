@@ -7,9 +7,9 @@
 ## 题目
 从( )面看下面三个物体的形状是完全相同的．
 
-$\begin{description}
-\item A．上面和右面\item B．上面和正面\item C．正面和右面
-\end{description}$
+A．上面和右面
+B．上面和正面
+C．正面和右面
 
 ![grade1_medium_multiple_choice_7e272fb0.png](images/grade1_medium_multiple_choice_7e272fb0.png)
 

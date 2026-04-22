@@ -7,9 +7,10 @@
 ## 题目
 如下图所示，以点A为圆心的圆内，只要运用圆的（      ）特征，就可以证明三角形ABC为等腰三角形。
 
-$\begin{description}
-\item A．同一个圆的半径相等\item B．圆的周长是直径的兀倍\item C．同一个圆的直径的长度是半径的2倍\item D．圆内最长的线段是直径
-\end{description}$
+A．同一个圆的半径相等
+B．圆的周长是直径的兀倍
+C．同一个圆的直径的长度是半径的2倍
+D．圆内最长的线段是直径
 
 ![grade6_medium_multiple_choice_40aed86f.png](images/grade6_medium_multiple_choice_40aed86f.png)
 

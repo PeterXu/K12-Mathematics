@@ -7,9 +7,10 @@
 ## 题目
 正方体展开有6个面，下图中给出了5个面，那么第6个面应该是①②③④中的（        ）．
 
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．④
-\end{description}$
+A．①
+B．②
+C．③
+D．④
 
 ![grade5_medium_multiple_choice_3d2f5e2e.png](images/grade5_medium_multiple_choice_3d2f5e2e.png)
 

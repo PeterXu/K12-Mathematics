@@ -7,9 +7,9 @@
 ## 题目
 如下图，点M在点0北偏东40$^{0}$方向，那么点M在点P的（ ）方向。
 
-$\begin{description}
-\item A．北偏东50^{0}\item B．北偏西40^{0}\item C．北偏西50^{0}
-\end{description}$
+A．北偏东50^{0}
+B．北偏西40^{0}
+C．北偏西50^{0}
 
 ![grade4_medium_multiple_choice_433a5771.png](images/grade4_medium_multiple_choice_433a5771.png)
 

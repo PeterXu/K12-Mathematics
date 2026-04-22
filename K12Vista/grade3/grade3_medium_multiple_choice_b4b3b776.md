@@ -7,9 +7,10 @@
 ## 题目
 下面算式（   ）求的是图形③的周长。
 
-$\begin{description}
-\item A．10×4\item B．（10+3）×2\item C．10×2\item D．（10-3）×4
-\end{description}$
+A．10×4
+B．（10+3）×2
+C．10×2
+D．（10-3）×4
 
 ![grade3_medium_multiple_choice_b4b3b776.png](images/grade3_medium_multiple_choice_b4b3b776.png)
 

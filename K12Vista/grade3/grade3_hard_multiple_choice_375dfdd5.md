@@ -6,9 +6,10 @@
 
 ## 题目
 把编号为1，2，3，4，…的若干盆花按右图所示摆放，花盆中的花按红．黄．蓝．紫的颜色依次循环排列，则第8行从左边数第6盆花的颜色为（  ）色．
-$\begin{description}
-\item A．红\item B．黄\item C．蓝\item D．紫
-\end{description}$
+A．红
+B．黄
+C．蓝
+D．紫
 ![grade3_hard_multiple_choice_375dfdd5.png](images/grade3_hard_multiple_choice_375dfdd5.png)
 
 ## 解答

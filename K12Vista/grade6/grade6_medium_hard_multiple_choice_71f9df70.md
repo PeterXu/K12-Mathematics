@@ -7,9 +7,9 @@
 ## 题目
 阴影部分的面积是（  ）cm$^{2}$．
 
-$\begin{description}
-\item A．6\item B．21\item C．37.68
-\end{description}$
+A．6
+B．21
+C．37.68
 ![grade6_medium_hard_multiple_choice_71f9df70.png](images/grade6_medium_hard_multiple_choice_71f9df70.png)
 
 ## 解答

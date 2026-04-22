@@ -7,9 +7,10 @@
 ## 题目
 如图三角形中阴影部分和空白部分相比，（  ）
 
-$\begin{description}
-\item A．面积和周长都相等\item B．面积和周长都不相等\item C．周长相等面积不相等\item D．面积相等周长不相等
-\end{description}$
+A．面积和周长都相等
+B．面积和周长都不相等
+C．周长相等面积不相等
+D．面积相等周长不相等
 ![grade6_medium_hard_multiple_choice_c2d9b306.png](images/grade6_medium_hard_multiple_choice_c2d9b306.png)
 
 ## 解答

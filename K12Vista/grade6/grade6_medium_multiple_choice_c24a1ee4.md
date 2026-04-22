@@ -7,9 +7,9 @@
 ## 题目
 苗苗买其中两根不同的棒棒糖,最多要花_______元．
 
-$\begin{description}
-\item A．10\item B．11\item C．13
-\end{description}$
+A．10
+B．11
+C．13
 
 ![grade6_medium_multiple_choice_c24a1ee4.png](images/grade6_medium_multiple_choice_c24a1ee4.png)
 

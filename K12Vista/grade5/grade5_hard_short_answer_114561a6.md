@@ -16,10 +16,10 @@
 
 1. Step1:根据题意，求甲离乙的最短距离即求垂线段的距离，所以过点C作CD⊥AB，垂足为D
 2. Step2:由题意可知∠CAB = 30°，∠BCD = 30°
-3. Step3:设CD = x，在Rt△BCD中，根据正切函数定义，tan30° = BD/CD，所以BD = (√3/3)x
-4. Step4:在Rt△ACD中，根据正切函数定义，tan30° = CD/AD，所以AD = √3x
-5. Step5:因为AB = 40米，且AD - BD = AB，所以√3x - 40 = (√3/3)x
-6. Step6:求解方程√3x - 40 = (√3/3)x，得出x = 36.64，即他离乙的最短距离是36.64米
+3. Step3:设CD = x，在Rt△BCD中，根据正切函数定义，tan30° = BD/CD，所以BD = ($\sqrt{3}$/3)x
+4. Step4:在Rt△ACD中，根据正切函数定义，tan30° = CD/AD，所以AD = $\sqrt{3}$x
+5. Step5:因为AB = 40米，且AD - BD = AB，所以$\sqrt{3}$x - 40 = ($\sqrt{3}$/3)x
+6. Step6:求解方程$\sqrt{3}$x - 40 = ($\sqrt{3}$/3)x，得出x = 36.64，即他离乙的最短距离是36.64米
 
 ## 知识点
 

@@ -7,9 +7,10 @@
 ## 题目
 下面的图形是按一定的比例缩小的，x是（ ）．
 
-$\begin{description}
-\item A．10\item B．8\item C．7.5\item D．6
-\end{description}$
+A．10
+B．8
+C．7.5
+D．6
 
 ![grade6_medium_hard_multiple_choice_a0c658fa.png](images/grade6_medium_hard_multiple_choice_a0c658fa.png)
 

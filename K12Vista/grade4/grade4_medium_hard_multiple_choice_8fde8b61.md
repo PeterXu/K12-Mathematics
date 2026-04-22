@@ -6,9 +6,10 @@
 
 ## 题目
 下面的角度中不能用一副三角板画成的是（  ）
-$\begin{description}
-\item A．15°\item B．80°\item C．105°\item D．180°
-\end{description}$
+A．15°
+B．80°
+C．105°
+D．180°
 ![grade4_medium_hard_multiple_choice_8fde8b61.png](images/grade4_medium_hard_multiple_choice_8fde8b61.png)
 
 ## 解答

@@ -8,9 +8,10 @@
 大林用棱长1厘米的小正方体摆成一个物体，从前面、右面和上面分别观察这个物体，看到的形状如图：
 
 这个物体的表面积是（  ）平方厘米．
-$\begin{description}
-\item A．7\item B．28\item C．14\item D．32
-\end{description}$
+A．7
+B．28
+C．14
+D．32
 
 ![grade5_medium_hard_multiple_choice_9626eec0.png](images/grade5_medium_hard_multiple_choice_9626eec0.png)
 

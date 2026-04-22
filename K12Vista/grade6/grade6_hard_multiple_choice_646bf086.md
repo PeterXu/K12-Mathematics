@@ -7,9 +7,9 @@
 ## 题目
 下面的图形中，图（  ）的面积最小．
 
-$\begin{description}
-\item A．1\item B．2\item C．3
-\end{description}$
+A．1
+B．2
+C．3
 ![grade6_hard_multiple_choice_646bf086.png](images/grade6_hard_multiple_choice_646bf086.png)
 
 ## 解答

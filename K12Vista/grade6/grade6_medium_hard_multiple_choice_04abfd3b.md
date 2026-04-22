@@ -7,9 +7,9 @@
 ## 题目
 如图图形周长比较（  ）
 
-$\begin{description}
-\item A．A长\item B．B长\item C．一样长
-\end{description}$
+A．A长
+B．B长
+C．一样长
 ![grade6_medium_hard_multiple_choice_04abfd3b.png](images/grade6_medium_hard_multiple_choice_04abfd3b.png)
 
 ## 解答

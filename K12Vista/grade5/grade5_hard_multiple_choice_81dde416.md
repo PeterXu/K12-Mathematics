@@ -7,9 +7,9 @@
 ## 题目
 如图，已知①号三角形的面积是21cm$^{2}$，那么阴影部分的面积是（  ）cm$^{2}$．
 
-$\begin{description}
-\item A．24\item B．22.5\item C．45
-\end{description}$
+A．24
+B．22.5
+C．45
 ![grade5_hard_multiple_choice_81dde416.png](images/grade5_hard_multiple_choice_81dde416.png)
 
 ## 解答

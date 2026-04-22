@@ -6,9 +6,10 @@
 
 ## 题目
 图中六个圆的半径都是4三m，那么图中长方形的面积为（  ）
-$\begin{description}
-\item A．96cm^{2}\item B．196 cm^{2}\item C．192 cm^{2}\item D．384 cm^{2}
-\end{description}$
+A．96cm^{2}
+B．196 cm^{2}
+C．192 cm^{2}
+D．384 cm^{2}
 ![grade6_medium_hard_multiple_choice_1a9ee9bc.png](images/grade6_medium_hard_multiple_choice_1a9ee9bc.png)
 
 ## 解答

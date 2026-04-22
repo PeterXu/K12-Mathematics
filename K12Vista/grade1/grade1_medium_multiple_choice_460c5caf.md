@@ -7,9 +7,9 @@
 ## 题目
 图案中，除了有正三角形、正方形外，还可以找到（ ）
 
-$\begin{description}
-\item A．正五边形\item B．正八边形\item C．正十二边形
-\end{description}$
+A．正五边形
+B．正八边形
+C．正十二边形
 
 ![grade1_medium_multiple_choice_460c5caf.png](images/grade1_medium_multiple_choice_460c5caf.png)
 

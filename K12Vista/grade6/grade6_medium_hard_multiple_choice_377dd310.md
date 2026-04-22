@@ -7,9 +7,9 @@
 ## 题目
 两个多位数被两个纸板挡住了，只露出最高位上的数字（如图）．两数比较（  ）
 
-$\begin{description}
-\item A．甲数大\item B．乙数大\item C．无法确定
-\end{description}$
+A．甲数大
+B．乙数大
+C．无法确定
 ![grade6_medium_hard_multiple_choice_377dd310.png](images/grade6_medium_hard_multiple_choice_377dd310.png)
 
 ## 解答

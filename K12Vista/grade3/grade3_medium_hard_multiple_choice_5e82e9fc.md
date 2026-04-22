@@ -6,9 +6,10 @@
 
 ## 题目
 在下面的数表中，每隔两个数后的第三个数就会被圈起来．如果按照相同的方式继续圈下去，下列（  ）应该被圈起来．
-$\begin{description}
-\item A．100\item B．101\item C．102\item D．103
-\end{description}$
+A．100
+B．101
+C．102
+D．103
 ![grade3_medium_hard_multiple_choice_5e82e9fc.png](images/grade3_medium_hard_multiple_choice_5e82e9fc.png)
 
 ## 解答

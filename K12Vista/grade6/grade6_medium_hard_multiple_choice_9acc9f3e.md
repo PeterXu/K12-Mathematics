@@ -6,9 +6,9 @@
 
 ## 题目
 一个物体由若干个小的正方体摆成，从上面看到的是图1，从左面看到的是图2．这个物体最多由（  ）个小正方体摆成．
-$\begin{description}
-\item A．8\item B．9\item C．10
-\end{description}$
+A．8
+B．9
+C．10
 ![grade6_medium_hard_multiple_choice_9acc9f3e.png](images/grade6_medium_hard_multiple_choice_9acc9f3e.png)
 
 ## 解答

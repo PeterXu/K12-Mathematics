@@ -7,9 +7,10 @@
 ## 题目
 大正方形的边长10厘米，小正方形的边长5厘米，下面的图形中阴影部分面积一样大的图形有（   ）。
 
-$\begin{description}
-\item A．2个\item B．3个\item C．4个\item D．5个
-\end{description}$
+A．2个
+B．3个
+C．4个
+D．5个
 
 ![grade6_medium_multiple_choice_f4d06155.png](images/grade6_medium_multiple_choice_f4d06155.png)
 

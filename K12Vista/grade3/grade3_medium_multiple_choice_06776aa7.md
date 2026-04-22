@@ -6,9 +6,9 @@
 
 ## 题目
 （  ）是这根竹竿的影子．
-$\begin{description}
-\item A．a\item B．b\item C．c
-\end{description}$
+A．a
+B．b
+C．c
 ![grade3_medium_multiple_choice_06776aa7.png](images/grade3_medium_multiple_choice_06776aa7.png)
 
 ## 解答

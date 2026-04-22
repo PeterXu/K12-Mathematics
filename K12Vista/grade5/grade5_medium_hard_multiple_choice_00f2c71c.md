@@ -7,9 +7,10 @@
 ## 题目
 如图，如果点A的位置表示为（2，4），则点B的位置可以表示为（    ）。 
 
-$\begin{description}
-\item A.（4，4）\item B.（4，5）\item C.（5，4）\item D.（3，3）
-\end{description}$
+A.（4，4）
+B.（4，5）
+C.（5，4）
+D.（3，3）
 ![grade5_medium_hard_multiple_choice_00f2c71c.png](images/grade5_medium_hard_multiple_choice_00f2c71c.png)
 
 ## 解答

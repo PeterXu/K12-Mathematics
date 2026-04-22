@@ -7,9 +7,10 @@
 ## 题目
 数一数图中有（  ）套房子。
 
-$\begin{description}
-\item A．4\item B．5\item C．6\item D．7
-\end{description}$
+A．4
+B．5
+C．6
+D．7
 
 ![grade6_medium_multiple_choice_bd4e04df.png](images/grade6_medium_multiple_choice_bd4e04df.png)
 

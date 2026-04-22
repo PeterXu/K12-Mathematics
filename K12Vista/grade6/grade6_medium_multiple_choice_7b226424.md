@@ -8,9 +8,10 @@
 有4颗外表一模一样的玻璃珠子，其中有一颗玻璃珠子是次品（质量轻一些）。下面是李思找次品的过程：
 
 根据李思找次品的过程，可以知道（   ）号玻璃珠是次品。
-$\begin{description}
-\item A．①\item B．②\item C．③\item D．④
-\end{description}$
+A．①
+B．②
+C．③
+D．④
 
 ![grade6_medium_multiple_choice_7b226424.png](images/grade6_medium_multiple_choice_7b226424.png)
 

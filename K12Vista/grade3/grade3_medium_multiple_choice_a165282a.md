@@ -7,9 +7,9 @@
 ## 题目
 从左数，有4朵花的是第（   ）盆。
 
-$\begin{description}
-\item A．4\item B．5\item C．2
-\end{description}$
+A．4
+B．5
+C．2
 
 ![grade3_medium_multiple_choice_a165282a.png](images/grade3_medium_multiple_choice_a165282a.png)
 

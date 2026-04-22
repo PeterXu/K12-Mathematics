@@ -6,9 +6,10 @@
 
 ## 题目
 下面图形中，（  ）和（  ）是平行四边形．
-$\begin{description}
-\item A．①④\item B．②⑤\item C．③⑥\item D．②⑥
-\end{description}$
+A．①④
+B．②⑤
+C．③⑥
+D．②⑥
 ![grade6_medium_hard_multiple_choice_945ba09b.png](images/grade6_medium_hard_multiple_choice_945ba09b.png)
 
 ## 解答

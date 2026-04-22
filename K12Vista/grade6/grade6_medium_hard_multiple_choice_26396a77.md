@@ -7,9 +7,9 @@
 ## 题目
 从（  ）面看，看到的形状完全相同．
 
-$\begin{description}
-\item A．正面\item B．侧面\item C．上面
-\end{description}$
+A．正面
+B．侧面
+C．上面
 ![grade6_medium_hard_multiple_choice_26396a77.png](images/grade6_medium_hard_multiple_choice_26396a77.png)
 
 ## 解答

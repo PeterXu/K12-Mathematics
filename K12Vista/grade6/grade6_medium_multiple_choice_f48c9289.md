@@ -7,9 +7,10 @@
 ## 题目
 如图是一风景区2017年旅游人数统计图，从图中得到的信息不正确的是(  )
 
-$\begin{description}
-\item A．冬季旅游人数最少\item B．第三季度比第二季度增加4万人\item C．全年旅游人数共计36万人\item D．1格代表1万1，所以7画在6与8的中间。
-\end{description}$
+A．冬季旅游人数最少
+B．第三季度比第二季度增加4万人
+C．全年旅游人数共计36万人
+D．1格代表1万1，所以7画在6与8的中间。
 
 ![grade6_medium_multiple_choice_f48c9289.png](images/grade6_medium_multiple_choice_f48c9289.png)
 

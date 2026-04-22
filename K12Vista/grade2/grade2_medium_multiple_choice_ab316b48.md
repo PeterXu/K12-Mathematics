@@ -7,9 +7,9 @@
 ## 题目
 一辆汽车的车牌在水中的倒影如图所示，则该车车牌的号码是（  ）。
  
-$\begin{description}
-\item A．MT7936\item B．WT6397\item C．WT7936
-\end{description}$
+A．MT7936
+B．WT6397
+C．WT7936
 
 ![grade2_medium_multiple_choice_ab316b48.png](images/grade2_medium_multiple_choice_ab316b48.png)
 

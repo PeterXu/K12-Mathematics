@@ -7,9 +7,10 @@
 ## 题目
 如图，工人师傅用两块3m长的木板分别搭了两个斜坡。图中(    )斜坡陡一些。
 
-$\begin{description}
-\item A．甲\item B．乙\item C．一样陡\item D．无法判断
-\end{description}$
+A．甲
+B．乙
+C．一样陡
+D．无法判断
 
 ![grade6_medium_multiple_choice_1766a5c2.png](images/grade6_medium_multiple_choice_1766a5c2.png)
 

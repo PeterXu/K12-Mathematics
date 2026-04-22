@@ -7,9 +7,10 @@
 ## 题目
 下面的钟表显示的是（   ） 。
 
-$\begin{description}
-\item A．8时半\item B．8时\item C．9时\item D．9时半
-\end{description}$
+A．8时半
+B．8时
+C．9时
+D．9时半
 
 ![grade6_medium_multiple_choice_b3030974.png](images/grade6_medium_multiple_choice_b3030974.png)
 

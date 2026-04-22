@@ -7,9 +7,10 @@
 ## 题目
 小胖家吃晚饭的时间是（   ）。
 
-$\begin{description}
-\item A．12时25分\item B．5时\item C．5时半\item D．17时
-\end{description}$
+A．12时25分
+B．5时
+C．5时半
+D．17时
 
 ![grade6_medium_multiple_choice_ffbf8233.png](images/grade6_medium_multiple_choice_ffbf8233.png)
 

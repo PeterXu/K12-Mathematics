@@ -6,9 +6,10 @@
 
 ## 题目
 如图，O是直线AB上一点，∠AOE=∠FOD=90°，OB平分∠DOC，图中互补的角有（  ）对．
-$\begin{description}
-\item A．10\item B．8\item C．9\item D．7
-\end{description}$
+A．10
+B．8
+C．9
+D．7
 ![grade4_hard_multiple_choice_3e85f7c6.png](images/grade4_hard_multiple_choice_3e85f7c6.png)
 
 ## 解答

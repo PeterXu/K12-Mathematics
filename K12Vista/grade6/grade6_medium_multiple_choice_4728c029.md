@@ -7,9 +7,9 @@
 ## 题目
 看图数一数：一共有（  ）本书。
 
-$\begin{description}
-\item A．8\item B．9\item C．10
-\end{description}$
+A．8
+B．9
+C．10
 
 ![grade6_medium_multiple_choice_4728c029.png](images/grade6_medium_multiple_choice_4728c029.png)
 

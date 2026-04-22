@@ -7,9 +7,10 @@
 ## 题目
 看图数数，正确的是（ ） 
 
-$\begin{description}
-\item A．11\item B．22\item C．33\item D．44
-\end{description}$
+A．11
+B．22
+C．33
+D．44
 
 ![grade6_medium_multiple_choice_51cf8659.png](images/grade6_medium_multiple_choice_51cf8659.png)
 

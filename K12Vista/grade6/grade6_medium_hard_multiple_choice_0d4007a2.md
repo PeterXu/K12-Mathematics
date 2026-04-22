@@ -7,9 +7,9 @@
 ## 题目
 “百果园”推出周年庆满减活动，到店消费“满40元减5元、满70元减10元”。妈妈买了两个西瓜，要付（    ）元。 
  一个西瓜28元
-$\begin{description}
-\item A.56\item B.51\item C.46
-\end{description}$
+A.56
+B.51
+C.46
 ![grade6_medium_hard_multiple_choice_0d4007a2.png](images/grade6_medium_hard_multiple_choice_0d4007a2.png)
 
 ## 解答

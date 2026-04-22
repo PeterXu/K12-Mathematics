@@ -6,9 +6,10 @@
 
 ## 题目
 如图所示，BO=2DO、CO=5AO，甲、乙面积和是11平方厘米．ABCD四边形的面积是（  ）平方厘米．
-$\begin{description}
-\item A．16\item B．18\item C．20\item D．22
-\end{description}$
+A．16
+B．18
+C．20
+D．22
 ![grade6_hard_multiple_choice_99ee3eb8.png](images/grade6_hard_multiple_choice_99ee3eb8.png)
 
 ## 解答

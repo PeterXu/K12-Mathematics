@@ -6,9 +6,10 @@
 
 ## 题目
 有一块边长1米的正方形地，要在它的四周（外侧）铺满面积为1平方分米的正方形瓷砖（如图），共需要（  ）块正方形砖．
-$\begin{description}
-\item A．40\item B．44\item C．48\item D．60
-\end{description}$
+A．40
+B．44
+C．48
+D．60
 ![grade3_medium_hard_multiple_choice_46daad15.png](images/grade3_medium_hard_multiple_choice_46daad15.png)
 
 ## 解答

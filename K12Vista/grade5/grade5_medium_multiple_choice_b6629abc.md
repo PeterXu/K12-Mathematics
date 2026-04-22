@@ -7,9 +7,10 @@
 ## 题目
 暑假期间，芳芳和明明去图书馆，芳芳每4天去一次，明明每5天去一次，8月2日两人在图书馆相遇，（   ）他们又再次相遇．
 
-$\begin{description}
-\item A．8月18日\item B．8月20日\item C．8月22日\item D．8月24日
-\end{description}$
+A．8月18日
+B．8月20日
+C．8月22日
+D．8月24日
 
 ![grade5_medium_multiple_choice_b6629abc.png](images/grade5_medium_multiple_choice_b6629abc.png)
 

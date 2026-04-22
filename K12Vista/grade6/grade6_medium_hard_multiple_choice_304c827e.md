@@ -7,9 +7,9 @@
 ## 题目
 以邮局为观测点，商场在（   ）。
 
-$\begin{description}
-\item A．北偏西70°方向上\item B．北偏西20°方向上\item C．东偏北20方向上
-\end{description}$
+A．北偏西70°方向上
+B．北偏西20°方向上
+C．东偏北20方向上
 
 ![grade6_medium_hard_multiple_choice_304c827e.png](images/grade6_medium_hard_multiple_choice_304c827e.png)
 

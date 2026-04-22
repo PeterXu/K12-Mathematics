@@ -7,9 +7,10 @@
 ## 题目
 一辆汽车要用9时赶往距离学校720 km的营地接军训的学生，已知前4时行了全程的40%，照这样的速度，能准时到达吗？下面有4位同学的解答方法，你认为有(    )位同学的解答方法是合理的。
 
-$\begin{description}
-\item A．1\item B．2\item C．3\item D．4
-\end{description}$
+A．1
+B．2
+C．3
+D．4
 
 ![grade6_medium_hard_multiple_choice_b19f4987.png](images/grade6_medium_hard_multiple_choice_b19f4987.png)
 

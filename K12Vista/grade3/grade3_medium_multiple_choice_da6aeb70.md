@@ -7,9 +7,9 @@
 ## 题目
 象棋有规定：马走日(如图)。如果要走一步马，你认为走到的位置不可能是(  )。
 
-$\begin{description}
-\item A．(6，4)\item B．(5，1)\item C．(6，3)
-\end{description}$
+A．(6，4)
+B．(5，1)
+C．(6，3)
 
 ![grade3_medium_multiple_choice_da6aeb70.png](images/grade3_medium_multiple_choice_da6aeb70.png)
 

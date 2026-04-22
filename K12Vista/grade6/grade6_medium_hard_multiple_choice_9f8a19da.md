@@ -7,9 +7,9 @@
 ## 题目
 下图中的铅笔的长度是（  ）。
 
-$\begin{description}
-\item A．9厘米\item B．2厘米\item C．7厘米
-\end{description}$
+A．9厘米
+B．2厘米
+C．7厘米
 
 ![grade6_medium_hard_multiple_choice_9f8a19da.png](images/grade6_medium_hard_multiple_choice_9f8a19da.png)
 

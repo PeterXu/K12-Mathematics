@@ -6,9 +6,9 @@
 
 ## 题目
 图中x=（  ）
-$\begin{description}
-\item A．16\item B．24\item C．18
-\end{description}$
+A．16
+B．24
+C．18
 ![grade5_medium_multiple_choice_9aa97a28.png](images/grade5_medium_multiple_choice_9aa97a28.png)
 
 ## 解答

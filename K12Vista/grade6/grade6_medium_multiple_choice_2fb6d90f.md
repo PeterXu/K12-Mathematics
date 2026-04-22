@@ -7,9 +7,9 @@
 ## 题目
 如图：从阴影三角形A到B的运动是（   ）
 
-$\begin{description}
-\item A．平移\item B．旋转\item C．不确定
-\end{description}$
+A．平移
+B．旋转
+C．不确定
 
 ![grade6_medium_multiple_choice_2fb6d90f.png](images/grade6_medium_multiple_choice_2fb6d90f.png)
 

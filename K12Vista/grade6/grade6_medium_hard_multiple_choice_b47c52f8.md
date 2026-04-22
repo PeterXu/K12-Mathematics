@@ -7,9 +7,10 @@
 ## 题目
 a、b、c在数轴上的位置如图所示，下面式子中结果与c最接近的是（    ）。 
 
-$\begin{description}
-\item A.b＋a\item B.b－a\item C.b×a\item D.b÷a
-\end{description}$
+A.b＋a
+B.b－a
+C.b×a
+D.b÷a
 ![grade6_medium_hard_multiple_choice_b47c52f8.png](images/grade6_medium_hard_multiple_choice_b47c52f8.png)
 
 ## 解答

@@ -6,9 +6,10 @@
 
 ## 题目
 如图是一个边长为p60米的正方形，甲、乙两人同时从2点出发，甲逆时针每分行7左米，乙顺时针每分行4左米．两人第一次在CD边（不在CD两点）上相遇，是出发后的（  ）次相遇．
-$\begin{description}
-\item A．4\item B．5\item C．6\item D．7
-\end{description}$
+A．4
+B．5
+C．6
+D．7
 ![grade3_hard_multiple_choice_41cddb64.png](images/grade3_hard_multiple_choice_41cddb64.png)
 
 ## 解答

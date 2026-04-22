@@ -7,9 +7,9 @@
 ## 题目
 在两个完全相同的长方形中，阴影部分面积（  ）
 
-$\begin{description}
-\item A．a＞b\item B．a=b\item C．a＜b
-\end{description}$
+A．a＞b
+B．a=b
+C．a＜b
 ![grade6_medium_hard_multiple_choice_453500d4.png](images/grade6_medium_hard_multiple_choice_453500d4.png)
 
 ## 解答

@@ -6,9 +6,10 @@
 
 ## 题目
 如图，计算这个长方形的周长正确的方法是（  ）
-$\begin{description}
-\item A．4+3\item B．4×3\item C．4+3×2\item D．4+3+4+3
-\end{description}$
+A．4+3
+B．4×3
+C．4+3×2
+D．4+3+4+3
 ![grade6_medium_hard_multiple_choice_0c8a00b1.png](images/grade6_medium_hard_multiple_choice_0c8a00b1.png)
 
 ## 解答

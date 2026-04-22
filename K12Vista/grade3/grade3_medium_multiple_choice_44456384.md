@@ -7,9 +7,9 @@
 ## 题目
 计算下图中桃子的个数，正确的算式是(  )。
 
-$\begin{description}
-\item A．6×3\item B．3×6－2\item C．3×5＋2
-\end{description}$
+A．6×3
+B．3×6－2
+C．3×5＋2
 
 ![grade3_medium_multiple_choice_44456384.png](images/grade3_medium_multiple_choice_44456384.png)
 

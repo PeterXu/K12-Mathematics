@@ -7,9 +7,10 @@
 ## 题目
 （    ）算式的得数与N最接近。 
 
-$\begin{description}
-\item A.0.3÷0.6\item B.2.5÷5.8\item C.0.3－0.2\item D.0.25×6
-\end{description}$
+A.0.3÷0.6
+B.2.5÷5.8
+C.0.3－0.2
+D.0.25×6
 ![grade6_medium_hard_multiple_choice_faa14592.png](images/grade6_medium_hard_multiple_choice_faa14592.png)
 
 ## 解答

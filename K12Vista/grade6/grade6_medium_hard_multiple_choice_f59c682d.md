@@ -6,9 +6,10 @@
 
 ## 题目
 如图是农村半圆柱形的蔬菜棚，建造这样一个大棚（两头封堵），大约需要（  ）平方米的塑料布（保留整数）
-$\begin{description}
-\item A．240\item B．243\item C．254\item D．471
-\end{description}$
+A．240
+B．243
+C．254
+D．471
 ![grade6_medium_hard_multiple_choice_f59c682d.png](images/grade6_medium_hard_multiple_choice_f59c682d.png)
 
 ## 解答

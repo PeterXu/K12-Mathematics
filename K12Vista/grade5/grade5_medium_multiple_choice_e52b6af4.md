@@ -7,9 +7,11 @@
 ## 题目
 如图是一个正方体的展开图，与6号相对的面是（  ）面．
 
-$\begin{description}
-\item A．2\item B．4\item C．5\item D．1\item E．3
-\end{description}$
+A．2
+B．4
+C．5
+D．1
+E．3
 
 ![grade5_medium_multiple_choice_e52b6af4.png](images/grade5_medium_multiple_choice_e52b6af4.png)
 

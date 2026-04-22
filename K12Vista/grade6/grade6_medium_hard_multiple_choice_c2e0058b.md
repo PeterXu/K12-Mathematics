@@ -6,9 +6,9 @@
 
 ## 题目
 如图是某校六年级一班40名同学课外活动时喜欢的体育运动扇形统计图，那么喜欢做游戏的同学有（  ）人．
-$\begin{description}
-\item A．45\%\item B．45\item C．18
-\end{description}$
+A．45\%
+B．45
+C．18
 ![grade6_medium_hard_multiple_choice_c2e0058b.png](images/grade6_medium_hard_multiple_choice_c2e0058b.png)
 
 ## 解答

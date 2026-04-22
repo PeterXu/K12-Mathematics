@@ -23,9 +23,9 @@ $\begin{array}{|c|c|c|c|c|}
  \\\hline
 \end{array}$
 估一估，这头大象大约重（   ）。
-$\begin{description}
-\item A．300千克\item B．3000千克\item C．2吨
-\end{description}$
+A．300千克
+B．3000千克
+C．2吨
 
 ![grade6_medium_hard_multiple_choice_01203737.png](images/grade6_medium_hard_multiple_choice_01203737.png)
 

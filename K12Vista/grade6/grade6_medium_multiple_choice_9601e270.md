@@ -7,9 +7,10 @@
 ## 题目
 比较下面两个图形的周长(单位：厘米)，结果是左图（）右图
 
-$\begin{description}
-\item A．＞\item B．＜\item C．＝\item D．≠
-\end{description}$
+A．＞
+B．＜
+C．＝
+D．≠
 
 ![grade6_medium_multiple_choice_9601e270.png](images/grade6_medium_multiple_choice_9601e270.png)
 

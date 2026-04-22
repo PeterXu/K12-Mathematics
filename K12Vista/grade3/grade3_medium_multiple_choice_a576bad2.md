@@ -7,9 +7,9 @@
 ## 题目
 下图中有(  )组直线相交。
 
-$\begin{description}
-\item A．2\item B．3\item C．4
-\end{description}$
+A．2
+B．3
+C．4
 
 ![grade3_medium_multiple_choice_a576bad2.png](images/grade3_medium_multiple_choice_a576bad2.png)
 

@@ -6,9 +6,9 @@
 
 ## 题目
 如图是两个同学对同一个圆柱的两种不同的切分，此圆柱（平均分成两块）的侧面沿高剪开正好得到一个正方形，（  ）种分法的截面积大．
-$\begin{description}
-\item A．甲\item B．乙\item C．无法确定
-\end{description}$
+A．甲
+B．乙
+C．无法确定
 ![grade6_hard_multiple_choice_7664f4df.png](images/grade6_hard_multiple_choice_7664f4df.png)
 
 ## 解答

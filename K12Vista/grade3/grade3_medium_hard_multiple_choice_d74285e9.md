@@ -6,9 +6,9 @@
 
 ## 题目
 钟面上表示的时间是（  ）
-$\begin{description}
-\item A．12时\item B．12时30分\item C．6时
-\end{description}$
+A．12时
+B．12时30分
+C．6时
 ![grade3_medium_hard_multiple_choice_d74285e9.png](images/grade3_medium_hard_multiple_choice_d74285e9.png)
 
 ## 解答

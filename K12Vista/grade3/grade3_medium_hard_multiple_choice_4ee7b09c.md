@@ -6,9 +6,9 @@
 
 ## 题目
 由图形1不能变为图形2的方法是（  ）
-$\begin{description}
-\item A．图形1绕O点逆时针方向旋转90°得到图形2\item B．图形1绕O点顺时针方向旋转90°得到图形2\item C．图形1以线段OP为对称轴画图形1的轴对称得到图形2
-\end{description}$
+A．图形1绕O点逆时针方向旋转90°得到图形2
+B．图形1绕O点顺时针方向旋转90°得到图形2
+C．图形1以线段OP为对称轴画图形1的轴对称得到图形2
 ![grade3_medium_hard_multiple_choice_4ee7b09c.png](images/grade3_medium_hard_multiple_choice_4ee7b09c.png)
 
 ## 解答

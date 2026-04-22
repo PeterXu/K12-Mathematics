@@ -7,9 +7,9 @@
 ## 题目
 观察下列点阵图并找出规律，下一个点阵图中点的个数为（ ）。 
 
-$\begin{description}
-\item A．16点\item B．18点\item C．20点
-\end{description}$
+A．16点
+B．18点
+C．20点
 
 ![grade3_medium_multiple_choice_1c7eaa41.png](images/grade3_medium_multiple_choice_1c7eaa41.png)
 

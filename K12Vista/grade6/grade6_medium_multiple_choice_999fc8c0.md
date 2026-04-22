@@ -7,9 +7,9 @@
 ## 题目
 图①的面积(     )图②的面积。
 
-$\begin{description}
-\item A．>\item B．<\item C．=
-\end{description}$
+A．>
+B．<
+C．=
 
 ![grade6_medium_multiple_choice_999fc8c0.png](images/grade6_medium_multiple_choice_999fc8c0.png)
 

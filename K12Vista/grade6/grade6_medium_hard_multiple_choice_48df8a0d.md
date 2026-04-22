@@ -7,9 +7,9 @@
 ## 题目
 根据线段图，如图错误的算式是（  ）
 
-$\begin{description}
-\item A．38×2-16\item B．38-16+38\item C．38×3-16
-\end{description}$
+A．38×2-16
+B．38-16+38
+C．38×3-16
 ![grade6_medium_hard_multiple_choice_48df8a0d.png](images/grade6_medium_hard_multiple_choice_48df8a0d.png)
 
 ## 解答

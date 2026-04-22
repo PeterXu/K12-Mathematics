@@ -7,9 +7,9 @@
 ## 题目
 下面两个图形的周长相比较，结果是（    ）。 
 
-$\begin{description}
-\item A.甲＞乙\item B.甲＜乙\item C.甲＝乙
-\end{description}$
+A.甲＞乙
+B.甲＜乙
+C.甲＝乙
 ![grade6_medium_hard_multiple_choice_71dd6664.png](images/grade6_medium_hard_multiple_choice_71dd6664.png)
 
 ## 解答

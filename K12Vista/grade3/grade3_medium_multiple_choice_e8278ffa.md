@@ -7,9 +7,9 @@
 ## 题目
 如右图，这两个图形（   ）。
 
-$\begin{description}
-\item A．周长相等，面积相等。\item B．周长相等，面积不等。\item C．周长不等，面积相等。
-\end{description}$
+A．周长相等，面积相等。
+B．周长相等，面积不等。
+C．周长不等，面积相等。
 
 ![grade3_medium_multiple_choice_e8278ffa.png](images/grade3_medium_multiple_choice_e8278ffa.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 如图，以O点为观测点，在O点西南的点是（    ）。
 
-$\begin{description}
-\item A．①②\item B．③④\item C．⑤
-\end{description}$
+A．①②
+B．③④
+C．⑤
 
 ![grade3_medium_multiple_choice_ae863853.png](images/grade3_medium_multiple_choice_ae863853.png)
 

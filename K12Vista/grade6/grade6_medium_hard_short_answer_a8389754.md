@@ -6,7 +6,7 @@
 
 ## 题目
 如图，将一个长为4cm，宽为3cm的长方形，分别绕它的长，宽所在的直线旋转一周，得到不同的圆柱体，它们的体积分别是多少？
- $(V_{圆柱}=πr^{2}d)$
+ $V_{圆柱}=πr^{2}d$
 
 
 ![grade6_medium_hard_short_answer_a8389754.png](images/grade6_medium_hard_short_answer_a8389754.png)

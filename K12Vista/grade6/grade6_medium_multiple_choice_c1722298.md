@@ -7,9 +7,9 @@
 ## 题目
 像这样先折后剪会得到一个（   ）。
 
-$\begin{description}
-\item A．正方形\item B．长方形\item C．圆形
-\end{description}$
+A．正方形
+B．长方形
+C．圆形
 
 ![grade6_medium_multiple_choice_c1722298.png](images/grade6_medium_multiple_choice_c1722298.png)
 

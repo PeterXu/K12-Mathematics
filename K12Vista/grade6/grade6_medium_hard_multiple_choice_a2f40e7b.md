@@ -6,9 +6,9 @@
 
 ## 题目
 买4把小刀用去7.5元，买同样的6把小刀用去多少元？列式正确的是（  ）
-$\begin{description}
-\item A．7.5÷4×6\item B．7.5÷（6÷4）\item C．6÷（7.5÷4）
-\end{description}$
+A．7.5÷4×6
+B．7.5÷（6÷4）
+C．6÷（7.5÷4）
 ![grade6_medium_hard_multiple_choice_a2f40e7b.png](images/grade6_medium_hard_multiple_choice_a2f40e7b.png)
 
 ## 解答

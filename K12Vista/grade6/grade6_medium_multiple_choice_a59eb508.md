@@ -7,9 +7,9 @@
 ## 题目
 下图是在一组平行线之间画出了一个底是3cm的平行四边形和一个底是6厘米的三角形。两者的面积相比较（  ）。       
 
-$\begin{description}
-\item A．三角形的面积大\item B．平行四边形的面积大\item C．一样大
-\end{description}$
+A．三角形的面积大
+B．平行四边形的面积大
+C．一样大
 
 ![grade6_medium_multiple_choice_a59eb508.png](images/grade6_medium_multiple_choice_a59eb508.png)
 

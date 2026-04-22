@@ -7,9 +7,10 @@
 ## 题目
 如图，下面4个正方形的边长都相等，共中阴影部分的面积相等的图形有（  ）
 
-$\begin{description}
-\item A．0个\item B．2个\item C．3个\item D．4个
-\end{description}$
+A．0个
+B．2个
+C．3个
+D．4个
 ![grade6_medium_hard_multiple_choice_b7675a8e.png](images/grade6_medium_hard_multiple_choice_b7675a8e.png)
 
 ## 解答

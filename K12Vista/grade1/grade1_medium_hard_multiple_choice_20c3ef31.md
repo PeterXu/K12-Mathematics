@@ -6,9 +6,10 @@
 
 ## 题目
 一个三角形的下部被一张纸遮住了（如图），只露出了一个角，这个三角形是（  ）三角形．
-$\begin{description}
-\item A．钝角\item B．锐角\item C．直角\item D．无法确定
-\end{description}$
+A．钝角
+B．锐角
+C．直角
+D．无法确定
 ![grade1_medium_hard_multiple_choice_20c3ef31.png](images/grade1_medium_hard_multiple_choice_20c3ef31.png)
 
 ## 解答

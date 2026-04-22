@@ -7,9 +7,9 @@
 ## 题目
 图中，边长相等的两个正方形中，画了甲、乙两个三角形(用阴影表示)， 它们的面积相比（ ）
 
-$\begin{description}
-\item A．甲的面积大\item B．乙的面积大\item C．相等
-\end{description}$
+A．甲的面积大
+B．乙的面积大
+C．相等
 
 ![grade6_medium_multiple_choice_f8118c6d.png](images/grade6_medium_multiple_choice_f8118c6d.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 下面图形中平行四边形共有（  ）个。
 
-$\begin{description}
-\item A．3\item B．4\item C．5\item D．6
-\end{description}$
+A．3
+B．4
+C．5
+D．6
 
 ![grade6_medium_multiple_choice_4607a9d2.png](images/grade6_medium_multiple_choice_4607a9d2.png)
 

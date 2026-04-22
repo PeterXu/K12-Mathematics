@@ -6,9 +6,10 @@
 
 ## 题目
 下面是四、五年级的同学所喜欢的周末运动的统计图．根据图中资料，下列哪些结论是正确的？（  ）
-$\begin{description}
-\item A．参加调查的人中五年级比四年级多\item B．四年级比五年级更喜欢游泳\item C．四、五年级有半数以上的人喜欢郊游\item D．五年级喜欢滑冰的人是四年级的2倍
-\end{description}$
+A．参加调查的人中五年级比四年级多
+B．四年级比五年级更喜欢游泳
+C．四、五年级有半数以上的人喜欢郊游
+D．五年级喜欢滑冰的人是四年级的2倍
 ![grade6_medium_hard_multiple_choice_6a214aa7.png](images/grade6_medium_hard_multiple_choice_6a214aa7.png)
 
 ## 解答

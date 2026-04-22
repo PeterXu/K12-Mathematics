@@ -7,9 +7,9 @@
 ## 题目
 下图中两条平行线之间的三个图形的面积相比较，正确的是(    )．
 
-$\begin{description}
-\item A．平行四边形的面积大\item B．三角形的面积大\item C．三个图形的面积相等
-\end{description}$
+A．平行四边形的面积大
+B．三角形的面积大
+C．三个图形的面积相等
 
 ![grade6_medium_multiple_choice_9289e489.png](images/grade6_medium_multiple_choice_9289e489.png)
 

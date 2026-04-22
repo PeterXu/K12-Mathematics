@@ -7,9 +7,10 @@
 ## 题目
 小红同学将自己5月份的各项消费情况制成扇形统计图，从图中可以看出（  ）。
 
-$\begin{description}
-\item A．各项消费金额的增减变化情况\item B．各项消费的金额\item C．消费的总金额\item D．各项消费占消费总金额的百分比
-\end{description}$
+A．各项消费金额的增减变化情况
+B．各项消费的金额
+C．消费的总金额
+D．各项消费占消费总金额的百分比
 
 ![grade6_medium_multiple_choice_44747fcf.png](images/grade6_medium_multiple_choice_44747fcf.png)
 

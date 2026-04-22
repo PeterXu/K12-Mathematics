@@ -6,9 +6,9 @@
 
 ## 题目
 如图，把一个半径是10cm的圆剪拼成一个近似的长方形，，现在的长方形的周长是（  ）cm．
-$\begin{description}
-\item A．31.4\item B．62.8\item C．72.8    D、82.8
-\end{description}$
+A．31.4
+B．62.8
+C．72.8    D、82.8
 ![grade6_medium_hard_multiple_choice_f818e114.png](images/grade6_medium_hard_multiple_choice_f818e114.png)
 
 ## 解答

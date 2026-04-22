@@ -6,9 +6,10 @@
 
 ## 题目
 某地去年最后四个月的降水量如图，这个地方在这四个月里每月平均降水量（  ）毫米．
-$\begin{description}
-\item A．147\item B．98\item C．96\item D．86
-\end{description}$
+A．147
+B．98
+C．96
+D．86
 ![grade4_medium_hard_multiple_choice_f6a3257f.png](images/grade4_medium_hard_multiple_choice_f6a3257f.png)
 
 ## 解答

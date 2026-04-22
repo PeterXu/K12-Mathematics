@@ -7,9 +7,10 @@
 ## 题目
 下面三张图，周长最长的是 $\underline{\hspace{5em}}$  ，最短的是 $\underline{\hspace{5em}}$ 。正确选项是（ ）
 
-$\begin{description}
-\item A．图2；图1\item B．图3；图2\item C．图3；图4\item D．图2；图4；
-\end{description}$
+A．图2；图1
+B．图3；图2
+C．图3；图4
+D．图2；图4；
 
 ![grade6_medium_hard_multiple_choice_3fc13471.png](images/grade6_medium_hard_multiple_choice_3fc13471.png)
 

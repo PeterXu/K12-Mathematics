@@ -6,9 +6,10 @@
 
 ## 题目
 一个长方体礼品盒如图，长30厘米，宽20厘米，高是25厘米，接头处是30厘米，选择（  ）分米绳子更合适．
-$\begin{description}
-\item A．230分米\item B．33分米\item C．330分米\item D．23分米
-\end{description}$
+A．230分米
+B．33分米
+C．330分米
+D．23分米
 ![grade6_medium_hard_multiple_choice_77ccf75d.png](images/grade6_medium_hard_multiple_choice_77ccf75d.png)
 
 ## 解答

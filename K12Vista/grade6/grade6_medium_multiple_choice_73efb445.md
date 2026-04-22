@@ -7,9 +7,10 @@
 ## 题目
 下图中，有________个球。（    ）
 
-$\begin{description}
-\item A．2\item B．3\item C．4\item D．5
-\end{description}$
+A．2
+B．3
+C．4
+D．5
 
 ![grade6_medium_multiple_choice_73efb445.png](images/grade6_medium_multiple_choice_73efb445.png)
 

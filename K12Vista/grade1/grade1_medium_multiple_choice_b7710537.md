@@ -7,9 +7,9 @@
 ## 题目
 看下图列式计算，正确的是（ ）  
 
-$\begin{description}
-\item A．6－6=0(棵)\item B．6＋6=12(棵)\item C．12－6=6(棵)
-\end{description}$
+A．6－6=0(棵)
+B．6＋6=12(棵)
+C．12－6=6(棵)
 
 ![grade1_medium_multiple_choice_b7710537.png](images/grade1_medium_multiple_choice_b7710537.png)
 

@@ -7,9 +7,10 @@
 ## 题目
 如下图，一个饮料瓶内饮料的高度是6cm，将这个饮料瓶的瓶盖拧紧倒置放平，空余部分的高度是10cm．已知这个饮料瓶的容积是672mL，则瓶内的饮料有（   ）． 
 
-$\begin{description}
-\item A.42mL\item B.112mL\item C.252mL\item D.420mL
-\end{description}$
+A.42mL
+B.112mL
+C.252mL
+D.420mL
 ![grade6_medium_multiple_choice_db85997c.png](images/grade6_medium_multiple_choice_db85997c.png)
 
 ## 解答

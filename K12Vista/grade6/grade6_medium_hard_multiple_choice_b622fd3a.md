@@ -6,9 +6,9 @@
 
 ## 题目
 用两根完全相同的圆柱形木料分别制作成右图中的两个模型（图中涂色部分），甲与乙的体积相比（  ）
-$\begin{description}
-\item A．甲大\item B．乙大\item C．相等
-\end{description}$
+A．甲大
+B．乙大
+C．相等
 ![grade6_medium_hard_multiple_choice_b622fd3a.png](images/grade6_medium_hard_multiple_choice_b622fd3a.png)
 
 ## 解答

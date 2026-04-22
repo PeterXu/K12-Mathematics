@@ -7,9 +7,9 @@
 ## 题目
 如图图形中（ ）是四边形．
 
-$\begin{description}
-\item A．①②③\item B．①④⑤\item C．①②④⑤
-\end{description}$
+A．①②③
+B．①④⑤
+C．①②④⑤
 
 ![grade4_medium_multiple_choice_4962c8bf.png](images/grade4_medium_multiple_choice_4962c8bf.png)
 

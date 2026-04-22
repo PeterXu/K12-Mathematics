@@ -7,9 +7,10 @@
 ## 题目
 观察这个图1物体，从（ ）看到的图形和从图2看到的是一样的．
 
-$\begin{description}
-\item A．左面和右面\item B．右面和前面\item C．前面和上面\item D．上面和左面
-\end{description}$
+A．左面和右面
+B．右面和前面
+C．前面和上面
+D．上面和左面
 
 ![grade6_medium_multiple_choice_c46b7896.png](images/grade6_medium_multiple_choice_c46b7896.png)
 

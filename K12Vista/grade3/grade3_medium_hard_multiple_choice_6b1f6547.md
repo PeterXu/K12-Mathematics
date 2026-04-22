@@ -6,9 +6,10 @@
 
 ## 题目
 （  ）
-$\begin{description}
-\item A．8种\item B．12种\item C．6种\item D．5种
-\end{description}$
+A．8种
+B．12种
+C．6种
+D．5种
 ![grade3_medium_hard_multiple_choice_6b1f6547.png](images/grade3_medium_hard_multiple_choice_6b1f6547.png)
 
 ## 解答

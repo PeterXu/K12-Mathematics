@@ -7,9 +7,9 @@
 ## 题目
 如图，平行四边形的面积是4.8cm$^{2}$ ，阴影部分的面积（   ）2.4cm$^{2}$。
 
-$\begin{description}
-\item A．大于\item B．小于\item C．等于
-\end{description}$
+A．大于
+B．小于
+C．等于
 
 ![grade5_medium_multiple_choice_9aed66de.png](images/grade5_medium_multiple_choice_9aed66de.png)
 

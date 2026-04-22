@@ -7,9 +7,10 @@
 ## 题目
 如果将如图中的绳子拉直，它的长度大约为（  ）厘米．
 
-$\begin{description}
-\item A．4\item B．5\item C．6\item D．8
-\end{description}$
+A．4
+B．5
+C．6
+D．8
 ![grade3_medium_hard_multiple_choice_f3015b52.png](images/grade3_medium_hard_multiple_choice_f3015b52.png)
 
 ## 解答

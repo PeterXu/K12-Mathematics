@@ -7,9 +7,10 @@
 ## 题目
 下面三幅图的阴影部分的周长相比较，（     ）。 
 
-$\begin{description}
-\item A．图(1)大\item B．图(2)大\item C．图(3)大\item D．同样大
-\end{description}$
+A．图(1)大
+B．图(2)大
+C．图(3)大
+D．同样大
 
 ![grade6_medium_multiple_choice_4acf182e.png](images/grade6_medium_multiple_choice_4acf182e.png)
 

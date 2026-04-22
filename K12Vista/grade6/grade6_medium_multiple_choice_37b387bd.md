@@ -8,9 +8,10 @@
 观察下列图形，则第n个图形中三角形的个数是(     )。
 
 第1个          第2个         第3个
-$\begin{description}
-\item A．2n\item B．2n+2\item C．4n\item D．4n+4
-\end{description}$
+A．2n
+B．2n+2
+C．4n
+D．4n+4
 
 ![grade6_medium_multiple_choice_37b387bd.png](images/grade6_medium_multiple_choice_37b387bd.png)
 

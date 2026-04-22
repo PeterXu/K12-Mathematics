@@ -7,9 +7,10 @@
 ## 题目
 一个密封的瓶子里装着一些水（如图所示），已知瓶子的底面积为10 cm²，请你根据图中标明的数据，计算瓶子的容积是（   ）cm³．
 
-$\begin{description}
-\item A．80\item B．70\item C．60\item D．50
-\end{description}$
+A．80
+B．70
+C．60
+D．50
 
 ![grade6_medium_multiple_choice_f2e7ee01.png](images/grade6_medium_multiple_choice_f2e7ee01.png)
 

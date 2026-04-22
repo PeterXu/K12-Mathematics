@@ -7,9 +7,10 @@
 ## 题目
 如图是由一些相同的小正方形构成的几何体的三视图．
 有几个正方体（  ）
-$\begin{description}
-\item A．4\item B．5\item C．6\item D．7
-\end{description}$
+A．4
+B．5
+C．6
+D．7
 ![grade5_medium_hard_multiple_choice_355242d5.png](images/grade5_medium_hard_multiple_choice_355242d5.png)
 
 ## 解答

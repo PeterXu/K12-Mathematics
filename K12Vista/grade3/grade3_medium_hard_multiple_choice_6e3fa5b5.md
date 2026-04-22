@@ -7,9 +7,10 @@
 ## 题目
 有一些大小相同的正方体木块堆成一堆，从上往下看如图（1），从前往后看如图（2），从左往右看如图（3），这堆木块最少有 （  ）块．
 
-$\begin{description}
-\item A．20\item B．18\item C．16\item D．15
-\end{description}$
+A．20
+B．18
+C．16
+D．15
 ![grade3_medium_hard_multiple_choice_6e3fa5b5.png](images/grade3_medium_hard_multiple_choice_6e3fa5b5.png)
 
 ## 解答

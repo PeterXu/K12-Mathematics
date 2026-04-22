@@ -6,9 +6,9 @@
 
 ## 题目
 九图图形x体积是（  ）厘米$^{3}$．
-$\begin{description}
-\item A．100\item B．267\item C．240
-\end{description}$
+A．100
+B．267
+C．240
 ![grade5_medium_hard_multiple_choice_ccb9eacb.png](images/grade5_medium_hard_multiple_choice_ccb9eacb.png)
 
 ## 解答

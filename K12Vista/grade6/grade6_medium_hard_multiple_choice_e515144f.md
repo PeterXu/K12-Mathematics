@@ -7,9 +7,10 @@
 ## 题目
 观察下表，其中2=1×2，25=5×5，那么“？”处的数应填（  ）
 
-$\begin{description}
-\item A．4\item B．7\item C．12\item D．16
-\end{description}$
+A．4
+B．7
+C．12
+D．16
 ![grade6_medium_hard_multiple_choice_e515144f.png](images/grade6_medium_hard_multiple_choice_e515144f.png)
 
 ## 解答

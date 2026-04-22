@@ -7,9 +7,9 @@
 ## 题目
 如图8长方形分成两部分，想一想，哪个部分8周长长．（  ）
 
-$\begin{description}
-\item A．上面的\item B．下面的\item C．一样长
-\end{description}$
+A．上面的
+B．下面的
+C．一样长
 ![grade6_medium_hard_multiple_choice_4ae32bce.png](images/grade6_medium_hard_multiple_choice_4ae32bce.png)
 
 ## 解答

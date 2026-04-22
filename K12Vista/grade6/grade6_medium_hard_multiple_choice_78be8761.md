@@ -7,9 +7,10 @@
 ## 题目
 如下图，甲、乙两个图形的周长相比（   ）．
 
-$\begin{description}
-\item A．甲比乙长\item B．乙比甲长\item C．一样长\item D．不能确定
-\end{description}$
+A．甲比乙长
+B．乙比甲长
+C．一样长
+D．不能确定
 
 ![grade6_medium_hard_multiple_choice_78be8761.png](images/grade6_medium_hard_multiple_choice_78be8761.png)
 

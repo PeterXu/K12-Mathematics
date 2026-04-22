@@ -7,9 +7,9 @@
 ## 题目
 小明家可能有（  ）本书。
 
-$\begin{description}
-\item A．1285\item B．650\item C．1085
-\end{description}$
+A．1285
+B．650
+C．1085
 
 ![grade6_medium_multiple_choice_e99845f1.png](images/grade6_medium_multiple_choice_e99845f1.png)
 

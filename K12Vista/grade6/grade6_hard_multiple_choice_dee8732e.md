@@ -7,9 +7,10 @@
 ## 题目
 如图两图都是用1平方厘米的正方形拼成的，两个图比较（  ）
 
-$\begin{description}
-\item A．面积相等，周长也相等\item B．面积相等，周长不相等\item C．面积不相等，周长也不相等\item D．面积不相等，周长相等
-\end{description}$
+A．面积相等，周长也相等
+B．面积相等，周长不相等
+C．面积不相等，周长也不相等
+D．面积不相等，周长相等
 ![grade6_hard_multiple_choice_dee8732e.png](images/grade6_hard_multiple_choice_dee8732e.png)
 
 ## 解答

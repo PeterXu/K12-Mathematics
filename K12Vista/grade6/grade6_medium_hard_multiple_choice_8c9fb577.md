@@ -7,9 +7,10 @@
 ## 题目
 如图，用火柴棍拼成一排由三角形组成的图形，如果图形中含有16个三角形，则需要（  ）根火柴棍．
 
-$\begin{description}
-\item A．30根\item B．31根\item C．32根\item D．33根
-\end{description}$
+A．30根
+B．31根
+C．32根
+D．33根
 ![grade6_medium_hard_multiple_choice_8c9fb577.png](images/grade6_medium_hard_multiple_choice_8c9fb577.png)
 
 ## 解答

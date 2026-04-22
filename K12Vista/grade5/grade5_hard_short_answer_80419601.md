@@ -5,7 +5,7 @@
 **题型**: short_answer
 
 ## 题目
-我们知道(a+b)$^{2}$=a$^{2}$+2ab+b$^{2}$，你能利用下图发现(a-b)$^{2}$用字母怎样表示吗？
+我们知道(a+b$^{2}$=a$^{2}$+2ab+b$^{2}$，你能利用下图发现(a-b$^{2}$用字母怎样表示吗？
 
 
 ![grade5_hard_short_answer_80419601.png](images/grade5_hard_short_answer_80419601.png)

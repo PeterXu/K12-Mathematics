@@ -7,9 +7,10 @@
 ## 题目
 下图中以圆的半径为边长的正方形的面积是20平方厘米，圆的面积是（   ）
 
-$\begin{description}
-\item A．26.8平方厘米\item B．62.8平方厘米\item C．68.2平方厘米\item D．86.2平方厘米
-\end{description}$
+A．26.8平方厘米
+B．62.8平方厘米
+C．68.2平方厘米
+D．86.2平方厘米
 
 ![grade6_medium_multiple_choice_446e7893.png](images/grade6_medium_multiple_choice_446e7893.png)
 

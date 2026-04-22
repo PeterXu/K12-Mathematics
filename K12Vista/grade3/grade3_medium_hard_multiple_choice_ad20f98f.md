@@ -7,9 +7,10 @@
 ## 题目
 图中间问号处应为（  ）
 
-$\begin{description}
-\item A．22\item B．23\item C．24\item D．25
-\end{description}$
+A．22
+B．23
+C．24
+D．25
 ![grade3_medium_hard_multiple_choice_ad20f98f.png](images/grade3_medium_hard_multiple_choice_ad20f98f.png)
 
 ## 解答

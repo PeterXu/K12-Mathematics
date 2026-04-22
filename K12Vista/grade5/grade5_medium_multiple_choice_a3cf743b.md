@@ -7,9 +7,9 @@
 ## 题目
 看下图，列的方程正确的是(  )。
 
-$\begin{description}
-\item A．5\textit{x}＋12＝480\item B．5\textit{x}－12＝480\item C．6\textit{x}＋12＝480
-\end{description}$
+A．5\textit{x}＋12＝480
+B．5\textit{x}－12＝480
+C．6\textit{x}＋12＝480
 
 ![grade5_medium_multiple_choice_a3cf743b.png](images/grade5_medium_multiple_choice_a3cf743b.png)
 
@@ -17,9 +17,9 @@ $\begin{description}
 
 **答案**: C
 
-1. Step1:由图可知黑兔有\(x\)只，白兔有\(5x + 12\)只
-2. Step2:又知黑兔和白兔一共有\(480\)只，所以可列方程\(x + (5x + 12) = 480\)
-3. Step3:对\(x + (5x + 12) = 480\)去括号化简，得到\(x + 5x + 12 = 480\)，即\(6x + 12 = 480\)，故答案选C
+1. Step1:由图可知黑兔有$x$只，白兔有$5x + 12$只
+2. Step2:又知黑兔和白兔一共有$480$只，所以可列方程$x + (5x + 12) = 480$
+3. Step3:对$x + (5x + 12) = 480$去括号化简，得到$x + 5x + 12 = 480$，即$6x + 12 = 480$，故答案选C
 
 ## 知识点
 

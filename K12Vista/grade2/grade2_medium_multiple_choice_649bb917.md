@@ -7,9 +7,10 @@
 ## 题目
 下面这些汽车标志中，有(    )个不是轴对称图形。
 
-$\begin{description}
-\item A．2\item B．3\item C．4\item D．5
-\end{description}$
+A．2
+B．3
+C．4
+D．5
 
 ![grade2_medium_multiple_choice_649bb917.png](images/grade2_medium_multiple_choice_649bb917.png)
 

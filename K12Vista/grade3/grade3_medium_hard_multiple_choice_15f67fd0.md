@@ -7,9 +7,10 @@
 ## 题目
 若路灯的杆子距离某物体$\text{a}$米（如图），则下列说法中，正确的是（ ）
 
-$\begin{description}
-\item A．若\text{a}越小，则物体的影子越长\item B．若\text{a}越小，则物体的影子越短\item C．若\text{a}越大，则物体影子的长不会变\item D．若\text{a}越大，则物体的影子越短
-\end{description}$
+A．若\text{a}越小，则物体的影子越长
+B．若\text{a}越小，则物体的影子越短
+C．若\text{a}越大，则物体影子的长不会变
+D．若\text{a}越大，则物体的影子越短
 
 ![grade3_medium_hard_multiple_choice_15f67fd0.png](images/grade3_medium_hard_multiple_choice_15f67fd0.png)
 

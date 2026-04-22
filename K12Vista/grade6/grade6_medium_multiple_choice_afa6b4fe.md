@@ -7,9 +7,10 @@
 ## 题目
 把一张圆形纸片剪拼成一个近似的长方形，这个长方形的长是12.56厘米，圆的面积是（   ）平方厘米。
 
-$\begin{description}
-\item A．25.12\item B．50.24\item C．100.48\item D．200.96
-\end{description}$
+A．25.12
+B．50.24
+C．100.48
+D．200.96
 
 ![grade6_medium_multiple_choice_afa6b4fe.png](images/grade6_medium_multiple_choice_afa6b4fe.png)
 

@@ -6,9 +6,10 @@
 
 ## 题目
 如图中，各图形的面积（  ）
-$\begin{description}
-\item A．A的最大\item B．B的最大\item C．C的最大\item D．三个图形一样大
-\end{description}$
+A．A的最大
+B．B的最大
+C．C的最大
+D．三个图形一样大
 ![grade6_medium_hard_multiple_choice_9072ce8b.png](images/grade6_medium_hard_multiple_choice_9072ce8b.png)
 
 ## 解答

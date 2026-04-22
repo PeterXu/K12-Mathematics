@@ -6,9 +6,10 @@
 
 ## 题目
 一堆同样大小的正方体拼搭图形，从不同方向看到的图形分别如图：那么至少有（  ）块同样的正方体．
-$\begin{description}
-\item A．5\item B．6\item C．7\item D．8
-\end{description}$
+A．5
+B．6
+C．7
+D．8
 ![grade3_medium_hard_multiple_choice_0360b88b.png](images/grade3_medium_hard_multiple_choice_0360b88b.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 在梯形中（如图），三角形甲的面积和三角形乙的面积相比（    ）。
 
-$\begin{description}
-\item A．甲＞乙\item B．甲＜乙\item C．甲＝乙\item D．无法比较
-\end{description}$
+A．甲＞乙
+B．甲＜乙
+C．甲＝乙
+D．无法比较
 
 ![grade6_medium_multiple_choice_0ead561b.png](images/grade6_medium_multiple_choice_0ead561b.png)
 

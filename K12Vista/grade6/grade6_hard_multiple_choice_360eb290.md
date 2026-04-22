@@ -6,9 +6,10 @@
 
 ## 题目
 如图：MN分别为平行四边形相邻两边的中点，若平行四边形面积为1平方分米，那么图中面积为$\frac{1}{4}$平方分米的三角形有（  ）个．
-$\begin{description}
-\item A．3\item B．4\item C．5\item D．6
-\end{description}$
+A．3
+B．4
+C．5
+D．6
 ![grade6_hard_multiple_choice_360eb290.png](images/grade6_hard_multiple_choice_360eb290.png)
 
 ## 解答

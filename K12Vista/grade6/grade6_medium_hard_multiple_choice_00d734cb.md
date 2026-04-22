@@ -6,9 +6,9 @@
 
 ## 题目
 如图是从一幅中国地图上描下来的四个省的图形．其中安徽省的面积大约是13.97万平方千米，（  ）省面积大约是它的150%．
-$\begin{description}
-\item A．湖南省\item B．四川省\item C．江苏省
-\end{description}$
+A．湖南省
+B．四川省
+C．江苏省
 ![grade6_medium_hard_multiple_choice_00d734cb.png](images/grade6_medium_hard_multiple_choice_00d734cb.png)
 
 ## 解答

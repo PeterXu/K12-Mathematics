@@ -7,9 +7,10 @@
 ## 题目
 观察下图，下面的说法正确的是（    ）。 
 
-$\begin{description}
-\item A.学校在公园北偏西40°方向400m处\item B.少年宫在公园的东偏北20°方向300m处\item C.学校在公园西偏北40°方向400m处\item D.少年宫在公园北偏东70°方向300m处
-\end{description}$
+A.学校在公园北偏西40°方向400m处
+B.少年宫在公园的东偏北20°方向300m处
+C.学校在公园西偏北40°方向400m处
+D.少年宫在公园北偏东70°方向300m处
 ![grade6_hard_multiple_choice_56fa6289.png](images/grade6_hard_multiple_choice_56fa6289.png)
 
 ## 解答

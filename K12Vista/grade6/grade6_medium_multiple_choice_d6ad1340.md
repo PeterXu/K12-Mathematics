@@ -7,9 +7,10 @@
 ## 题目
 下面是两个面积相等的长方形，图中空白部分面积相比较，（    ）
 
-$\begin{description}
-\item A．甲>乙\item B．甲<乙\item C．甲=乙\item D．无法确定
-\end{description}$
+A．甲>乙
+B．甲<乙
+C．甲=乙
+D．无法确定
 
 ![grade6_medium_multiple_choice_d6ad1340.png](images/grade6_medium_multiple_choice_d6ad1340.png)
 

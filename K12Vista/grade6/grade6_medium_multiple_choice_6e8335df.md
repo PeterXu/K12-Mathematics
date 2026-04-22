@@ -7,9 +7,9 @@
 ## 题目
 如下图（单位：cm），求环形面积，列式正确的是（     ）。
 
-$\begin{description}
-\item A．3.14×30^{2}－20^{2}\item B．3.14×（30－20）^{2}\item C．3.14×（30^{2}－20^{2}）
-\end{description}$
+A．3.14×30^{2}－20^{2}
+B．3.14×（30－20）^{2}
+C．3.14×（30^{2}－20^{2}）
 
 ![grade6_medium_multiple_choice_6e8335df.png](images/grade6_medium_multiple_choice_6e8335df.png)
 

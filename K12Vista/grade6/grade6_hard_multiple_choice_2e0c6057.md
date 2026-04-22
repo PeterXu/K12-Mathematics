@@ -7,9 +7,10 @@
 ## 题目
 数一数，图中有（  ）个三角形．
 
-$\begin{description}
-\item A．30\item B．18个\item C．20\item D．21
-\end{description}$
+A．30
+B．18个
+C．20
+D．21
 ![grade6_hard_multiple_choice_2e0c6057.png](images/grade6_hard_multiple_choice_2e0c6057.png)
 
 ## 解答

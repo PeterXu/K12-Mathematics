@@ -7,9 +7,9 @@
 ## 题目
 小华可能有多少颗纪律星？（   ）
 
-$\begin{description}
-\item A．32颗\item B．50颗\item C．93颗
-\end{description}$
+A．32颗
+B．50颗
+C．93颗
 
 ![grade6_medium_multiple_choice_554fee88.png](images/grade6_medium_multiple_choice_554fee88.png)
 

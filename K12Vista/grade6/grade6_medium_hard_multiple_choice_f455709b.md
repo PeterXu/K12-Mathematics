@@ -7,9 +7,10 @@
 ## 题目
 下图中，平行线间三个图形的面积相比，（    ）。 
 
-$\begin{description}
-\item A.三角形的面积最大\item B.平行四边形的面积最大\item C.梯形的面积最大\item D.不能确定谁的面积最大
-\end{description}$
+A.三角形的面积最大
+B.平行四边形的面积最大
+C.梯形的面积最大
+D.不能确定谁的面积最大
 ![grade6_medium_hard_multiple_choice_f455709b.png](images/grade6_medium_hard_multiple_choice_f455709b.png)
 
 ## 解答

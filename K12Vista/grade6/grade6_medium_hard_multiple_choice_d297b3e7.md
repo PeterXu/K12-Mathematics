@@ -7,9 +7,10 @@
 ## 题目
 如图：△ABC，则顶点B 的位置用数对表示为（  ）
 
-$\begin{description}
-\item A．（3，1）\item B．（1，1）\item C．（6，4）\item D．（4，4）
-\end{description}$
+A．（3，1）
+B．（1，1）
+C．（6，4）
+D．（4，4）
 ![grade6_medium_hard_multiple_choice_d297b3e7.png](images/grade6_medium_hard_multiple_choice_d297b3e7.png)
 
 ## 解答

@@ -7,9 +7,10 @@
 ## 题目
 上楼的小朋友是靠（    ）边走。
 
-$\begin{description}
-\item A．左\item B．右\item C．前\item D．后
-\end{description}$
+A．左
+B．右
+C．前
+D．后
 
 ![grade1_medium_hard_multiple_choice_405a1cc7.png](images/grade1_medium_hard_multiple_choice_405a1cc7.png)
 

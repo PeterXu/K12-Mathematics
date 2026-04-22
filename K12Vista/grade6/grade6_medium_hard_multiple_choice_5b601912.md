@@ -7,9 +7,10 @@
 ## 题目
 如图中有（  ）个小于180$^{0}$的角．
 
-$\begin{description}
-\item A．5\item B．10\item C．15\item D．18
-\end{description}$
+A．5
+B．10
+C．15
+D．18
 ![grade6_medium_hard_multiple_choice_5b601912.png](images/grade6_medium_hard_multiple_choice_5b601912.png)
 
 ## 解答

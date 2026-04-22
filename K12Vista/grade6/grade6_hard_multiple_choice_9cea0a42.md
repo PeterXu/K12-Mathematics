@@ -7,9 +7,10 @@
 ## 题目
 如图等腰梯形中，两个阴影部分面积相比（  ）
 
-$\begin{description}
-\item A．甲大\item B．乙大\item C．一样大\item D．没法比
-\end{description}$
+A．甲大
+B．乙大
+C．一样大
+D．没法比
 ![grade6_hard_multiple_choice_9cea0a42.png](images/grade6_hard_multiple_choice_9cea0a42.png)
 
 ## 解答

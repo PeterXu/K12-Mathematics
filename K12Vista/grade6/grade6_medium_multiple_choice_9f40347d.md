@@ -7,9 +7,9 @@
 ## 题目
 如下图：一辆汽车早上8：00从A地出发，以平均每小时60千米的速度行驶，11：30到达目的地。目的地应该是（   ）。
 
-$\begin{description}
-\item A．甲城\item B．乙城\item C．丙城
-\end{description}$
+A．甲城
+B．乙城
+C．丙城
 
 ![grade6_medium_multiple_choice_9f40347d.png](images/grade6_medium_multiple_choice_9f40347d.png)
 

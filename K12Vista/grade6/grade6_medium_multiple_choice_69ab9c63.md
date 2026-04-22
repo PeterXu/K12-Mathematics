@@ -7,9 +7,9 @@
 ## 题目
 有三名同学参加二一班的竞选班长投票，这是全部同学的投票结果，（   ）会选上班长．
 
-$\begin{description}
-\item A．王明\item B．李红\item C．田新
-\end{description}$
+A．王明
+B．李红
+C．田新
 
 ![grade6_medium_multiple_choice_69ab9c63.png](images/grade6_medium_multiple_choice_69ab9c63.png)
 

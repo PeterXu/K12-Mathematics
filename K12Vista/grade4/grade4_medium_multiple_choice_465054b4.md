@@ -7,9 +7,10 @@
 ## 题目
 根据图示，计算“？“处的数，所列综合算式正确的是（ ）
 
-$\begin{description}
-\item A．（199+17）÷3-2\item B．（1994+17）×3+2\item C．（199-17）÷3-2\item D．199-17÷3+2
-\end{description}$
+A．（199+17）÷3-2
+B．（1994+17）×3+2
+C．（199-17）÷3-2
+D．199-17÷3+2
 
 ![grade4_medium_multiple_choice_465054b4.png](images/grade4_medium_multiple_choice_465054b4.png)
 

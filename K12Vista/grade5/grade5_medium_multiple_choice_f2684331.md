@@ -7,9 +7,10 @@
 ## 题目
 下图是一个正方体的展开图，和b面相对的面是（   ）面。
 
-$\begin{description}
-\item A．a\item B．d\item C．e\item D．f
-\end{description}$
+A．a
+B．d
+C．e
+D．f
 
 ![grade5_medium_multiple_choice_f2684331.png](images/grade5_medium_multiple_choice_f2684331.png)
 

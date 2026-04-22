@@ -7,9 +7,9 @@
 ## 题目
 如图所示，阴影部分的面积可以表示为（   ）。
 
-$\begin{description}
-\item A．ac\item B．a（b＋c）\item C．ab
-\end{description}$
+A．ac
+B．a（b＋c）
+C．ab
 
 ![grade6_medium_multiple_choice_50d1f016.png](images/grade6_medium_multiple_choice_50d1f016.png)
 

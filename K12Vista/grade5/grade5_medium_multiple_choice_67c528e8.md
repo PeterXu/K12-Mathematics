@@ -7,9 +7,10 @@
 ## 题目
 如下图，涂色部分是正方形，最大长方形的周长是(   )厘米。
 
-$\begin{description}
-\item A．15\item B．30\item C．24\item D．36
-\end{description}$
+A．15
+B．30
+C．24
+D．36
 
 ![grade5_medium_multiple_choice_67c528e8.png](images/grade5_medium_multiple_choice_67c528e8.png)
 

@@ -7,9 +7,9 @@
 ## 题目
 求图中梯形的面积，正确的算式是（  ）
 
-$\begin{description}
-\item A．（5+7）×6÷2\item B．（5+7）×5.2\item C．（5+7）×5.2÷2
-\end{description}$
+A．（5+7）×6÷2
+B．（5+7）×5.2
+C．（5+7）×5.2÷2
 ![grade6_medium_hard_multiple_choice_2a9bcb0a.png](images/grade6_medium_hard_multiple_choice_2a9bcb0a.png)
 
 ## 解答

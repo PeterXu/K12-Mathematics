@@ -7,9 +7,10 @@
 ## 题目
 如图，▱ABCD的周长60cm，则它的面积为（    ）cm$^{2}$．
 
-$\begin{description}
-\item A．98\item B．112\item C．128\item D．98或112
-\end{description}$
+A．98
+B．112
+C．128
+D．98或112
 
 ![grade5_medium_multiple_choice_1cbcdccd.png](images/grade5_medium_multiple_choice_1cbcdccd.png)
 
